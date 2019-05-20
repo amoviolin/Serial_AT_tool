@@ -1,0 +1,128 @@
+SetSector 0
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 1
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 2
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 3
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 4
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 5
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 6
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 7
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 8
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 9
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 10
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 11
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 12
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 13
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 14
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 
+SetSector 15
+Reset 
+Request0 
+AntiColl 
+Select 
+Authen 
+Halt 
+Request0 

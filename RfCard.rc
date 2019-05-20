@@ -1,0 +1,341 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\RfCard.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\RfCard.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 RfCard"
+FONT 9, "宋体"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "EE AVT host application",IDC_STATIC,40,10,119,8,
+                    SS_NOPREFIX
+    LTEXT           "Author:Jackson Wu           版权所有 (C) 2003",
+                    IDC_STATIC,39,18,119,23
+    DEFPUSHBUTTON   "确定",IDOK,178,7,50,14,WS_GROUP
+END
+
+IDD_RFCARD_DIALOG DIALOGEX 0, 0, 612, 375
+STYLE DS_MODALFRAME | DS_SETFOREGROUND | DS_3DLOOK | WS_MINIMIZEBOX | 
+    WS_MAXIMIZEBOX | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "EEPROM AVT 1.0"
+FONT 9, "宋体"
+BEGIN
+    EDITTEXT        IDC_RECYCLE,135,27,45,17,ES_AUTOHSCROLL | ES_NUMBER
+    CONTROL         "Spin1",IDC_RCL,"msctls_updown32",UDS_WRAP | 
+                    UDS_SETBUDDYINT | UDS_ALIGNRIGHT | UDS_AUTOBUDDY | 
+                    UDS_ARROWKEYS | UDS_NOTHOUSANDS,183,25,11,21
+    PUSHBUTTON      "Exit",IDCANCEL,442,278,37,16
+    LISTBOX         IDC_LIST_ALL_CMD,13,54,113,132,LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL
+    PUSHBUTTON      "==>>",IDC_ADD,137,50,45,19
+    LISTBOX         IDC_LIST_CMD,206,21,166,239,LBS_OWNERDRAWVARIABLE | 
+                    LBS_HASSTRINGS | LBS_NOINTEGRALHEIGHT | NOT WS_BORDER | 
+                    WS_VSCROLL | WS_HSCROLL | WS_TABSTOP,WS_EX_STATICEDGE
+    PUSHBUTTON      "Open",IDC_OPEN,137,76,45,20
+    PUSHBUTTON      "Save",IDC_SAVE,137,101,45,20
+    LISTBOX         IDC_LIST_FROM_MCU,419,23,171,240,LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL | WS_HSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Delete",IDC_BTN_DELETE,137,125,46,19
+    PUSHBUTTON      "Delete All",IDC_BTN_DELETE_ALL,137,149,45,20
+    PUSHBUTTON      "Run",IDC_RUN,210,278,42,18
+    PUSHBUTTON      "Step",IDC_STEP,270,278,38,17
+    GROUPBOX        "Command List",IDC_STATIC,7,39,124,151,BS_CENTER
+    GROUPBOX        "Operation",IDC_STATIC,200,7,179,259,BS_CENTER
+    GROUPBOX        "Response",IDC_STATIC,410,7,191,260,BS_CENTER
+    EDITTEXT        IDC_TRANS_VALUE,226,206,59,14,ES_AUTOHSCROLL | NOT 
+                    WS_VISIBLE
+    LTEXT           "Restore(4B)",IDC_STATIC,246,202,45,8,NOT WS_VISIBLE | 
+                    NOT WS_GROUP
+    PUSHBUTTON      "OpenPort",IDC_LINK,210,311,42,20
+    CONTROL         "CmdWindow",IDC_CMD,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,134,213,49,14
+    CONTROL         "RspWindow",IDC_RESP,"Button",BS_AUTORADIOBUTTON,134,230,
+                    51,10
+    COMBOBOX        IDC_COMM,342,317,46,43,CBS_DROPDOWNLIST | 
+                    CBS_AUTOHSCROLL | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_BDRT,342,335,45,41,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    CONTROL         "Crc Error",IDC_CRC,"Button",BS_AUTOCHECKBOX | NOT 
+                    WS_VISIBLE | WS_TABSTOP,235,178,52,10
+    CONTROL         "Parity Error",IDC_PARABITY,"Button",BS_AUTOCHECKBOX | 
+                    NOT WS_VISIBLE | WS_TABSTOP,236,191,64,10
+    GROUPBOX        "Option",IDC_STATIC,129,204,63,67
+    CONTROL         "Progress1",IDC_RUNPRGS,"msctls_progress32",PBS_VERTICAL | 
+                    PBS_SMOOTH | WS_BORDER,385,15,18,233
+    PUSHBUTTON      "Stop",IDC_STOP,380,278,40,17
+    CTEXT           "",IDC_CmdRatio,385,253,17,15,SS_CENTERIMAGE,
+                    WS_EX_TRANSPARENT | WS_EX_STATICEDGE
+    LTEXT           "Recycle Times",IDC_STATIC,132,15,56,8
+    CONTROL         "ShowResp",IDC_ShOWRESP,"Button",BS_AUTOCHECKBOX | NOT 
+                    WS_VISIBLE | WS_TABSTOP,235,208,50,10
+    LTEXT           "",IDC_CycleRatio,558,277,27,15,SS_CENTERIMAGE,
+                    WS_EX_TRANSPARENT | WS_EX_STATICEDGE
+    LTEXT           "Recycle Times:",IDC_STATIC,494,280,58,12
+    PUSHBUTTON      "Open version file",IDC_BUTTON3,403,217,76,18,NOT 
+                    WS_VISIBLE | WS_DISABLED
+    PUSHBUTTON      "Run Version",IDC_BUTTON4,414,186,54,18,NOT WS_VISIBLE | 
+                    WS_DISABLED
+    EDITTEXT        IDC_version,386,203,30,14,ES_AUTOHSCROLL | NOT 
+                    WS_VISIBLE | WS_DISABLED
+    LTEXT           "ID:",IDC_STATIC,413,205,14,12,NOT WS_VISIBLE | 
+                    WS_DISABLED
+    EDITTEXT        IDC_ID,403,199,58,14,ES_AUTOHSCROLL | NOT WS_VISIBLE
+    EDITTEXT        IDC_mode,258,213,32,14,ES_AUTOHSCROLL | NOT WS_VISIBLE
+    EDITTEXT        IDC_MODEedit,242,225,28,14,ES_AUTOHSCROLL | NOT 
+                    WS_VISIBLE
+    PUSHBUTTON      "Step&Next",IDC_BUTTON5,322,278,41,17
+    EDITTEXT        IDC_ErrorSum,558,300,27,15,ES_AUTOHSCROLL | NOT 
+                    WS_VISIBLE | WS_DISABLED
+    LTEXT           "Error Sum:",IDC_STATIC,496,304,52,14,NOT WS_VISIBLE
+    EDITTEXT        IDC_ErrorSum2,570,340,27,12,ES_AUTOHSCROLL | NOT 
+                    WS_VISIBLE | WS_DISABLED
+    LTEXT           " Assert Error Sum:",IDC_STATIC,490,341,75,10,NOT 
+                    WS_VISIBLE
+    CONTROL         "Stop@Error",IDC_StopAthen,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,135,246,53,8
+    CONTROL         "Stop@AtError",IDC_CHECK2,"Button",BS_AUTOCHECKBOX | NOT 
+                    WS_VISIBLE | WS_TABSTOP,136,261,48,9
+    COMBOBOX        IDC_COMBO1,7,18,119,50,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "  ",IDC_INFO,7,363,407,8
+    LTEXT           "Input Parameter:",IDC_STATIC_PARA,10,194,65,8
+    EDITTEXT        IDC_EDIT_PARA,10,206,115,33,ES_MULTILINE | WS_VSCROLL,
+                    WS_EX_STATICEDGE
+    LTEXT           "Parameter Comment:",IDC_STATIC_PARA_COMMENT,11,245,73,8
+    EDITTEXT        IDC_EDIT_PARA_COMMENT,11,255,114,34,ES_MULTILINE | 
+                    ES_READONLY | WS_VSCROLL,WS_EX_STATICEDGE
+    CONTROL         "USB",IDC_RADIO_USB,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,270,320,34,14
+    CONTROL         "UART",IDC_RADIO_UART,"Button",BS_AUTORADIOBUTTON,307,
+                    323,34,10
+    GROUPBOX        "Port",IDC_STATIC,261,308,130,45
+    PUSHBUTTON      "AddComment",IDC_BTN_ADDCOMMENT,137,174,45,20
+    LTEXT           "Select Device:",IDC_STATIC,12,297,57,8,NOT WS_GROUP
+    LISTBOX         IDC_LIST_DEVICE,71,297,61,63,LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "ORG",IDC_STATIC_ORG,12,316,55,44
+    CONTROL         "0",IDC_RADIO_0,"Button",BS_AUTORADIOBUTTON | WS_GROUP,
+                    30,330,20,10
+    CONTROL         "1",IDC_RADIO_1,"Button",BS_AUTORADIOBUTTON,30,346,20,10
+    EDITTEXT        IDC_DELAYTIME,144,291,40,14,ES_AUTOHSCROLL
+    LTEXT           "延时时间(毫秒)",IDC_STATIC,132,277,58,8
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "RfCard Microsoft 基础类应用程序\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "EE AVT\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2003\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "RfCard.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "EE AVT\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_RFCARD_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 588
+        TOPMARGIN, 7
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_RFCARD_DIALOG DLGINIT
+BEGIN
+    IDC_COMM, 0x403, 5, 0
+0x4f43, 0x314d, "\000" 
+    IDC_COMM, 0x403, 7, 0
+0x4f43, 0x324d, 0x2020, "\000" 
+    IDC_COMM, 0x403, 12, 0
+0x4f43, 0x334d, 0x2020, 0x2020, 0x2020, 0x0020, 
+    IDC_COMM, 0x403, 5, 0
+0x4f43, 0x344d, "\000" 
+    IDC_BDRT, 0x403, 5, 0
+0x3639, 0x3030, "\000" 
+    IDC_BDRT, 0x403, 6, 0
+0x3735, 0x3036, 0x0030, 
+    IDC_BDRT, 0x403, 7, 0
+0x3131, 0x3235, 0x3030, "\000" 
+    IDC_COMBO1, 0x403, 15, 0
+0x6f43, 0x6d6d, 0x6e6f, 0x4320, 0x6d6f, 0x616d, 0x646e, "\000" 
+    IDC_COMBO1, 0x403, 12, 0
+0x4949, 0x2043, 0x6f43, 0x6d6d, 0x6e61, 0x0064, 
+    IDC_COMBO1, 0x403, 12, 0
+0x5053, 0x2049, 0x6f43, 0x6d6d, 0x6e61, 0x0064, 
+    IDC_COMBO1, 0x403, 11, 0
+0x574d, 0x4320, 0x6d6f, 0x616d, 0x646e, "\000" 
+    IDC_COMBO1, 0x403, 11, 0
+0x5441, 0x4320, 0x6d6f, 0x616d, 0x646e, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于 RfCard(&A)..."
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\RfCard.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

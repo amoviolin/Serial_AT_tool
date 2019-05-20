@@ -1,0 +1,9776 @@
+Reset
+SetSector 1
+SetBlock 1
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5ef790b6
+Read
+Inc e33724c6
+Information issued by Andrew Huang: 5ef790b6 cmdC1 e33724c6 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B a4780066
+Read
+Dec 47ecdb8f
+Information issued by Andrew Huang: a4780066 cmdC0 47ecdb8f should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c006bdb5
+Read
+Inc 8983b813
+Transfer
+Read
+Information issued by Andrew Huang: c006bdb5 cmdC1 8983b813 should be c98a75c8 ...
+Compare  c98a75c8
+Write4B 911e7b88
+Read
+Dec 81174a02
+Transfer
+Read
+Information issued by Andrew Huang: 911e7b88 cmdC0 81174a02 should be 90073186 ...
+Compare  90073186
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7934eac8
+Read
+Inc 634bf9c6
+Information issued by Andrew Huang: 7934eac8 cmdC1 634bf9c6 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 80032c13
+Read
+Dec 42f24185
+Information issued by Andrew Huang: 80032c13 cmdC0 42f24185 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1d8ac18c
+Read
+Inc adcbc05b
+Transfer
+Read
+Information issued by Andrew Huang: 1d8ac18c cmdC1 adcbc05b should be 4b5681e7 ...
+Compare  4b5681e7
+Write4B 831bcee3
+Read
+Dec a8c7fc51
+Information issued by Andrew Huang: 831bcee3 cmdC0 a8c7fc51 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B bcd1d0a0
+Read
+Inc 248b4b49
+Transfer
+Read
+Information issued by Andrew Huang: bcd1d0a0 cmdC1 248b4b49 should be e15d1be9 ...
+Compare  e15d1be9
+Write4B c1fcfa80
+Read
+Dec c71a0c8e
+Information issued by Andrew Huang: c1fcfa80 cmdC0 c71a0c8e should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 4ace8bfd
+Read
+Inc ed536cda
+Information issued by Andrew Huang: 4ace8bfd cmdC1 ed536cda should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 97c023fd
+Read
+Dec e8740cd0
+Information issued by Andrew Huang: 97c023fd cmdC0 e8740cd0 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 850f6d3b
+Read
+Inc 4a74bf94
+Transfer
+Read
+Information issued by Andrew Huang: 850f6d3b cmdC1 4a74bf94 should be cf842ccf ...
+Compare  cf842ccf
+Write4B 7e88f101
+Read
+Dec a6fcde4d
+Transfer
+Read
+Information issued by Andrew Huang: 7e88f101 cmdC0 a6fcde4d should be 578c12b4 ...
+Compare  578c12b4
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a158925b
+Read
+Inc 975c9c2e
+Transfer
+Read
+Information issued by Andrew Huang: a158925b cmdC1 975c9c2e should be b8b52e89 ...
+Compare  b8b52e89
+Write4B e24bb0e8
+Read
+Dec 8e37901c
+Transfer
+Read
+Information issued by Andrew Huang: e24bb0e8 cmdC0 8e37901c should be d41420cc ...
+Compare  d41420cc
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7b403b87
+Read
+Inc 13259f26
+Information issued by Andrew Huang: 7b403b87 cmdC1 13259f26 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B b782b9d8
+Read
+Dec 3f5a9b7e
+Information issued by Andrew Huang: b782b9d8 cmdC0 3f5a9b7e should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1b0349e2
+Read
+Inc 25b27b4b
+Transfer
+Read
+Information issued by Andrew Huang: 1b0349e2 cmdC1 25b27b4b should be 40b5c52d ...
+Compare  40b5c52d
+Write4B 9fb6ecfb
+Read
+Dec d44b80a8
+Information issued by Andrew Huang: 9fb6ecfb cmdC0 d44b80a8 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0b5d9875
+Read
+Inc e3b7aec7
+Transfer
+Read
+Information issued by Andrew Huang: 0b5d9875 cmdC1 e3b7aec7 should be 6f15473c ...
+Compare  6f15473c
+Write4B 2ee8bafa
+Read
+Dec 492fd392
+Transfer
+Read
+Information issued by Andrew Huang: 2ee8bafa cmdC0 492fd392 should be e5b8e768 ...
+Compare  e5b8e768
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 94efe4b0
+Read
+Inc f78290ef
+Transfer
+Read
+Information issued by Andrew Huang: 94efe4b0 cmdC1 f78290ef should be 0c72759f ...
+Compare  0c72759f
+Write4B 962a9734
+Read
+Dec 35cdbf6b
+Information issued by Andrew Huang: 962a9734 cmdC0 35cdbf6b should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c6dc04c4
+Read
+Inc 9dbf643b
+Transfer
+Read
+Information issued by Andrew Huang: c6dc04c4 cmdC1 9dbf643b should be e49b68ff ...
+Compare  e49b68ff
+Write4B d77d5683
+Read
+Dec f166fae2
+Information issued by Andrew Huang: d77d5683 cmdC0 f166fae2 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e2a9c145
+Read
+Inc 2c2d2358
+Transfer
+Read
+Information issued by Andrew Huang: e2a9c145 cmdC1 2c2d2358 should be 0ed6e49d ...
+Compare  0ed6e49d
+Write4B f469203f
+Read
+Dec d8ace2b1
+Transfer
+Read
+Information issued by Andrew Huang: f469203f cmdC0 d8ace2b1 should be 9bbc3d8e ...
+Compare  9bbc3d8e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 8daef7ea
+Read
+Inc 1546dd2a
+Transfer
+Read
+Information issued by Andrew Huang: 8daef7ea cmdC1 1546dd2a should be a2f5d514 ...
+Compare  a2f5d514
+Write4B f26beee7
+Read
+Dec b9461472
+Transfer
+Read
+Information issued by Andrew Huang: f26beee7 cmdC0 b9461472 should be b925da75 ...
+Compare  b925da75
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fd5ea570
+Read
+Inc 1521932a
+Transfer
+Read
+Information issued by Andrew Huang: fd5ea570 cmdC1 1521932a should be 1280389a ...
+Compare  1280389a
+Write4B a2d2418b
+Read
+Dec a18bee43
+Transfer
+Read
+Information issued by Andrew Huang: a2d2418b cmdC0 a18bee43 should be 81465348 ...
+Compare  81465348
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B db519658
+Read
+Inc 2ab8f755
+Transfer
+Read
+Information issued by Andrew Huang: db519658 cmdC1 2ab8f755 should be 060a8dad ...
+Compare  060a8dad
+Write4B 59158e15
+Read
+Dec 6e8af5dd
+Transfer
+Read
+Information issued by Andrew Huang: 59158e15 cmdC0 6e8af5dd should be ea8a9838 ...
+Compare  ea8a9838
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fe23b917
+Read
+Inc 297a1552
+Transfer
+Read
+Information issued by Andrew Huang: fe23b917 cmdC1 297a1552 should be 279dce69 ...
+Compare  279dce69
+Write4B c72068ee
+Read
+Dec 236afd46
+Transfer
+Read
+Information issued by Andrew Huang: c72068ee cmdC0 236afd46 should be a3b56ba8 ...
+Compare  a3b56ba8
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f97dd359
+Read
+Inc 8a64b014
+Transfer
+Read
+Information issued by Andrew Huang: f97dd359 cmdC1 8a64b014 should be 03e2836d ...
+Compare  03e2836d
+Write4B 70a36666
+Read
+Dec 433e9786
+Transfer
+Read
+Information issued by Andrew Huang: 70a36666 cmdC0 433e9786 should be 2d64cee0 ...
+Compare  2d64cee0
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 75f438e7
+Read
+Inc 9ca70439
+Information issued by Andrew Huang: 75f438e7 cmdC1 9ca70439 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 5fcd832c
+Read
+Dec 41103982
+Transfer
+Read
+Information issued by Andrew Huang: 5fcd832c cmdC0 41103982 should be 1ebd49aa ...
+Compare  1ebd49aa
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7b376213
+Read
+Inc 2c848959
+Information issued by Andrew Huang: 7b376213 cmdC1 2c848959 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B c35c026a
+Read
+Dec 5d85d3bb
+Information issued by Andrew Huang: c35c026a cmdC0 5d85d3bb should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 501455f7
+Read
+Inc 5c78b1b8
+Information issued by Andrew Huang: 501455f7 cmdC1 5c78b1b8 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B aef370b1
+Read
+Dec 6a15f5d4
+Information issued by Andrew Huang: aef370b1 cmdC0 6a15f5d4 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6626bcf6
+Read
+Inc 8376ac06
+Transfer
+Read
+Information issued by Andrew Huang: 6626bcf6 cmdC1 8376ac06 should be 699d68fc ...
+Compare  699d68fc
+Write4B 979179e3
+Read
+Dec 304e4d60
+Information issued by Andrew Huang: 979179e3 cmdC0 304e4d60 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 941079f8
+Read
+Inc 472e958e
+Transfer
+Read
+Information issued by Andrew Huang: 941079f8 cmdC1 472e958e should be db3f0f86 ...
+Compare  db3f0f86
+Write4B 051b0e13
+Read
+Dec ade7d05b
+Transfer
+Read
+Information issued by Andrew Huang: 051b0e13 cmdC0 ade7d05b should be d7333db8 ...
+Compare  d7333db8
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5b307717
+Read
+Inc 2cee5f59
+Information issued by Andrew Huang: 5b307717 cmdC1 2cee5f59 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 9a5d57ae
+Read
+Dec eda71cdb
+Information issued by Andrew Huang: 9a5d57ae cmdC0 eda71cdb should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 159cfc77
+Read
+Inc 644605c8
+Transfer
+Read
+Information issued by Andrew Huang: 159cfc77 cmdC1 644605c8 should be 79e3023f ...
+Compare  79e3023f
+Write4B 864990b1
+Read
+Dec e70f98ce
+Information issued by Andrew Huang: 864990b1 cmdC0 e70f98ce should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B bedf6bd4
+Read
+Inc 46e7538d
+Transfer
+Read
+Information issued by Andrew Huang: bedf6bd4 cmdC1 46e7538d should be 05c6bf61 ...
+Compare  05c6bf61
+Write4B 133b02ca
+Read
+Dec a620904c
+Transfer
+Read
+Information issued by Andrew Huang: 133b02ca cmdC0 a620904c should be ed1a727e ...
+Compare  ed1a727e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a71372ac
+Read
+Inc aeeacc5d
+Transfer
+Read
+Information issued by Andrew Huang: a71372ac cmdC1 aeeacc5d should be d5fe3f09 ...
+Compare  d5fe3f09
+Write4B e0e01fb9
+Read
+Dec cf309c9e
+Transfer
+Read
+Information issued by Andrew Huang: e0e01fb9 cmdC0 cf309c9e should be 91af831b ...
+Compare  91af831b
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f24686f5
+Read
+Inc 5c9967b9
+Transfer
+Read
+Information issued by Andrew Huang: f24686f5 cmdC1 5c9967b9 should be 4edfeeae ...
+Compare  4edfeeae
+Write4B 1dc539a6
+Read
+Dec a2cc8845
+Transfer
+Read
+Information issued by Andrew Huang: 1dc539a6 cmdC0 a2cc8845 should be faf8b161 ...
+Compare  faf8b161
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 53d58804
+Read
+Inc e2f066c5
+Information issued by Andrew Huang: 53d58804 cmdC1 e2f066c5 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B a82ad63c
+Read
+Dec f4f00ee9
+Information issued by Andrew Huang: a82ad63c cmdC0 f4f00ee9 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3cba106c
+Read
+Inc 412dfd82
+Transfer
+Read
+Information issued by Andrew Huang: 3cba106c cmdC1 412dfd82 should be 7de80dee ...
+Compare  7de80dee
+Write4B b813cffc
+Read
+Dec bce32879
+Information issued by Andrew Huang: b813cffc cmdC0 bce32879 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7ae87e87
+Read
+Inc c7b2e28f
+Information issued by Andrew Huang: 7ae87e87 cmdC1 c7b2e28f should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 55e10df9
+Read
+Dec 0d63751a
+Transfer
+Read
+Information issued by Andrew Huang: 55e10df9 cmdC0 0d63751a should be 487d98df ...
+Compare  487d98df
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 8710b5e9
+Read
+Inc 9f7a0e3e
+Transfer
+Read
+Information issued by Andrew Huang: 8710b5e9 cmdC1 9f7a0e3e should be a68ac427 ...
+Compare  a68ac427
+Write4B c79bc74c
+Read
+Dec 09164d12
+Transfer
+Read
+Information issued by Andrew Huang: c79bc74c cmdC0 09164d12 should be be857a3a ...
+Compare  be857a3a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6b6e5c4f
+Read
+Inc 0277eb04
+Transfer
+Read
+Information issued by Andrew Huang: 6b6e5c4f cmdC1 0277eb04 should be 6de64753 ...
+Compare  6de64753
+Write4B 692ec06a
+Read
+Dec dc9974b9
+Transfer
+Read
+Information issued by Andrew Huang: 692ec06a cmdC0 dc9974b9 should be 0c954bb1 ...
+Compare  0c954bb1
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c675f559
+Read
+Inc 29c01f53
+Transfer
+Read
+Information issued by Andrew Huang: c675f559 cmdC1 29c01f53 should be f03614ac ...
+Compare  f03614ac
+Write4B b29cbbcc
+Read
+Dec 1699d12d
+Transfer
+Read
+Information issued by Andrew Huang: b29cbbcc cmdC0 1699d12d should be 9c02ea9f ...
+Compare  9c02ea9f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 015910be
+Read
+Inc bc781078
+Transfer
+Read
+Information issued by Andrew Huang: 015910be cmdC1 bc781078 should be 3dd12136 ...
+Compare  3dd12136
+Write4B 8350231c
+Read
+Dec 1c421738
+Information issued by Andrew Huang: 8350231c cmdC0 1c421738 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B aaa19197
+Read
+Inc a85a6a50
+Transfer
+Read
+Information issued by Andrew Huang: aaa19197 cmdC1 a85a6a50 should be d2fbfbe7 ...
+Compare  d2fbfbe7
+Write4B b33b1e98
+Read
+Dec 03703906
+Transfer
+Read
+Information issued by Andrew Huang: b33b1e98 cmdC0 03703906 should be afcae592 ...
+Compare  afcae592
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B bcbf5c72
+Read
+Inc 8c38c418
+Transfer
+Read
+Information issued by Andrew Huang: bcbf5c72 cmdC1 8c38c418 should be c8f8208a ...
+Compare  c8f8208a
+Write4B e5833d66
+Read
+Dec 2af17355
+Transfer
+Read
+Information issued by Andrew Huang: e5833d66 cmdC0 2af17355 should be ba91ca11 ...
+Compare  ba91ca11
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3a4e09d2
+Read
+Inc 506aefa0
+Information issued by Andrew Huang: 3a4e09d2 cmdC1 506aefa0 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 102e2ece
+Read
+Dec ba941075
+Transfer
+Read
+Information issued by Andrew Huang: 102e2ece cmdC0 ba941075 should be d59a1e59 ...
+Compare  d59a1e59
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 356ba58d
+Read
+Inc 610ed5c2
+Information issued by Andrew Huang: 356ba58d cmdC1 610ed5c2 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 9362c376
+Read
+Dec 61114dc2
+Information issued by Andrew Huang: 9362c376 cmdC0 61114dc2 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 20d3f4bf
+Read
+Inc 41b5d583
+Transfer
+Read
+Information issued by Andrew Huang: 20d3f4bf cmdC1 41b5d583 should be 6289ca42 ...
+Compare  6289ca42
+Write4B 119e96f7
+Read
+Dec f8da1af1
+Transfer
+Read
+Information issued by Andrew Huang: 119e96f7 cmdC0 f8da1af1 should be 98c47c06 ...
+Compare  98c47c06
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 57233dbc
+Read
+Inc 7132bbe2
+Information issued by Andrew Huang: 57233dbc cmdC1 7132bbe2 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B fab85b10
+Read
+Dec 791189f2
+Transfer
+Read
+Information issued by Andrew Huang: fab85b10 cmdC0 791189f2 should be 81a6d11e ...
+Compare  81a6d11e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 50118349
+Read
+Inc d3fe36a7
+Information issued by Andrew Huang: 50118349 cmdC1 d3fe36a7 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 244c3d21
+Read
+Dec e69dd0cd
+Transfer
+Read
+Information issued by Andrew Huang: 244c3d21 cmdC0 e69dd0cd should be bdae6c54 ...
+Compare  bdae6c54
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9c9207eb
+Read
+Inc f4a1dae9
+Transfer
+Read
+Information issued by Andrew Huang: 9c9207eb cmdC1 f4a1dae9 should be 1133e2d4 ...
+Compare  1133e2d4
+Write4B b10dbc79
+Read
+Dec 3e502d7c
+Information issued by Andrew Huang: b10dbc79 cmdC0 3e502d7c should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a7c818ae
+Read
+Inc f62484ec
+Transfer
+Read
+Information issued by Andrew Huang: a7c818ae cmdC1 f62484ec should be 1dec9d9a ...
+Compare  1dec9d9a
+Write4B 1f2b12b5
+Read
+Dec f612c8ec
+Transfer
+Read
+Information issued by Andrew Huang: 1f2b12b5 cmdC0 f612c8ec should be a91849c9 ...
+Compare  a91849c9
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e77df670
+Read
+Inc 84e32609
+Transfer
+Read
+Information issued by Andrew Huang: e77df670 cmdC1 84e32609 should be ec611c79 ...
+Compare  ec611c79
+Write4B 60865bdb
+Read
+Dec 3a982575
+Transfer
+Read
+Information issued by Andrew Huang: 60865bdb cmdC0 3a982575 should be 25ee3666 ...
+Compare  25ee3666
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 85e937a7
+Read
+Inc 027a8d04
+Transfer
+Read
+Information issued by Andrew Huang: 85e937a7 cmdC1 027a8d04 should be 8863c4ab ...
+Compare  8863c4ab
+Write4B f070f0f9
+Read
+Dec ef8d64df
+Transfer
+Read
+Information issued by Andrew Huang: f070f0f9 cmdC0 ef8d64df should be 80e38c1a ...
+Compare  80e38c1a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 8b59b755
+Read
+Inc 2720634e
+Transfer
+Read
+Information issued by Andrew Huang: 8b59b755 cmdC1 2720634e should be b27a1aa3 ...
+Compare  b27a1aa3
+Write4B 5bcd416c
+Read
+Dec 17b47f2f
+Transfer
+Read
+Information issued by Andrew Huang: 5bcd416c cmdC0 17b47f2f should be 4418c23d ...
+Compare  4418c23d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 001155f2
+Read
+Inc eff692df
+Transfer
+Read
+Information issued by Andrew Huang: 001155f2 cmdC1 eff692df should be 7007e8d1 ...
+Compare  7007e8d1
+Write4B beb5e520
+Read
+Dec 835da206
+Transfer
+Read
+Information issued by Andrew Huang: beb5e520 cmdC0 835da206 should be bb58431a ...
+Compare  bb58431a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 4fb2c80d
+Read
+Inc aed0f05d
+Transfer
+Read
+Information issued by Andrew Huang: 4fb2c80d cmdC1 aed0f05d should be 7e83b86a ...
+Compare  7e83b86a
+Write4B 3402b3a9
+Read
+Dec cd57529a
+Transfer
+Read
+Information issued by Andrew Huang: 3402b3a9 cmdC0 cd57529a should be e6ab610f ...
+Compare  e6ab610f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6faec975
+Read
+Inc f4588ee8
+Information issued by Andrew Huang: 6faec975 cmdC1 f4588ee8 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 7c4b1eed
+Read
+Dec ed4d78da
+Transfer
+Read
+Information issued by Andrew Huang: 7c4b1eed cmdC0 ed4d78da should be 0efda613 ...
+Compare  0efda613
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 595b706a
+Read
+Inc 41b1fd83
+Information issued by Andrew Huang: 595b706a cmdC1 41b1fd83 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B d1a3b893
+Read
+Dec 472dfb8e
+Transfer
+Read
+Information issued by Andrew Huang: d1a3b893 cmdC0 472dfb8e should be 8a75bd05 ...
+Compare  8a75bd05
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 78456f87
+Read
+Inc ca0e4494
+Information issued by Andrew Huang: 78456f87 cmdC1 ca0e4494 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 440ab4f3
+Read
+Dec 7bde15f7
+Transfer
+Read
+Information issued by Andrew Huang: 440ab4f3 cmdC0 7bde15f7 should be c82c9efc ...
+Compare  c82c9efc
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5ada1d2a
+Read
+Inc c118be82
+Information issued by Andrew Huang: 5ada1d2a cmdC1 c118be82 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B ab140183
+Read
+Dec 2f73fb5e
+Information issued by Andrew Huang: ab140183 cmdC0 2f73fb5e should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c24589a3
+Read
+Inc 322cc164
+Transfer
+Read
+Information issued by Andrew Huang: c24589a3 cmdC1 322cc164 should be f4724b07 ...
+Compare  f4724b07
+Write4B 6f6d3c2c
+Read
+Dec e6fbf4cd
+Transfer
+Read
+Information issued by Andrew Huang: 6f6d3c2c cmdC0 e6fbf4cd should be 0871475f ...
+Compare  0871475f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a7d41fc5
+Read
+Inc 5858bdb0
+Transfer
+Read
+Information issued by Andrew Huang: a7d41fc5 cmdC1 5858bdb0 should be 002cdd75 ...
+Compare  002cdd75
+Write4B b6acea4c
+Read
+Dec 2798e34f
+Transfer
+Read
+Information issued by Andrew Huang: b6acea4c cmdC0 2798e34f should be 8f1406fd ...
+Compare  8f1406fd
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 877465fa
+Read
+Inc 5c2afdb8
+Transfer
+Read
+Information issued by Andrew Huang: 877465fa cmdC1 5c2afdb8 should be e39f63b2 ...
+Compare  e39f63b2
+Write4B 0d97b2b1
+Read
+Dec d47b42a8
+Transfer
+Read
+Information issued by Andrew Huang: 0d97b2b1 cmdC0 d47b42a8 should be b91c7009 ...
+Compare  b91c7009
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 17d7f366
+Read
+Inc 93ba6027
+Transfer
+Read
+Information issued by Andrew Huang: 17d7f366 cmdC1 93ba6027 should be 2b92538d ...
+Compare  2b92538d
+Write4B e4c61196
+Read
+Dec 64d2d3c9
+Information issued by Andrew Huang: e4c61196 cmdC0 64d2d3c9 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 776e4fdb
+Read
+Inc f670fcec
+Information issued by Andrew Huang: 776e4fdb cmdC1 f670fcec should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 5a180bcd
+Read
+Dec a5d9704b
+Transfer
+Read
+Information issued by Andrew Huang: 5a180bcd cmdC0 a5d9704b should be 343e9b82 ...
+Compare  343e9b82
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B d77d8f3d
+Read
+Inc 8f32fa1e
+Transfer
+Read
+Information issued by Andrew Huang: d77d8f3d cmdC1 8f32fa1e should be e6b0895b ...
+Compare  e6b0895b
+Write4B b6385376
+Read
+Dec 106e4320
+Transfer
+Read
+Information issued by Andrew Huang: b6385376 cmdC0 106e4320 should be a5ca1056 ...
+Compare  a5ca1056
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 78c19775
+Read
+Inc 24011148
+Information issued by Andrew Huang: 78c19775 cmdC1 24011148 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 5ff6c4b3
+Read
+Dec 3aaf8775
+Transfer
+Read
+Information issued by Andrew Huang: 5ff6c4b3 cmdC0 3aaf8775 should be 25473d3e ...
+Compare  25473d3e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B ae2d04dc
+Read
+Inc f6d8aeed
+Transfer
+Read
+Information issued by Andrew Huang: ae2d04dc cmdC1 f6d8aeed should be 2505b3c9 ...
+Compare  2505b3c9
+Write4B 549b857f
+Read
+Dec 345fbf68
+Transfer
+Read
+Information issued by Andrew Huang: 549b857f cmdC0 345fbf68 should be 203bc617 ...
+Compare  203bc617
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f9181d3f
+Read
+Inc 07f0b90f
+Transfer
+Read
+Information issued by Andrew Huang: f9181d3f cmdC1 07f0b90f should be 0108d64e ...
+Compare  0108d64e
+Write4B 8a0f23ae
+Read
+Dec a538004a
+Information issued by Andrew Huang: 8a0f23ae cmdC0 a538004a should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 380a1919
+Read
+Inc 56ce7fad
+Information issued by Andrew Huang: 380a1919 cmdC1 56ce7fad should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 87a1f794
+Read
+Dec 680a6fd0
+Information issued by Andrew Huang: 87a1f794 cmdC0 680a6fd0 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0706f089
+Read
+Inc d7e1c6af
+Transfer
+Read
+Information issued by Andrew Huang: 0706f089 cmdC1 d7e1c6af should be 5ee8b738 ...
+Compare  5ee8b738
+Write4B f8d414a5
+Read
+Dec d0ebcca1
+Transfer
+Read
+Information issued by Andrew Huang: f8d414a5 cmdC0 d0ebcca1 should be a7e84804 ...
+Compare  a7e84804
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e0aed09b
+Read
+Inc 34243768
+Transfer
+Read
+Information issued by Andrew Huang: e0aed09b cmdC1 34243768 should be 14d30803 ...
+Compare  14d30803
+Write4B 49931b00
+Read
+Dec 41987f83
+Transfer
+Read
+Information issued by Andrew Huang: 49931b00 cmdC0 41987f83 should be 07fa9b7d ...
+Compare  07fa9b7d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 64b7440c
+Read
+Inc 8ae2ac15
+Transfer
+Read
+Information issued by Andrew Huang: 64b7440c cmdC1 8ae2ac15 should be 6f99f021 ...
+Compare  6f99f021
+Write4B 28617c14
+Read
+Dec 9ee6363d
+Transfer
+Read
+Information issued by Andrew Huang: 28617c14 cmdC0 9ee6363d should be 097b45d7 ...
+Compare  097b45d7
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5683a572
+Read
+Inc aba92e57
+Information issued by Andrew Huang: 5683a572 cmdC1 aba92e57 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B ec96a6c6
+Read
+Dec 393d9b72
+Transfer
+Read
+Information issued by Andrew Huang: ec96a6c6 cmdC0 393d9b72 should be b3590b54 ...
+Compare  b3590b54
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b4e5b425
+Read
+Inc 418d7383
+Transfer
+Read
+Information issued by Andrew Huang: b4e5b425 cmdC1 418d7383 should be f67327a8 ...
+Compare  f67327a8
+Write4B ed757756
+Read
+Dec 544fbfa8
+Transfer
+Read
+Information issued by Andrew Huang: ed757756 cmdC0 544fbfa8 should be 9925b7ae ...
+Compare  9925b7ae
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 49062545
+Read
+Inc defd9cbd
+Information issued by Andrew Huang: 49062545 cmdC1 defd9cbd should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B ae0a4274
+Read
+Dec 8582800b
+Transfer
+Read
+Information issued by Andrew Huang: ae0a4274 cmdC0 8582800b should be a887c269 ...
+Compare  a887c269
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B efa751ca
+Read
+Inc 694639d2
+Transfer
+Read
+Information issued by Andrew Huang: efa751ca cmdC1 694639d2 should be 58ed8b9c ...
+Compare  58ed8b9c
+Write4B 0ff974a5
+Read
+Dec eb1528d6
+Transfer
+Read
+Information issued by Andrew Huang: 0ff974a5 cmdC0 eb1528d6 should be a4e44bcf ...
+Compare  a4e44bcf
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e5a709f0
+Read
+Inc 1dec713b
+Transfer
+Read
+Information issued by Andrew Huang: e5a709f0 cmdC1 1dec713b should be 03937b2b ...
+Compare  03937b2b
+Write4B b5a6b1d7
+Read
+Dec 0c1dbd18
+Transfer
+Read
+Information issued by Andrew Huang: b5a6b1d7 cmdC0 0c1dbd18 should be a988f4bf ...
+Compare  a988f4bf
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 717c02fd
+Read
+Inc 31df4b63
+Information issued by Andrew Huang: 717c02fd cmdC1 31df4b63 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B d4051bbe
+Read
+Dec 671fa9ce
+Information issued by Andrew Huang: d4051bbe cmdC0 671fa9ce should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 46d129d1
+Read
+Inc 6b2191d6
+Information issued by Andrew Huang: 46d129d1 cmdC1 6b2191d6 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 147b58f1
+Read
+Dec 00308d00
+Transfer
+Read
+Information issued by Andrew Huang: 147b58f1 cmdC0 00308d00 should be 144acbf1 ...
+Compare  144acbf1
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 96261950
+Read
+Inc 8895ba11
+Transfer
+Read
+Information issued by Andrew Huang: 96261950 cmdC1 8895ba11 should be 9ebbd361 ...
+Compare  9ebbd361
+Write4B 47205987
+Read
+Dec a128b842
+Transfer
+Read
+Information issued by Andrew Huang: 47205987 cmdC0 a128b842 should be 25f7a145 ...
+Compare  25f7a145
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 67aadc6e
+Read
+Inc cfad0e9f
+Information issued by Andrew Huang: 67aadc6e cmdC1 cfad0e9f should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B b3e41ead
+Read
+Dec 1b802737
+Transfer
+Read
+Information issued by Andrew Huang: b3e41ead cmdC0 1b802737 should be 9863f776 ...
+Compare  9863f776
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3422de1f
+Read
+Inc c6adf48d
+Transfer
+Read
+Information issued by Andrew Huang: 3422de1f cmdC1 c6adf48d should be 7ad0d2ac ...
+Compare  7ad0d2ac
+Write4B 7f9044ce
+Read
+Dec 17b54f2f
+Transfer
+Read
+Information issued by Andrew Huang: 7f9044ce cmdC0 17b54f2f should be 67daf59f ...
+Compare  67daf59f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 685fa253
+Read
+Inc 249f2f49
+Information issued by Andrew Huang: 685fa253 cmdC1 249f2f49 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 16aae402
+Read
+Dec 9bb03e37
+Transfer
+Read
+Information issued by Andrew Huang: 16aae402 cmdC0 9bb03e37 should be fafaa5cb ...
+Compare  fafaa5cb
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 990c0526
+Read
+Inc dd9d70bb
+Transfer
+Read
+Information issued by Andrew Huang: 990c0526 cmdC1 dd9d70bb should be f6a975e1 ...
+Compare  f6a975e1
+Write4B 7a8f8ffa
+Read
+Dec a71f084e
+Transfer
+Read
+Information issued by Andrew Huang: 7a8f8ffa cmdC0 a71f084e should be 537087ac ...
+Compare  537087ac
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B d30a2282
+Read
+Inc 81694602
+Transfer
+Read
+Information issued by Andrew Huang: d30a2282 cmdC1 81694602 should be d4736884 ...
+Compare  d4736884
+Write4B 39ec9503
+Read
+Dec 7254d3e4
+Transfer
+Read
+Information issued by Andrew Huang: 39ec9503 cmdC0 7254d3e4 should be c797c11f ...
+Compare  c797c11f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 79c2e913
+Read
+Inc 9e73603c
+Information issued by Andrew Huang: 79c2e913 cmdC1 9e73603c should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B de3a094e
+Read
+Dec c508cc8a
+Transfer
+Read
+Information issued by Andrew Huang: de3a094e cmdC0 c508cc8a should be 99313cc4 ...
+Compare  99313cc4
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 22c7cd9e
+Read
+Inc 07cd2d0f
+Transfer
+Read
+Information issued by Andrew Huang: 22c7cd9e cmdC1 07cd2d0f should be 2a94faad ...
+Compare  2a94faad
+Write4B 5fc6dc45
+Read
+Dec 0bd7ab17
+Transfer
+Read
+Information issued by Andrew Huang: 5fc6dc45 cmdC0 0bd7ab17 should be 53ef312e ...
+Compare  53ef312e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6ebd2be2
+Read
+Inc 3fae597f
+Information issued by Andrew Huang: 6ebd2be2 cmdC1 3fae597f should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 6b796c67
+Read
+Dec 570875ae
+Transfer
+Read
+Information issued by Andrew Huang: 6b796c67 cmdC0 570875ae should be 1470f6b9 ...
+Compare  1470f6b9
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6f54b9d7
+Read
+Inc e08096c1
+Information issued by Andrew Huang: 6f54b9d7 cmdC1 e08096c1 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 8b6c42c5
+Read
+Dec c791be8f
+Information issued by Andrew Huang: 8b6c42c5 cmdC0 c791be8f should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6ae7f88c
+Read
+Inc d22472a4
+Information issued by Andrew Huang: 6ae7f88c cmdC1 d22472a4 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 3548afc0
+Read
+Dec d3196ea6
+Transfer
+Read
+Information issued by Andrew Huang: 3548afc0 cmdC0 d3196ea6 should be e22f411a ...
+Compare  e22f411a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 80b1dd3e
+Read
+Inc 3a70ef74
+Transfer
+Read
+Information issued by Andrew Huang: 80b1dd3e cmdC1 3a70ef74 should be bb22ccb2 ...
+Compare  bb22ccb2
+Write4B ca6fbb33
+Read
+Dec 184abd30
+Transfer
+Read
+Information issued by Andrew Huang: ca6fbb33 cmdC0 184abd30 should be b224fe03 ...
+Compare  b224fe03
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 4ae6bbf6
+Read
+Inc 8f25161e
+Transfer
+Read
+Information issued by Andrew Huang: 4ae6bbf6 cmdC1 8f25161e should be 5a0bd214 ...
+Compare  5a0bd214
+Write4B eb4d4b96
+Read
+Dec 0b7bb516
+Transfer
+Read
+Information issued by Andrew Huang: eb4d4b96 cmdC0 0b7bb516 should be dfd19680 ...
+Compare  dfd19680
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 34453815
+Read
+Inc 2eafd95d
+Transfer
+Read
+Information issued by Andrew Huang: 34453815 cmdC1 2eafd95d should be 62f51172 ...
+Compare  62f51172
+Write4B fcefed4f
+Read
+Dec bfbb6c7f
+Transfer
+Read
+Information issued by Andrew Huang: fcefed4f cmdC0 bfbb6c7f should be bd3480d0 ...
+Compare  bd3480d0
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3b3cd20e
+Read
+Inc 294c2b52
+Transfer
+Read
+Information issued by Andrew Huang: 3b3cd20e cmdC1 294c2b52 should be 6488fd60 ...
+Compare  6488fd60
+Write4B 20b69924
+Read
+Dec 6de21ddb
+Transfer
+Read
+Information issued by Andrew Huang: 20b69924 cmdC0 6de21ddb should be b2d47b49 ...
+Compare  b2d47b49
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b8c06985
+Read
+Inc 264c1f4c
+Transfer
+Read
+Information issued by Andrew Huang: b8c06985 cmdC1 264c1f4c should be df0c88d1 ...
+Compare  df0c88d1
+Write4B 54233cd9
+Read
+Dec 34eef369
+Transfer
+Read
+Information issued by Andrew Huang: 54233cd9 cmdC0 34eef369 should be 1f344970 ...
+Compare  1f344970
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B de64736b
+Read
+Inc a958e252
+Transfer
+Read
+Information issued by Andrew Huang: de64736b cmdC1 a958e252 should be 07bd55bd ...
+Compare  07bd55bd
+Write4B eb02b05b
+Read
+Dec 421c0f84
+Transfer
+Read
+Information issued by Andrew Huang: eb02b05b cmdC0 421c0f84 should be a8e6a0d7 ...
+Compare  a8e6a0d7
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e5014a6c
+Read
+Inc e1380ec2
+Transfer
+Read
+Information issued by Andrew Huang: e5014a6c cmdC1 e1380ec2 should be 4639592e ...
+Compare  4639592e
+Write4B 643f7c0e
+Read
+Dec b2de5c65
+Transfer
+Read
+Information issued by Andrew Huang: 643f7c0e cmdC0 b2de5c65 should be 31611fa9 ...
+Compare  31611fa9
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a63b5292
+Read
+Inc 26afad4d
+Transfer
+Read
+Information issued by Andrew Huang: a63b5292 cmdC1 26afad4d should be cceaffdf ...
+Compare  cceaffdf
+Write4B dab2baae
+Read
+Dec 90667620
+Transfer
+Read
+Information issued by Andrew Huang: dab2baae cmdC0 90667620 should be ca4c448e ...
+Compare  ca4c448e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9bf22e59
+Read
+Inc 3b726d76
+Transfer
+Read
+Information issued by Andrew Huang: 9bf22e59 cmdC1 3b726d76 should be d7649bcf ...
+Compare  d7649bcf
+Write4B f172247c
+Read
+Dec 2380c747
+Transfer
+Read
+Information issued by Andrew Huang: f172247c cmdC0 2380c747 should be cdf15d35 ...
+Compare  cdf15d35
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 860c7332
+Read
+Inc fe75fefc
+Transfer
+Read
+Information issued by Andrew Huang: 860c7332 cmdC1 fe75fefc should be 0482722e ...
+Compare  0482722e
+Write4B 05310382
+Read
+Dec 42a09785
+Transfer
+Read
+Information issued by Andrew Huang: 05310382 cmdC0 42a09785 should be c2906bfd ...
+Compare  c2906bfd
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B dde10726
+Read
+Inc 0d735f1a
+Transfer
+Read
+Information issued by Andrew Huang: dde10726 cmdC1 0d735f1a should be eb546640 ...
+Compare  eb546640
+Write4B 377a3b55
+Read
+Dec 6bc0b3d7
+Transfer
+Read
+Information issued by Andrew Huang: 377a3b55 cmdC0 6bc0b3d7 should be cbb9877e ...
+Compare  cbb9877e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 2128cd92
+Read
+Inc 86dfc00d
+Transfer
+Read
+Information issued by Andrew Huang: 2128cd92 cmdC1 86dfc00d should be 28088d9f ...
+Compare  28088d9f
+Write4B 4fef457d
+Read
+Dec f12feae2
+Transfer
+Read
+Information issued by Andrew Huang: 4fef457d cmdC0 f12feae2 should be debf5a9b ...
+Compare  debf5a9b
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 2610540f
+Read
+Inc b4084468
+Transfer
+Read
+Information issued by Andrew Huang: 2610540f cmdC1 b4084468 should be 5a189877 ...
+Compare  5a189877
+Write4B 974b07b8
+Read
+Dec 84047408
+Transfer
+Read
+Information issued by Andrew Huang: 974b07b8 cmdC0 84047408 should be 934693b0 ...
+Compare  934693b0
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5d90465c
+Read
+Inc 83cfa407
+Transfer
+Read
+Information issued by Andrew Huang: 5d90465c cmdC1 83cfa407 should be 615fea63 ...
+Compare  615fea63
+Write4B 523bae84
+Read
+Dec f74b14ee
+Transfer
+Read
+Information issued by Andrew Huang: 523bae84 cmdC0 f74b14ee should be daf09996 ...
+Compare  daf09996
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1f29eba1
+Read
+Inc 49569992
+Transfer
+Read
+Information issued by Andrew Huang: 1f29eba1 cmdC1 49569992 should be 68808533 ...
+Compare  68808533
+Write4B 7d1900cf
+Read
+Dec df218abe
+Transfer
+Read
+Information issued by Andrew Huang: 7d1900cf cmdC0 df218abe should be 1df77611 ...
+Compare  1df77611
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 531ec14a
+Read
+Inc d4a286a9
+Information issued by Andrew Huang: 531ec14a cmdC1 d4a286a9 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 4994c1da
+Read
+Dec 3211fb64
+Transfer
+Read
+Information issued by Andrew Huang: 4994c1da cmdC0 3211fb64 should be 1782c676 ...
+Compare  1782c676
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 2af83e26
+Read
+Inc 40725980
+Transfer
+Read
+Information issued by Andrew Huang: 2af83e26 cmdC1 40725980 should be 6b6a97a6 ...
+Compare  6b6a97a6
+Write4B acaa874d
+Read
+Dec 3431cd68
+Information issued by Andrew Huang: acaa874d cmdC0 3431cd68 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1235b559
+Read
+Inc 79cfc3f3
+Information issued by Andrew Huang: 1235b559 cmdC1 79cfc3f3 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B a1d0c1b9
+Read
+Dec f30542e6
+Information issued by Andrew Huang: a1d0c1b9 cmdC0 f30542e6 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B df8ee272
+Read
+Inc c8bb7c91
+Transfer
+Read
+Information issued by Andrew Huang: df8ee272 cmdC1 c8bb7c91 should be 284a5f03 ...
+Compare  284a5f03
+Write4B 19d6352e
+Read
+Dec 543c3fa8
+Transfer
+Read
+Information issued by Andrew Huang: 19d6352e cmdC0 543c3fa8 should be c599f586 ...
+Compare  c599f586
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B ed3fdf0e
+Read
+Inc 2c61cf58
+Transfer
+Read
+Information issued by Andrew Huang: ed3fdf0e cmdC1 2c61cf58 should be 19a1ae66 ...
+Compare  19a1ae66
+Write4B 40c4c69f
+Read
+Dec 4d0a479a
+Transfer
+Read
+Information issued by Andrew Huang: 40c4c69f cmdC0 4d0a479a should be f3ba7f05 ...
+Compare  f3ba7f05
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 46fce71f
+Read
+Inc e6aaaccd
+Information issued by Andrew Huang: 46fce71f cmdC1 e6aaaccd should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B d42a418b
+Read
+Dec c8158e90
+Transfer
+Read
+Information issued by Andrew Huang: d42a418b cmdC0 c8158e90 should be 8c14b2fb ...
+Compare  8c14b2fb
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 60523ed5
+Read
+Inc 96a2b82d
+Transfer
+Read
+Information issued by Andrew Huang: 60523ed5 cmdC1 96a2b82d should be 76f4f702 ...
+Compare  76f4f702
+Write4B 2447264d
+Read
+Dec 9f43423e
+Transfer
+Read
+Information issued by Andrew Huang: 2447264d cmdC0 9f43423e should be 0503e40f ...
+Compare  0503e40f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 93ab4647
+Read
+Inc 2c5e0358
+Transfer
+Read
+Information issued by Andrew Huang: 93ab4647 cmdC1 2c5e0358 should be c009499f ...
+Compare  c009499f
+Write4B 02049103
+Read
+Dec 6b9481d7
+Transfer
+Read
+Information issued by Andrew Huang: 02049103 cmdC0 6b9481d7 should be 96700f2c ...
+Compare  96700f2c
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 39cdbec8
+Read
+Inc 29a75553
+Transfer
+Read
+Information issued by Andrew Huang: 39cdbec8 cmdC1 29a75553 should be 6375141b ...
+Compare  6375141b
+Write4B 0de09089
+Read
+Dec c894ba91
+Transfer
+Read
+Information issued by Andrew Huang: 0de09089 cmdC0 c894ba91 should be c54bd5f8 ...
+Compare  c54bd5f8
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6f03d4cf
+Read
+Inc 465dc78c
+Information issued by Andrew Huang: 6f03d4cf cmdC1 465dc78c should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B bd589c16
+Read
+Dec 87e7080f
+Transfer
+Read
+Information issued by Andrew Huang: bd589c16 cmdC0 87e7080f should be b5719407 ...
+Compare  b5719407
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 41bdc234
+Read
+Inc e526f6ca
+Information issued by Andrew Huang: 41bdc234 cmdC1 e526f6ca should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 791e2656
+Read
+Dec 27e9ed4f
+Transfer
+Read
+Information issued by Andrew Huang: 791e2656 cmdC0 27e9ed4f should be 51343907 ...
+Compare  51343907
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1ab02fb0
+Read
+Inc df3b6abe
+Transfer
+Read
+Information issued by Andrew Huang: 1ab02fb0 cmdC1 df3b6abe should be 79eb9a6e ...
+Compare  79eb9a6e
+Write4B 1a382429
+Read
+Dec 8541660a
+Transfer
+Read
+Information issued by Andrew Huang: 1a382429 cmdC0 8541660a should be 14f6be1f ...
+Compare  14f6be1f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b7f748a4
+Read
+Inc d44c6ea8
+Transfer
+Read
+Information issued by Andrew Huang: b7f748a4 cmdC1 d44c6ea8 should be 0c43b74c ...
+Compare  0c43b74c
+Write4B 7ebdd99d
+Read
+Dec 42e78d85
+Transfer
+Read
+Information issued by Andrew Huang: 7ebdd99d cmdC0 42e78d85 should be 3bd64c18 ...
+Compare  3bd64c18
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5c3cec84
+Read
+Inc bb7cac76
+Information issued by Andrew Huang: 5c3cec84 cmdC1 bb7cac76 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 550c27b7
+Read
+Dec 13b66b27
+Transfer
+Read
+Information issued by Andrew Huang: 550c27b7 cmdC0 13b66b27 should be 4155bc90 ...
+Compare  4155bc90
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B faaeee75
+Read
+Inc 7dbb99fb
+Transfer
+Read
+Information issued by Andrew Huang: faaeee75 cmdC1 7dbb99fb should be 786a8870 ...
+Compare  786a8870
+Write4B 68acd2f7
+Read
+Dec a4dcf249
+Transfer
+Read
+Information issued by Andrew Huang: 68acd2f7 cmdC0 a4dcf249 should be 43cfe0ae ...
+Compare  43cfe0ae
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f13d64b2
+Read
+Inc 5b8eebb7
+Transfer
+Read
+Information issued by Andrew Huang: f13d64b2 cmdC1 5b8eebb7 should be 4ccc5069 ...
+Compare  4ccc5069
+Write4B 3e6f6643
+Read
+Dec c504d08a
+Transfer
+Read
+Information issued by Andrew Huang: 3e6f6643 cmdC0 c504d08a should be f96a95b9 ...
+Compare  f96a95b9
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 8f2f9520
+Read
+Inc d41f20a8
+Transfer
+Read
+Information issued by Andrew Huang: 8f2f9520 cmdC1 d41f20a8 should be e34eb5c8 ...
+Compare  e34eb5c8
+Write4B 783ea2af
+Read
+Dec caddae95
+Transfer
+Read
+Information issued by Andrew Huang: 783ea2af cmdC0 caddae95 should be 2d60f41a ...
+Compare  2d60f41a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 73160367
+Read
+Inc 38e7d371
+Information issued by Andrew Huang: 73160367 cmdC1 38e7d371 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 19adf3d9
+Read
+Dec ff7c3efe
+Transfer
+Read
+Information issued by Andrew Huang: 19adf3d9 cmdC0 ff7c3efe should be 9a31b4db ...
+Compare  9a31b4db
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 33cdecad
+Read
+Inc 22c52745
+Transfer
+Read
+Information issued by Andrew Huang: 33cdecad cmdC1 22c52745 should be 569313f2 ...
+Compare  569313f2
+Write4B 139d079a
+Read
+Dec c2fed685
+Transfer
+Read
+Information issued by Andrew Huang: 139d079a cmdC0 c2fed685 should be d09e3115 ...
+Compare  d09e3115
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B bed3d631
+Read
+Inc 13ce5527
+Transfer
+Read
+Information issued by Andrew Huang: bed3d631 cmdC1 13ce5527 should be d2a22b58 ...
+Compare  d2a22b58
+Write4B 5be83bb5
+Read
+Dec a1aee843
+Transfer
+Read
+Information issued by Andrew Huang: 5be83bb5 cmdC0 a1aee843 should be 3a395372 ...
+Compare  3a395372
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 82f09526
+Read
+Inc d5eb7cab
+Transfer
+Read
+Information issued by Andrew Huang: 82f09526 cmdC1 d5eb7cab should be d8dc11d1 ...
+Compare  d8dc11d1
+Write4B b8cced00
+Read
+Dec 678a25cf
+Information issued by Andrew Huang: b8cced00 cmdC0 678a25cf should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 80ba84c0
+Read
+Inc c9fdf293
+Transfer
+Read
+Information issued by Andrew Huang: 80ba84c0 cmdC1 c9fdf293 should be cab87753 ...
+Compare  cab87753
+Write4B bebc8292
+Read
+Dec 20668d40
+Transfer
+Read
+Information issued by Andrew Huang: bebc8292 cmdC0 20668d40 should be 9e55f552 ...
+Compare  9e55f552
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b004234e
+Read
+Inc bb964877
+Transfer
+Read
+Information issued by Andrew Huang: b004234e cmdC1 bb964877 should be eb9a6bc5 ...
+Compare  eb9a6bc5
+Write4B e2ea3cf2
+Read
+Dec fdc920fb
+Information issued by Andrew Huang: e2ea3cf2 cmdC0 fdc920fb should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0ea3c83a
+Read
+Inc 7ae947f5
+Information issued by Andrew Huang: 0ea3c83a cmdC1 7ae947f5 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 91e1939e
+Read
+Dec a9766052
+Information issued by Andrew Huang: 91e1939e cmdC0 a9766052 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 61e067bf
+Read
+Inc e2ccdcc5
+Information issued by Andrew Huang: 61e067bf cmdC1 e2ccdcc5 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 9a84d217
+Read
+Dec c589208b
+Information issued by Andrew Huang: 9a84d217 cmdC0 c589208b should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f18db1a2
+Read
+Inc 5b52ffb6
+Transfer
+Read
+Information issued by Andrew Huang: f18db1a2 cmdC1 5b52ffb6 should be 4ce0b158 ...
+Compare  4ce0b158
+Write4B 83265b4c
+Read
+Dec 3c669b78
+Information issued by Andrew Huang: 83265b4c cmdC0 3c669b78 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B cb34e4a8
+Read
+Inc 6e5811dc
+Transfer
+Read
+Information issued by Andrew Huang: cb34e4a8 cmdC1 6e5811dc should be 398cf684 ...
+Compare  398cf684
+Write4B 3bfc6bfe
+Read
+Dec 44f55b89
+Transfer
+Read
+Information issued by Andrew Huang: 3bfc6bfe cmdC0 44f55b89 should be f7071075 ...
+Compare  f7071075
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c5b6c4a2
+Read
+Inc 0dde871b
+Transfer
+Read
+Information issued by Andrew Huang: c5b6c4a2 cmdC1 0dde871b should be d3954bbd ...
+Compare  d3954bbd
+Write4B e4cbacc2
+Read
+Dec 45ebfb8b
+Transfer
+Read
+Information issued by Andrew Huang: e4cbacc2 cmdC0 45ebfb8b should be 9edfb137 ...
+Compare  9edfb137
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6cb492e5
+Read
+Inc 4e7f979c
+Information issued by Andrew Huang: 6cb492e5 cmdC1 4e7f979c should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B ecee732c
+Read
+Dec 13cd1527
+Transfer
+Read
+Information issued by Andrew Huang: ecee732c cmdC0 13cd1527 should be d9215e05 ...
+Compare  d9215e05
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 4b6f5360
+Read
+Inc 5d40fbba
+Information issued by Andrew Huang: 4b6f5360 cmdC1 5d40fbba should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 4af62152
+Read
+Dec a31eec46
+Transfer
+Read
+Information issued by Andrew Huang: 4af62152 cmdC0 a31eec46 should be 27d7350c ...
+Compare  27d7350c
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 973bd24c
+Read
+Inc 6a2397d4
+Transfer
+Read
+Information issued by Andrew Huang: 973bd24c cmdC1 6a2397d4 should be 015f6a20 ...
+Compare  015f6a20
+Write4B cb176de2
+Read
+Dec f08668e1
+Information issued by Andrew Huang: cb176de2 cmdC0 f08668e1 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 2e8f2525
+Read
+Inc b80aa870
+Transfer
+Read
+Information issued by Andrew Huang: 2e8f2525 cmdC1 b80aa870 should be 6699cd95 ...
+Compare  6699cd95
+Write4B 17b55b69
+Read
+Dec 3ee54f7d
+Transfer
+Read
+Information issued by Andrew Huang: 17b55b69 cmdC0 3ee54f7d should be d8d00bec ...
+Compare  d8d00bec
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9a0f26c6
+Read
+Inc f04ba2e0
+Transfer
+Read
+Information issued by Andrew Huang: 9a0f26c6 cmdC1 f04ba2e0 should be 0a5ac9a6 ...
+Compare  0a5ac9a6
+Write4B 419768ae
+Read
+Dec f3ab90e7
+Transfer
+Read
+Information issued by Andrew Huang: 419768ae cmdC0 f3ab90e7 should be cdebd7c7 ...
+Compare  cdebd7c7
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 950aebf6
+Read
+Inc c5ca1c8b
+Transfer
+Read
+Information issued by Andrew Huang: 950aebf6 cmdC1 c5ca1c8b should be dad50881 ...
+Compare  dad50881
+Write4B 89bd9131
+Read
+Dec 59b06bb3
+Information issued by Andrew Huang: 89bd9131 cmdC0 59b06bb3 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7d54bd8a
+Read
+Inc 6f67e7de
+Information issued by Andrew Huang: 7d54bd8a cmdC1 6f67e7de should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 2d387ecc
+Read
+Dec a76f484e
+Transfer
+Read
+Information issued by Andrew Huang: 2d387ecc cmdC0 a76f484e should be 05c9367e ...
+Compare  05c9367e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7f98d4f5
+Read
+Inc 81380c02
+Information issued by Andrew Huang: 7f98d4f5 cmdC1 81380c02 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 82e1e40b
+Read
+Dec 8886c411
+Information issued by Andrew Huang: 82e1e40b cmdC0 8886c411 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 83e377d4
+Read
+Inc 1f094d3e
+Transfer
+Read
+Information issued by Andrew Huang: 83e377d4 cmdC1 1f094d3e should be a2ecc512 ...
+Compare  a2ecc512
+Write4B 66f3fed1
+Read
+Dec e9f6b2d3
+Transfer
+Read
+Information issued by Andrew Huang: 66f3fed1 cmdC0 e9f6b2d3 should be fcfd4bfe ...
+Compare  fcfd4bfe
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b3f9dc0d
+Read
+Inc 4ff5539f
+Transfer
+Read
+Information issued by Andrew Huang: b3f9dc0d cmdC1 4ff5539f should be 03ef2fac ...
+Compare  03ef2fac
+Write4B a7737f5c
+Read
+Dec f72b02ee
+Information issued by Andrew Huang: a7737f5c cmdC0 f72b02ee should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fed81b48
+Read
+Inc 29c63753
+Transfer
+Read
+Information issued by Andrew Huang: fed81b48 cmdC1 29c63753 should be 289e529b ...
+Compare  289e529b
+Write4B d3cdddeb
+Read
+Dec c9acc493
+Transfer
+Read
+Information issued by Andrew Huang: d3cdddeb cmdC0 c9acc493 should be 8a211958 ...
+Compare  8a211958
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 786a7621
+Read
+Inc c7c0b28f
+Information issued by Andrew Huang: 786a7621 cmdC1 c7c0b28f should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 5b4aba04
+Read
+Dec 0ff9f71f
+Transfer
+Read
+Information issued by Andrew Huang: 5b4aba04 cmdC0 0ff9f71f should be 4b50c2e5 ...
+Compare  4b50c2e5
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1b098ff8
+Read
+Inc a5fdc64b
+Transfer
+Read
+Information issued by Andrew Huang: 1b098ff8 cmdC1 a5fdc64b should be 41075643 ...
+Compare  41075643
+Write4B 34a14d61
+Read
+Dec 97d87c2f
+Transfer
+Read
+Information issued by Andrew Huang: 34a14d61 cmdC0 97d87c2f should be 1cc8d132 ...
+Compare  1cc8d132
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 58ddea57
+Read
+Inc c3b62087
+Information issued by Andrew Huang: 58ddea57 cmdC1 c3b62087 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 7d5b5cbe
+Read
+Dec a2fd9c45
+Transfer
+Read
+Information issued by Andrew Huang: 7d5b5cbe cmdC0 a2fd9c45 should be 5a5dc079 ...
+Compare  5a5dc079
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9be37b7e
+Read
+Inc 5cbe05b9
+Transfer
+Read
+Information issued by Andrew Huang: 9be37b7e cmdC1 5cbe05b9 should be f8a18137 ...
+Compare  f8a18137
+Write4B 21c1b1b8
+Read
+Dec 57d9fdaf
+Transfer
+Read
+Information issued by Andrew Huang: 21c1b1b8 cmdC0 57d9fdaf should be c9e7b409 ...
+Compare  c9e7b409
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b9ee82ac
+Read
+Inc 4912fb92
+Transfer
+Read
+Information issued by Andrew Huang: b9ee82ac cmdC1 4912fb92 should be 03017e3e ...
+Compare  03017e3e
+Write4B c43c0a6b
+Read
+Dec b337b666
+Transfer
+Read
+Information issued by Andrew Huang: c43c0a6b cmdC0 b337b666 should be 91045405 ...
+Compare  91045405
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0ced82f9
+Read
+Inc e8c7cad1
+Transfer
+Read
+Information issued by Andrew Huang: 0ced82f9 cmdC1 e8c7cad1 should be 75b54dca ...
+Compare  75b54dca
+Write4B fad2cb9f
+Read
+Dec 1cf8fb39
+Transfer
+Read
+Information issued by Andrew Huang: fad2cb9f cmdC0 1cf8fb39 should be ddd9d066 ...
+Compare  ddd9d066
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f985db83
+Read
+Inc e9c248d3
+Transfer
+Read
+Information issued by Andrew Huang: f985db83 cmdC1 e9c248d3 should be 63482456 ...
+Compare  63482456
+Write4B cce8cf44
+Read
+Dec 43f64b87
+Transfer
+Read
+Information issued by Andrew Huang: cce8cf44 cmdC0 43f64b87 should be 88f283bd ...
+Compare  88f283bd
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 300b9163
+Read
+Inc 533587a6
+Information issued by Andrew Huang: 300b9163 cmdC1 533587a6 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 90fd1e3c
+Read
+Dec 3308b166
+Information issued by Andrew Huang: 90fd1e3c cmdC0 3308b166 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e099584b
+Read
+Inc f2bb34e5
+Transfer
+Read
+Information issued by Andrew Huang: e099584b cmdC1 f2bb34e5 should be 53548d30 ...
+Compare  53548d30
+Write4B 6db86451
+Read
+Dec d87b36b0
+Transfer
+Read
+Information issued by Andrew Huang: 6db86451 cmdC0 d87b36b0 should be 153d2da1 ...
+Compare  153d2da1
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B ca98bf5f
+Read
+Inc 81a73203
+Transfer
+Read
+Information issued by Andrew Huang: ca98bf5f cmdC1 81a73203 should be cc3ff162 ...
+Compare  cc3ff162
+Write4B 1fac6581
+Read
+Dec 6c4f23d8
+Transfer
+Read
+Information issued by Andrew Huang: 1fac6581 cmdC0 6c4f23d8 should be b35d41a9 ...
+Compare  b35d41a9
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 91c0561a
+Read
+Inc 75c84feb
+Transfer
+Read
+Information issued by Andrew Huang: 91c0561a cmdC1 75c84feb should be 0788a605 ...
+Compare  0788a605
+Write4B e639e264
+Read
+Dec 3757076e
+Transfer
+Read
+Information issued by Andrew Huang: e639e264 cmdC0 3757076e should be aee2daf6 ...
+Compare  aee2daf6
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B ab22a478
+Read
+Inc 5104dda2
+Transfer
+Read
+Information issued by Andrew Huang: ab22a478 cmdC1 5104dda2 should be fc27821a ...
+Compare  fc27821a
+Write4B d628a7a1
+Read
+Dec 71f771e3
+Information issued by Andrew Huang: d628a7a1 cmdC0 71f771e3 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0d987fb0
+Read
+Inc ef37a0de
+Transfer
+Read
+Information issued by Andrew Huang: 0d987fb0 cmdC1 ef37a0de should be 7cd0208e ...
+Compare  7cd0208e
+Write4B 7bcf18b0
+Read
+Dec 1b342936
+Transfer
+Read
+Information issued by Andrew Huang: 7bcf18b0 cmdC0 1b342936 should be 609aef7a ...
+Compare  609aef7a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 73decb2f
+Read
+Inc c67d448c
+Information issued by Andrew Huang: 73decb2f cmdC1 c67d448c should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 2b3aa3ca
+Read
+Dec 0c09a718
+Transfer
+Read
+Information issued by Andrew Huang: 2b3aa3ca cmdC0 0c09a718 should be 1f30fcb2 ...
+Compare  1f30fcb2
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 2bd89e4d
+Read
+Inc e3d3aec7
+Information issued by Andrew Huang: 2bd89e4d cmdC1 e3d3aec7 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 2831f4ba
+Read
+Dec 48f7eb91
+Transfer
+Read
+Information issued by Andrew Huang: 2831f4ba cmdC0 48f7eb91 should be df3a0929 ...
+Compare  df3a0929
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1e7a160e
+Read
+Inc 04f94909
+Transfer
+Read
+Information issued by Andrew Huang: 1e7a160e cmdC1 04f94909 should be 23735f17 ...
+Compare  23735f17
+Write4B b11caac9
+Read
+Dec 8a301014
+Transfer
+Read
+Information issued by Andrew Huang: b11caac9 cmdC0 8a301014 should be a6ec9ab5 ...
+Compare  a6ec9ab5
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 033d5b0c
+Read
+Inc 5fed1dbf
+Transfer
+Read
+Information issued by Andrew Huang: 033d5b0c cmdC1 5fed1dbf should be 632a78cb ...
+Compare  632a78cb
+Write4B 4a4d0b1b
+Read
+Dec 7d7509fa
+Transfer
+Read
+Information issued by Andrew Huang: 4a4d0b1b cmdC0 7d7509fa should be ccd80121 ...
+Compare  ccd80121
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 66b91368
+Read
+Inc 358b3f6b
+Information issued by Andrew Huang: 66b91368 cmdC1 358b3f6b should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 2e0febe7
+Read
+Dec 93726626
+Transfer
+Read
+Information issued by Andrew Huang: 2e0febe7 cmdC0 93726626 should be 1a9d85c1 ...
+Compare  1a9d85c1
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 05b62476
+Read
+Inc e5e672cb
+Transfer
+Read
+Information issued by Andrew Huang: 05b62476 cmdC1 e5e672cb should be 6b9c9741 ...
+Compare  6b9c9741
+Write4B 9595d195
+Read
+Dec cf38289e
+Information issued by Andrew Huang: 9595d195 cmdC0 cf38289e should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B db7232ab
+Read
+Inc 56ff25ad
+Transfer
+Read
+Information issued by Andrew Huang: db7232ab cmdC1 56ff25ad should be 32715858 ...
+Compare  32715858
+Write4B fedde106
+Read
+Dec 5c5929b8
+Transfer
+Read
+Information issued by Andrew Huang: fedde106 cmdC0 5c5929b8 should be a284b74e ...
+Compare  a284b74e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e8371602
+Read
+Inc 46eb8f8d
+Transfer
+Read
+Information issued by Andrew Huang: e8371602 cmdC1 46eb8f8d should be 2f22a58f ...
+Compare  2f22a58f
+Write4B f26bc9a0
+Read
+Dec 2f9e635f
+Transfer
+Read
+Information issued by Andrew Huang: f26bc9a0 cmdC0 2f9e635f should be c2cd6641 ...
+Compare  c2cd6641
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B d7f56745
+Read
+Inc 8006e200
+Transfer
+Read
+Information issued by Andrew Huang: d7f56745 cmdC1 8006e200 should be d7fc4945 ...
+Compare  d7fc4945
+Write4B 2c5dc5f0
+Read
+Dec ca684c94
+Transfer
+Read
+Information issued by Andrew Huang: 2c5dc5f0 cmdC0 ca684c94 should be e1f5795c ...
+Compare  e1f5795c
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a80cbf15
+Read
+Inc a6f6784d
+Transfer
+Read
+Information issued by Andrew Huang: a80cbf15 cmdC1 a6f6784d should be cf033762 ...
+Compare  cf033762
+Write4B 902f7e0b
+Read
+Dec 61a879c3
+Information issued by Andrew Huang: 902f7e0b cmdC0 61a879c3 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0d099843
+Read
+Inc d83ab8b0
+Transfer
+Read
+Information issued by Andrew Huang: 0d099843 cmdC1 d83ab8b0 should be 654450f3 ...
+Compare  654450f3
+Write4B 144074df
+Read
+Dec b2f99465
+Transfer
+Read
+Information issued by Andrew Huang: 144074df cmdC0 b2f99465 should be e146e07a ...
+Compare  e146e07a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B facb3504
+Read
+Inc 0cb95319
+Transfer
+Read
+Information issued by Andrew Huang: facb3504 cmdC1 0cb95319 should be 0784881d ...
+Compare  0784881d
+Write4B a7d9579f
+Read
+Dec 44dcb989
+Information issued by Andrew Huang: a7d9579f cmdC0 44dcb989 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B da9a291b
+Read
+Inc f6fbd2ed
+Transfer
+Read
+Information issued by Andrew Huang: da9a291b cmdC1 f6fbd2ed should be 5195fc08 ...
+Compare  5195fc08
+Write4B 3daa77a4
+Read
+Dec 8e356e1c
+Transfer
+Read
+Information issued by Andrew Huang: 3daa77a4 cmdC0 8e356e1c should be 2f750988 ...
+Compare  2f750988
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 82f04ca4
+Read
+Inc e29fe8c5
+Transfer
+Read
+Information issued by Andrew Huang: 82f04ca4 cmdC1 e29fe8c5 should be e5903569 ...
+Compare  e5903569
+Write4B 65a75b2e
+Read
+Dec 246de748
+Transfer
+Read
+Information issued by Andrew Huang: 65a75b2e cmdC0 246de748 should be 413973e6 ...
+Compare  413973e6
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B d0ab4616
+Read
+Inc 1ab6d935
+Transfer
+Read
+Information issued by Andrew Huang: d0ab4616 cmdC1 1ab6d935 should be eb621f4b ...
+Compare  eb621f4b
+Write4B 94c4355d
+Read
+Dec 4725518e
+Information issued by Andrew Huang: 94c4355d cmdC0 4725518e should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B cf7d67fe
+Read
+Inc 657a15ca
+Transfer
+Read
+Information issued by Andrew Huang: cf7d67fe cmdC1 657a15ca should be 34f77dc8 ...
+Compare  34f77dc8
+Write4B fd54daa8
+Read
+Dec eca828d9
+Transfer
+Read
+Information issued by Andrew Huang: fd54daa8 cmdC0 eca828d9 should be 90acb1cf ...
+Compare  90acb1cf
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 03a49b85
+Read
+Inc ab88ce57
+Transfer
+Read
+Information issued by Andrew Huang: 03a49b85 cmdC1 ab88ce57 should be 2f2d69dc ...
+Compare  2f2d69dc
+Write4B c94443da
+Read
+Dec d00122a0
+Information issued by Andrew Huang: c94443da cmdC0 d00122a0 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 82734579
+Read
+Inc 36211d6c
+Transfer
+Read
+Information issued by Andrew Huang: 82734579 cmdC1 36211d6c should be b89462e5 ...
+Compare  b89462e5
+Write4B 15fe3295
+Read
+Dec 6fccdfdf
+Transfer
+Read
+Information issued by Andrew Huang: 15fe3295 cmdC0 6fccdfdf should be a63152b6 ...
+Compare  a63152b6
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e88c61d6
+Read
+Inc b912f272
+Transfer
+Read
+Information issued by Andrew Huang: e88c61d6 cmdC1 b912f272 should be 219f5448 ...
+Compare  219f5448
+Write4B ca8dde29
+Read
+Dec 3fcf977f
+Transfer
+Read
+Information issued by Andrew Huang: ca8dde29 cmdC0 3fcf977f should be 8abe46aa ...
+Compare  8abe46aa
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3f1bce14
+Read
+Inc 99301032
+Transfer
+Read
+Information issued by Andrew Huang: 3f1bce14 cmdC1 99301032 should be 584bde46 ...
+Compare  584bde46
+Write4B 605088aa
+Read
+Dec 04158308
+Transfer
+Read
+Information issued by Andrew Huang: 605088aa cmdC0 04158308 should be 5c3b05a2 ...
+Compare  5c3b05a2
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B de8c6e5a
+Read
+Inc ab35a256
+Transfer
+Read
+Information issued by Andrew Huang: de8c6e5a cmdC1 ab35a256 should be 09c210b0 ...
+Compare  09c210b0
+Write4B 0dc34aa9
+Read
+Dec 31318962
+Transfer
+Read
+Information issued by Andrew Huang: 0dc34aa9 cmdC0 31318962 should be dc91c147 ...
+Compare  dc91c147
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B eb817c5f
+Read
+Inc 92a73025
+Transfer
+Read
+Information issued by Andrew Huang: eb817c5f cmdC1 92a73025 should be fe28ac84 ...
+Compare  fe28ac84
+Write4B 84eac3d4
+Read
+Dec 74558de8
+Information issued by Andrew Huang: 84eac3d4 cmdC0 74558de8 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f8e39f1c
+Read
+Inc fd2a34fa
+Transfer
+Read
+Information issued by Andrew Huang: f8e39f1c cmdC1 fd2a34fa should be 760dd416 ...
+Compare  760dd416
+Write4B 1be9cb90
+Read
+Dec 72f063e5
+Transfer
+Read
+Information issued by Andrew Huang: 1be9cb90 cmdC0 72f063e5 should be a8f967ab ...
+Compare  a8f967ab
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 89921bcb
+Read
+Inc 94124428
+Transfer
+Read
+Information issued by Andrew Huang: 89921bcb cmdC1 94124428 should be 9da45ff3 ...
+Compare  9da45ff3
+Write4B 676f160f
+Read
+Dec fa734ef4
+Transfer
+Read
+Information issued by Andrew Huang: 676f160f cmdC0 fa734ef4 should be ecfbc71b ...
+Compare  ecfbc71b
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 434f4346
+Read
+Inc 0833db10
+Transfer
+Read
+Information issued by Andrew Huang: 434f4346 cmdC1 0833db10 should be 4b831e56 ...
+Compare  4b831e56
+Write4B 9d740dd4
+Read
+Dec 89a77a13
+Transfer
+Read
+Information issued by Andrew Huang: 9d740dd4 cmdC0 89a77a13 should be 93cc93c1 ...
+Compare  93cc93c1
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B ebd7ee54
+Read
+Inc 928a0225
+Transfer
+Read
+Information issued by Andrew Huang: ebd7ee54 cmdC1 928a0225 should be fe61f079 ...
+Compare  fe61f079
+Write4B fc584a5f
+Read
+Dec b6afda6d
+Transfer
+Read
+Information issued by Andrew Huang: fc584a5f cmdC0 b6afda6d should be c5a86ff2 ...
+Compare  c5a86ff2
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f15f86d6
+Read
+Inc 8edf861d
+Transfer
+Read
+Information issued by Andrew Huang: f15f86d6 cmdC1 8edf861d should be 003f0cf3 ...
+Compare  003f0cf3
+Write4B af54beea
+Read
+Dec 36a0736d
+Information issued by Andrew Huang: af54beea cmdC0 36a0736d should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B cc6b0b40
+Read
+Inc 3ea86b7d
+Transfer
+Read
+Information issued by Andrew Huang: cc6b0b40 cmdC1 3ea86b7d should be 0b1376bd ...
+Compare  0b1376bd
+Write4B 6c6d5420
+Read
+Dec 4075db80
+Transfer
+Read
+Information issued by Andrew Huang: 6c6d5420 cmdC0 4075db80 should be 2bf778a0 ...
+Compare  2bf778a0
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 788f4bc2
+Read
+Inc 538ac3a7
+Information issued by Andrew Huang: 788f4bc2 cmdC1 538ac3a7 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B f9283912
+Read
+Dec 9d90ee3b
+Transfer
+Read
+Information issued by Andrew Huang: f9283912 cmdC0 9d90ee3b should be db974ad7 ...
+Compare  db974ad7
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B cf4fabe2
+Read
+Inc 2649894c
+Transfer
+Read
+Information issued by Andrew Huang: cf4fabe2 cmdC1 2649894c should be f599352e ...
+Compare  f599352e
+Write4B fecec372
+Read
+Dec 47901f8f
+Transfer
+Read
+Information issued by Andrew Huang: fecec372 cmdC0 47901f8f should be b73ea3e3 ...
+Compare  b73ea3e3
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b5562f1a
+Read
+Inc 04374908
+Transfer
+Read
+Information issued by Andrew Huang: b5562f1a cmdC1 04374908 should be b98d7822 ...
+Compare  b98d7822
+Write4B 0cc7edf6
+Read
+Dec 63551dc6
+Transfer
+Read
+Information issued by Andrew Huang: 0cc7edf6 cmdC0 63551dc6 should be a972d030 ...
+Compare  a972d030
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7aa26015
+Read
+Inc 2f9e735f
+Information issued by Andrew Huang: 7aa26015 cmdC1 2f9e735f should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 55549968
+Read
+Dec f5fdc2eb
+Transfer
+Read
+Information issued by Andrew Huang: 55549968 cmdC0 f5fdc2eb should be df56d67d ...
+Compare  df56d67d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b6560f70
+Read
+Inc 562f4dac
+Transfer
+Read
+Information issued by Andrew Huang: b6560f70 cmdC1 562f4dac should be 0c855d1c ...
+Compare  0c855d1c
+Write4B 89343cfc
+Read
+Dec 33c48d67
+Information issued by Andrew Huang: 89343cfc cmdC0 33c48d67 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 08c020e5
+Read
+Inc aa3ae454
+Transfer
+Read
+Information issued by Andrew Huang: 08c020e5 cmdC1 aa3ae454 should be 32fb0539 ...
+Compare  32fb0539
+Write4B 072fc70b
+Read
+Dec abae1e57
+Transfer
+Read
+Information issued by Andrew Huang: 072fc70b cmdC0 abae1e57 should be db81a8b4 ...
+Compare  db81a8b4
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 170bc36f
+Read
+Inc 739be5e7
+Information issued by Andrew Huang: 170bc36f cmdC1 739be5e7 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B cb37e995
+Read
+Dec c3b65687
+Transfer
+Read
+Information issued by Andrew Huang: cb37e995 cmdC0 c3b65687 should be 8781930e ...
+Compare  8781930e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6f1abc87
+Read
+Inc 1250d124
+Information issued by Andrew Huang: 6f1abc87 cmdC1 1250d124 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 3ec06e88
+Read
+Dec 8f5b261e
+Transfer
+Read
+Information issued by Andrew Huang: 3ec06e88 cmdC0 8f5b261e should be 2f65486a ...
+Compare  2f65486a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6e07a58e
+Read
+Inc 4fa1719f
+Information issued by Andrew Huang: 6e07a58e cmdC1 4fa1719f should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 7d8343f8
+Read
+Dec 0365b306
+Transfer
+Read
+Information issued by Andrew Huang: 7d8343f8 cmdC0 0365b306 should be 7a1d90f2 ...
+Compare  7a1d90f2
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 371eccea
+Read
+Inc e5580aca
+Information issued by Andrew Huang: 371eccea cmdC1 e5580aca should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B fa84516b
+Read
+Dec b2a2bc65
+Transfer
+Read
+Information issued by Andrew Huang: fa84516b cmdC0 b2a2bc65 should be c7e19506 ...
+Compare  c7e19506
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B acadfd87
+Read
+Inc ca697c94
+Transfer
+Read
+Information issued by Andrew Huang: acadfd87 cmdC1 ca697c94 should be f7177a1b ...
+Compare  f7177a1b
+Write4B 3f1353ac
+Read
+Dec deccc8bd
+Transfer
+Read
+Information issued by Andrew Huang: 3f1353ac cmdC0 deccc8bd should be e0468aef ...
+Compare  e0468aef
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b89e2b3e
+Read
+Inc 700a93e0
+Transfer
+Read
+Information issued by Andrew Huang: b89e2b3e cmdC1 700a93e0 should be 28a8bf1e ...
+Compare  28a8bf1e
+Write4B 14cbe9b6
+Read
+Dec 1fb4fb3f
+Transfer
+Read
+Information issued by Andrew Huang: 14cbe9b6 cmdC0 1fb4fb3f should be f516ee77 ...
+Compare  f516ee77
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a7cc52a7
+Read
+Inc f27d42e4
+Transfer
+Read
+Information issued by Andrew Huang: a7cc52a7 cmdC1 f27d42e4 should be 1a49958b ...
+Compare  1a49958b
+Write4B 7121c699
+Read
+Dec 0610870c
+Transfer
+Read
+Information issued by Andrew Huang: 7121c699 cmdC0 0610870c should be 6b113f8d ...
+Compare  6b113f8d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9ab2c46e
+Read
+Inc 11f38923
+Transfer
+Read
+Information issued by Andrew Huang: 9ab2c46e cmdC1 11f38923 should be aca64d91 ...
+Compare  aca64d91
+Write4B 4431564e
+Read
+Dec 9ea1903d
+Transfer
+Read
+Information issued by Andrew Huang: 4431564e cmdC0 9ea1903d should be 258fc611 ...
+Compare  258fc611
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 193b0ecd
+Read
+Inc 44cabd89
+Transfer
+Read
+Information issued by Andrew Huang: 193b0ecd cmdC1 44cabd89 should be 5e05cc56 ...
+Compare  5e05cc56
+Write4B fd683aba
+Read
+Dec 1c52a338
+Transfer
+Read
+Information issued by Andrew Huang: fd683aba cmdC0 1c52a338 should be e1159782 ...
+Compare  e1159782
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 8ba1e066
+Read
+Inc 2a774b54
+Transfer
+Read
+Information issued by Andrew Huang: 8ba1e066 cmdC1 2a774b54 should be b6192bba ...
+Compare  b6192bba
+Write4B b464331b
+Read
+Dec 522691a4
+Information issued by Andrew Huang: b464331b cmdC0 522691a4 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0e3ecf04
+Read
+Inc 559bddab
+Transfer
+Read
+Information issued by Andrew Huang: 0e3ecf04 cmdC1 559bddab should be 63daacaf ...
+Compare  63daacaf
+Write4B 861ac088
+Read
+Dec f445bee8
+Information issued by Andrew Huang: 861ac088 cmdC0 f445bee8 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 30cb3c07
+Read
+Inc 45d8d98b
+Transfer
+Read
+Information issued by Andrew Huang: 30cb3c07 cmdC1 45d8d98b should be 76a41592 ...
+Compare  76a41592
+Write4B 699ac636
+Read
+Dec 66d3a7cd
+Transfer
+Read
+Information issued by Andrew Huang: 699ac636 cmdC0 66d3a7cd should be 02c71e69 ...
+Compare  02c71e69
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f77de6d4
+Read
+Inc 75b32deb
+Transfer
+Read
+Information issued by Andrew Huang: f77de6d4 cmdC1 75b32deb should be 6d3114bf ...
+Compare  6d3114bf
+Write4B 9f38d3db
+Read
+Dec 1f3a273e
+Information issued by Andrew Huang: 9f38d3db cmdC0 1f3a273e should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 973684b0
+Read
+Inc 73a3dde7
+Transfer
+Read
+Information issued by Andrew Huang: 973684b0 cmdC1 73a3dde7 should be 0ada6297 ...
+Compare  0ada6297
+Write4B e6f9bae5
+Read
+Dec 3d17f77a
+Transfer
+Read
+Information issued by Andrew Huang: e6f9bae5 cmdC0 3d17f77a should be a9e1c36b ...
+Compare  a9e1c36b
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 755b954a
+Read
+Inc 41d1b583
+Information issued by Andrew Huang: 755b954a cmdC1 41d1b583 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B d12a71fb
+Read
+Dec d4cd66a9
+Information issued by Andrew Huang: d12a71fb cmdC0 d4cd66a9 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B cc9d6582
+Read
+Inc bb815e77
+Transfer
+Read
+Information issued by Andrew Huang: cc9d6582 cmdC1 bb815e77 should be 081ec3f9 ...
+Compare  081ec3f9
+Write4B 0f633688
+Read
+Dec dc9d08b9
+Transfer
+Read
+Information issued by Andrew Huang: 0f633688 cmdC0 dc9d08b9 should be b2c62dcf ...
+Compare  b2c62dcf
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c0ed6e9b
+Read
+Inc 8b137016
+Transfer
+Read
+Information issued by Andrew Huang: c0ed6e9b cmdC1 8b137016 should be cc00deb1 ...
+Compare  cc00deb1
+Write4B e49720ba
+Read
+Dec a2ddd645
+Transfer
+Read
+Information issued by Andrew Huang: e49720ba cmdC0 a2ddd645 should be c1b94a75 ...
+Compare  c1b94a75
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 4718a3fa
+Read
+Inc fc9384f9
+Information issued by Andrew Huang: 4718a3fa cmdC1 fc9384f9 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B d2795689
+Read
+Dec d2c0e8a5
+Information issued by Andrew Huang: d2795689 cmdC0 d2c0e8a5 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B dca393a0
+Read
+Inc 73b951e7
+Transfer
+Read
+Information issued by Andrew Huang: dca393a0 cmdC1 73b951e7 should be 505ce587 ...
+Compare  505ce587
+Write4B 8bb7009b
+Read
+Dec 7f3aadfe
+Information issued by Andrew Huang: 8bb7009b cmdC0 7f3aadfe should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e0844f6c
+Read
+Inc aa6dc254
+Transfer
+Read
+Information issued by Andrew Huang: e0844f6c cmdC1 aa6dc254 should be 0af211c0 ...
+Compare  0af211c0
+Write4B 8277c812
+Read
+Dec 587b75b0
+Information issued by Andrew Huang: 8277c812 cmdC0 587b75b0 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B bc9ed47a
+Read
+Inc 011d1302
+Transfer
+Read
+Information issued by Andrew Huang: bc9ed47a cmdC1 011d1302 should be bdbbe77c ...
+Compare  bdbbe77c
+Write4B 5d5c0099
+Read
+Dec 3c948779
+Transfer
+Read
+Information issued by Andrew Huang: 5d5c0099 cmdC0 3c948779 should be 20c77920 ...
+Compare  20c77920
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3964a3dc
+Read
+Inc dfb7c6bf
+Information issued by Andrew Huang: 3964a3dc cmdC1 dfb7c6bf should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 2d6d25aa
+Read
+Dec 99d30e33
+Transfer
+Read
+Information issued by Andrew Huang: 2d6d25aa cmdC0 99d30e33 should be 139a1777 ...
+Compare  139a1777
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5fcceaca
+Read
+Inc 1472d728
+Transfer
+Read
+Information issued by Andrew Huang: 5fcceaca cmdC1 1472d728 should be 743fc1f2 ...
+Compare  743fc1f2
+Write4B 6bb20949
+Read
+Dec 2db0d55b
+Transfer
+Read
+Information issued by Andrew Huang: 6bb20949 cmdC0 2db0d55b should be 3e0133ee ...
+Compare  3e0133ee
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 925d09f2
+Read
+Inc 0f2e631e
+Transfer
+Read
+Information issued by Andrew Huang: 925d09f2 cmdC1 0f2e631e should be a18b6d10 ...
+Compare  a18b6d10
+Write4B eaa0bc3c
+Read
+Dec 39fbcf73
+Transfer
+Read
+Information issued by Andrew Huang: eaa0bc3c cmdC0 39fbcf73 should be b0a4ecc9 ...
+Compare  b0a4ecc9
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3b0439f9
+Read
+Inc 8de53e1b
+Transfer
+Read
+Information issued by Andrew Huang: 3b0439f9 cmdC1 8de53e1b should be 48e97814 ...
+Compare  48e97814
+Write4B 08dc885f
+Read
+Dec 43f68f87
+Transfer
+Read
+Information issued by Andrew Huang: 08dc885f cmdC0 43f68f87 should be c4e5f8d8 ...
+Compare  c4e5f8d8
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B cd489561
+Read
+Inc ec71b0d8
+Transfer
+Read
+Information issued by Andrew Huang: cd489561 cmdC1 ec71b0d8 should be 39ba4639 ...
+Compare  39ba4639
+Write4B aa71fcee
+Read
+Dec 2cf90b59
+Information issued by Andrew Huang: aa71fcee cmdC0 2cf90b59 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0366cec4
+Read
+Inc c1701082
+Transfer
+Read
+Information issued by Andrew Huang: 0366cec4 cmdC1 c1701082 should be 44d6df46 ...
+Compare  44d6df46
+Write4B 8265cfed
+Read
+Dec 9ff9983f
+Information issued by Andrew Huang: 8265cfed cmdC0 9ff9983f should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e45337a2
+Read
+Inc 30370960
+Transfer
+Read
+Information issued by Andrew Huang: e45337a2 cmdC1 30370960 should be 148a4102 ...
+Compare  148a4102
+Write4B 9d4c1669
+Read
+Dec 517ad5a2
+Information issued by Andrew Huang: 9d4c1669 cmdC0 517ad5a2 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b0f1b502
+Read
+Inc cfafba9f
+Transfer
+Read
+Information issued by Andrew Huang: b0f1b502 cmdC1 cfafba9f should be 00a16fa1 ...
+Compare  00a16fa1
+Write4B d4047162
+Read
+Dec 7d3b4bfa
+Information issued by Andrew Huang: d4047162 cmdC0 7d3b4bfa should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 4cb8d9df
+Read
+Inc bb9ea677
+Information issued by Andrew Huang: 4cb8d9df cmdC1 bb9ea677 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B a3da753f
+Read
+Dec 42fac585
+Information issued by Andrew Huang: a3da753f cmdC0 42fac585 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b6244ea2
+Read
+Inc fa4724f4
+Transfer
+Read
+Information issued by Andrew Huang: b6244ea2 cmdC1 fa4724f4 should be 306b7396 ...
+Compare  306b7396
+Write4B 1e4660a3
+Read
+Dec 60c339c1
+Transfer
+Read
+Information issued by Andrew Huang: 1e4660a3 cmdC0 60c339c1 should be bd8326e2 ...
+Compare  bd8326e2
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a947cb5f
+Read
+Inc 4e45519c
+Transfer
+Read
+Information issued by Andrew Huang: a947cb5f cmdC1 4e45519c should be f78d1cfb ...
+Compare  f78d1cfb
+Write4B 437d5cf5
+Read
+Dec f44564e8
+Transfer
+Read
+Information issued by Andrew Huang: 437d5cf5 cmdC0 f44564e8 should be cf37f80d ...
+Compare  cf37f80d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5e98ac1f
+Read
+Inc 39133172
+Information issued by Andrew Huang: 5e98ac1f cmdC1 39133172 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B e33e9774
+Read
+Dec 3a9faf75
+Transfer
+Read
+Information issued by Andrew Huang: e33e9774 cmdC0 3a9faf75 should be a89ee7ff ...
+Compare  a89ee7ff
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 671d3217
+Read
+Inc 85eb000b
+Transfer
+Read
+Information issued by Andrew Huang: 671d3217 cmdC1 85eb000b should be 6d083222 ...
+Compare  6d083222
+Write4B 5a0ce67b
+Read
+Dec 7b085df6
+Transfer
+Read
+Information issued by Andrew Huang: 5a0ce67b cmdC0 7b085df6 should be df048885 ...
+Compare  df048885
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f83897f1
+Read
+Inc 4b07a596
+Transfer
+Read
+Information issued by Andrew Huang: f83897f1 cmdC1 4b07a596 should be 43403d87 ...
+Compare  43403d87
+Write4B 14c32e10
+Read
+Dec d6a13ead
+Transfer
+Read
+Information issued by Andrew Huang: 14c32e10 cmdC0 d6a13ead should be be21ef63 ...
+Compare  be21ef63
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7da0d66f
+Read
+Inc 5a497bb4
+Information issued by Andrew Huang: 7da0d66f cmdC1 5a497bb4 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 62efdb89
+Read
+Dec a2a85a45
+Transfer
+Read
+Information issued by Andrew Huang: 62efdb89 cmdC0 a2a85a45 should be 40478144 ...
+Compare  40478144
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 2dee1bce
+Read
+Inc dee29cbd
+Information issued by Andrew Huang: 2dee1bce cmdC1 dee29cbd should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B ec83738d
+Read
+Dec 3f1bc77e
+Transfer
+Read
+Information issued by Andrew Huang: ec83738d cmdC0 3f1bc77e should be ad67ac0f ...
+Compare  ad67ac0f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0fa9a94f
+Read
+Inc 1374a726
+Transfer
+Read
+Information issued by Andrew Huang: 0fa9a94f cmdC1 1374a726 should be 231e5075 ...
+Compare  231e5075
+Write4B f1d370b4
+Read
+Dec f97c06f2
+Information issued by Andrew Huang: f1d370b4 cmdC0 f97c06f2 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B d1cc3a34
+Read
+Inc 9d01cc3a
+Transfer
+Read
+Information issued by Andrew Huang: d1cc3a34 cmdC1 9d01cc3a should be eece066e ...
+Compare  eece066e
+Write4B 839127be
+Read
+Dec 56d4c7ad
+Information issued by Andrew Huang: 839127be cmdC0 56d4c7ad should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 718a7fd7
+Read
+Inc d0edf8a1
+Information issued by Andrew Huang: 718a7fd7 cmdC1 d0edf8a1 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 1b128f79
+Read
+Dec 0da3751b
+Transfer
+Read
+Information issued by Andrew Huang: 1b128f79 cmdC0 0da3751b should be 0d6f1a5e ...
+Compare  0d6f1a5e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 57febb69
+Read
+Inc 768bc5ed
+Information issued by Andrew Huang: 57febb69 cmdC1 768bc5ed should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 3ecd595f
+Read
+Dec b663d46c
+Transfer
+Read
+Information issued by Andrew Huang: 3ecd595f cmdC0 b663d46c should be 086984f3 ...
+Compare  086984f3
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 2fd6b00d
+Read
+Inc 9db9023b
+Transfer
+Read
+Information issued by Andrew Huang: 2fd6b00d cmdC1 9db9023b should be 4d8fb248 ...
+Compare  4d8fb248
+Write4B b0e1029d
+Read
+Dec 12974525
+Transfer
+Read
+Information issued by Andrew Huang: b0e1029d cmdC0 12974525 should be 9e49bd78 ...
+Compare  9e49bd78
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 97e82114
+Read
+Inc 1b15d536
+Transfer
+Read
+Information issued by Andrew Huang: 97e82114 cmdC1 1b15d536 should be b2fdf64a ...
+Compare  b2fdf64a
+Write4B 62c0b311
+Read
+Dec 1790e32f
+Transfer
+Read
+Information issued by Andrew Huang: 62c0b311 cmdC0 1790e32f should be 4b2fcfe2 ...
+Compare  4b2fcfe2
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B ee82d799
+Read
+Inc 1278a324
+Transfer
+Read
+Information issued by Andrew Huang: ee82d799 cmdC1 1278a324 should be 00fb7abd ...
+Compare  00fb7abd
+Write4B d5b3aa40
+Read
+Dec 01060302
+Transfer
+Read
+Information issued by Andrew Huang: d5b3aa40 cmdC0 01060302 should be d4ada73e ...
+Compare  d4ada73e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 11c5091a
+Read
+Inc f63328ec
+Information issued by Andrew Huang: 11c5091a cmdC1 f63328ec should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B ef5f67ac
+Read
+Dec 4463cd88
+Transfer
+Read
+Information issued by Andrew Huang: ef5f67ac cmdC0 4463cd88 should be aafb9a24 ...
+Compare  aafb9a24
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7d8224cf
+Read
+Inc 42f88d85
+Information issued by Andrew Huang: 7d8224cf cmdC1 42f88d85 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 24008576
+Read
+Dec 97d9242f
+Transfer
+Read
+Information issued by Andrew Huang: 24008576 cmdC0 97d9242f should be 0c276147 ...
+Compare  0c276147
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9ba9fba0
+Read
+Inc ae9e6c5d
+Transfer
+Read
+Information issued by Andrew Huang: 9ba9fba0 cmdC1 ae9e6c5d should be ca4867fd ...
+Compare  ca4867fd
+Write4B 8a2335b1
+Read
+Dec 2ab2d355
+Information issued by Andrew Huang: 8a2335b1 cmdC0 2ab2d355 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 93edf254
+Read
+Inc 38cfe171
+Transfer
+Read
+Information issued by Andrew Huang: 93edf254 cmdC1 38cfe171 should be ccbdd3c5 ...
+Compare  ccbdd3c5
+Write4B 70201cf0
+Read
+Dec a9d11453
+Transfer
+Read
+Information issued by Andrew Huang: 70201cf0 cmdC0 a9d11453 should be 464f089d ...
+Compare  464f089d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B eb6d45eb
+Read
+Inc faac04f5
+Transfer
+Read
+Information issued by Andrew Huang: eb6d45eb cmdC1 faac04f5 should be 66194ae0 ...
+Compare  66194ae0
+Write4B 7295a916
+Read
+Dec 149cfd29
+Transfer
+Read
+Information issued by Andrew Huang: 7295a916 cmdC0 149cfd29 should be 5df8abed ...
+Compare  5df8abed
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9073f84e
+Read
+Inc ebd39ed7
+Transfer
+Read
+Information issued by Andrew Huang: 9073f84e cmdC1 ebd39ed7 should be fc479725 ...
+Compare  fc479725
+Write4B 19740d40
+Read
+Dec 116b0122
+Transfer
+Read
+Information issued by Andrew Huang: 19740d40 cmdC0 116b0122 should be 08090c1e ...
+Compare  08090c1e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1a595e24
+Read
+Inc deff86bd
+Transfer
+Read
+Information issued by Andrew Huang: 1a595e24 cmdC1 deff86bd should be 7958e4e1 ...
+Compare  7958e4e1
+Write4B 7ec7588b
+Read
+Dec 8bebf617
+Transfer
+Read
+Information issued by Andrew Huang: 7ec7588b cmdC0 8bebf617 should be 72db6274 ...
+Compare  72db6274
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1e74d725
+Read
+Inc bee0e67d
+Transfer
+Read
+Information issued by Andrew Huang: 1e74d725 cmdC1 bee0e67d should be 5d55bda2 ...
+Compare  5d55bda2
+Write4B 6b658caf
+Read
+Dec 0962fb12
+Transfer
+Read
+Information issued by Andrew Huang: 6b658caf cmdC0 0962fb12 should be 6202919d ...
+Compare  6202919d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 2d067f83
+Read
+Inc 1b416136
+Transfer
+Read
+Information issued by Andrew Huang: 2d067f83 cmdC1 1b416136 should be 4847e0b9 ...
+Compare  4847e0b9
+Write4B 3d97c60c
+Read
+Dec 947d1828
+Transfer
+Read
+Information issued by Andrew Huang: 3d97c60c cmdC0 947d1828 should be 291aade4 ...
+Compare  291aade4
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5ad0ddbb
+Read
+Inc b273f464
+Information issued by Andrew Huang: 5ad0ddbb cmdC1 b273f464 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 224b05d9
+Read
+Dec dd0b22ba
+Transfer
+Read
+Information issued by Andrew Huang: 224b05d9 cmdC0 dd0b22ba should be c53fe31f ...
+Compare  c53fe31f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3ee4526f
+Read
+Inc de8f02bd
+Information issued by Andrew Huang: 3ee4526f cmdC1 de8f02bd should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 11baf7c4
+Read
+Dec 24401948
+Transfer
+Read
+Information issued by Andrew Huang: 11baf7c4 cmdC0 24401948 should be ed7ade7c ...
+Compare  ed7ade7c
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 64b12e1e
+Read
+Inc 0d859b1b
+Transfer
+Read
+Information issued by Andrew Huang: 64b12e1e cmdC1 0d859b1b should be 7236c939 ...
+Compare  7236c939
+Write4B aea66df4
+Read
+Dec a0aafe41
+Transfer
+Read
+Information issued by Andrew Huang: aea66df4 cmdC0 a0aafe41 should be 8dfb6fb3 ...
+Compare  8dfb6fb3
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 519b9515
+Read
+Inc 4d66e59a
+Information issued by Andrew Huang: 519b9515 cmdC1 4d66e59a should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B fde1c45e
+Read
+Dec 075d6f0e
+Transfer
+Read
+Information issued by Andrew Huang: fde1c45e cmdC0 075d6f0e should be f6845550 ...
+Compare  f6845550
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 09c1074a
+Read
+Inc 582aefb0
+Transfer
+Read
+Information issued by Andrew Huang: 09c1074a cmdC1 582aefb0 should be 61ebf6fa ...
+Compare  61ebf6fa
+Write4B 777cf861
+Read
+Dec 156a472a
+Transfer
+Read
+Information issued by Andrew Huang: 777cf861 cmdC0 156a472a should be 6212b137 ...
+Compare  6212b137
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B abc7111b
+Read
+Inc 13df3927
+Transfer
+Read
+Information issued by Andrew Huang: abc7111b cmdC1 13df3927 should be bfa64a42 ...
+Compare  bfa64a42
+Write4B 4403e84f
+Read
+Dec 34bd1d69
+Transfer
+Read
+Information issued by Andrew Huang: 4403e84f cmdC0 34bd1d69 should be 0f46cae6 ...
+Compare  0f46cae6
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fbfad967
+Read
+Inc 8b94b217
+Transfer
+Read
+Information issued by Andrew Huang: fbfad967 cmdC1 8b94b217 should be 078f8b7e ...
+Compare  078f8b7e
+Write4B e4970d08
+Read
+Dec 32f4b965
+Transfer
+Read
+Information issued by Andrew Huang: e4970d08 cmdC0 32f4b965 should be b1a253a3 ...
+Compare  b1a253a3
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B da8cf89b
+Read
+Inc 88667a10
+Transfer
+Read
+Information issued by Andrew Huang: da8cf89b cmdC1 88667a10 should be e2f372ab ...
+Compare  e2f372ab
+Write4B e63e4abe
+Read
+Dec b5a4686b
+Transfer
+Read
+Information issued by Andrew Huang: e63e4abe cmdC0 b5a4686b should be b099e253 ...
+Compare  b099e253
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7797ae5d
+Read
+Inc ab7a5e56
+Information issued by Andrew Huang: 7797ae5d cmdC1 ab7a5e56 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 77dfa69d
+Read
+Dec 24c5fd49
+Transfer
+Read
+Information issued by Andrew Huang: 77dfa69d cmdC0 24c5fd49 should be 5319a954 ...
+Compare  5319a954
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 299a0bac
+Read
+Inc 3769436e
+Transfer
+Read
+Information issued by Andrew Huang: 299a0bac cmdC1 3769436e should be 61034f1a ...
+Compare  61034f1a
+Write4B 8a62f329
+Read
+Dec 2f3f255e
+Information issued by Andrew Huang: 8a62f329 cmdC0 2f3f255e should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f665d75e
+Read
+Inc ea0fd6d4
+Transfer
+Read
+Information issued by Andrew Huang: f665d75e cmdC1 ea0fd6d4 should be 6075ae32 ...
+Compare  6075ae32
+Write4B 71d8a07b
+Read
+Dec f3090ce6
+Transfer
+Read
+Information issued by Andrew Huang: 71d8a07b cmdC0 f3090ce6 should be fecf9395 ...
+Compare  fecf9395
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 06e14eb9
+Read
+Inc 9b3c3436
+Transfer
+Read
+Information issued by Andrew Huang: 06e14eb9 cmdC1 9b3c3436 should be 221d82ef ...
+Compare  221d82ef
+Write4B 1680ecb6
+Read
+Dec 5dc801bb
+Transfer
+Read
+Information issued by Andrew Huang: 1680ecb6 cmdC0 5dc801bb should be b8b8eafb ...
+Compare  b8b8eafb
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e0cefb23
+Read
+Inc b6089c6c
+Transfer
+Read
+Information issued by Andrew Huang: e0cefb23 cmdC1 b6089c6c should be 16d7978f ...
+Compare  16d7978f
+Write4B 0938e1a4
+Read
+Dec 5b3629b6
+Transfer
+Read
+Information issued by Andrew Huang: 0938e1a4 cmdC0 5b3629b6 should be ae02b7ee ...
+Compare  ae02b7ee
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c1953cba
+Read
+Inc 12b0dd25
+Transfer
+Read
+Information issued by Andrew Huang: c1953cba cmdC1 12b0dd25 should be d44619df ...
+Compare  d44619df
+Write4B 1fcd1ae9
+Read
+Dec 38111d70
+Transfer
+Read
+Information issued by Andrew Huang: 1fcd1ae9 cmdC0 38111d70 should be e7bbfd79 ...
+Compare  e7bbfd79
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 58abbe6f
+Read
+Inc ee1320dc
+Information issued by Andrew Huang: 58abbe6f cmdC1 ee1320dc should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B b0918125
+Read
+Dec 60271bc0
+Information issued by Andrew Huang: b0918125 cmdC0 60271bc0 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6d16ab70
+Read
+Inc 44122788
+Information issued by Andrew Huang: 6d16ab70 cmdC1 44122788 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 78ab45f1
+Read
+Dec d53f3caa
+Transfer
+Read
+Information issued by Andrew Huang: 78ab45f1 cmdC0 d53f3caa should be 236c0947 ...
+Compare  236c0947
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3b162ec2
+Read
+Inc 819dcc03
+Transfer
+Read
+Information issued by Andrew Huang: 3b162ec2 cmdC1 819dcc03 should be 3cb3fac5 ...
+Compare  3cb3fac5
+Write4B 0aa4728a
+Read
+Dec 504897a0
+Transfer
+Read
+Information issued by Andrew Huang: 0aa4728a cmdC0 504897a0 should be ba5bdaea ...
+Compare  ba5bdaea
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 269dc0f2
+Read
+Inc 16c61f2d
+Transfer
+Read
+Information issued by Andrew Huang: 269dc0f2 cmdC1 16c61f2d should be 3d63e01f ...
+Compare  3d63e01f
+Write4B 0635e687
+Read
+Dec c2d7f285
+Transfer
+Read
+Information issued by Andrew Huang: 0635e687 cmdC0 c2d7f285 should be c35df402 ...
+Compare  c35df402
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 22075afb
+Read
+Inc aadd7055
+Transfer
+Read
+Information issued by Andrew Huang: 22075afb cmdC1 aadd7055 should be 4ce4cb50 ...
+Compare  4ce4cb50
+Write4B aabd5d3e
+Read
+Dec a7309e4e
+Transfer
+Read
+Information issued by Andrew Huang: aabd5d3e cmdC0 a7309e4e should be 838cbef0 ...
+Compare  838cbef0
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 13d8c476
+Read
+Inc f4f0b2e9
+Information issued by Andrew Huang: 13d8c476 cmdC1 f4f0b2e9 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 453e7810
+Read
+Dec d9a37ab3
+Transfer
+Read
+Information issued by Andrew Huang: 453e7810 cmdC0 d9a37ab3 should be eb9afd5d ...
+Compare  eb9afd5d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 8393be20
+Read
+Inc 6c0e33d8
+Transfer
+Read
+Information issued by Andrew Huang: 8393be20 cmdC1 6c0e33d8 should be efa1f1f8 ...
+Compare  efa1f1f8
+Write4B a909e185
+Read
+Dec 0f9a8d1f
+Transfer
+Read
+Information issued by Andrew Huang: a909e185 cmdC0 0f9a8d1f should be 996f5466 ...
+Compare  996f5466
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 2310d7c0
+Read
+Inc e42a7ac8
+Information issued by Andrew Huang: 2310d7c0 cmdC1 e42a7ac8 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B b2a98960
+Read
+Dec 30ce5561
+Transfer
+Read
+Information issued by Andrew Huang: b2a98960 cmdC0 30ce5561 should be 81db33ff ...
+Compare  81db33ff
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 11a70550
+Read
+Inc 427ac584
+Transfer
+Read
+Information issued by Andrew Huang: 11a70550 cmdC1 427ac584 should be 5421cad4 ...
+Compare  5421cad4
+Write4B fb000324
+Read
+Dec d07b20a0
+Transfer
+Read
+Information issued by Andrew Huang: fb000324 cmdC0 d07b20a0 should be aa84e284 ...
+Compare  aa84e284
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5f601d56
+Read
+Inc 42030784
+Information issued by Andrew Huang: 5f601d56 cmdC1 42030784 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B c56be67b
+Read
+Dec bca79679
+Transfer
+Read
+Information issued by Andrew Huang: c56be67b cmdC0 bca79679 should be 88c45002 ...
+Compare  88c45002
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f8d0db44
+Read
+Inc 93954a27
+Transfer
+Read
+Information issued by Andrew Huang: f8d0db44 cmdC1 93954a27 should be 0c66256b ...
+Compare  0c66256b
+Write4B e389cb79
+Read
+Dec 200b8140
+Transfer
+Read
+Information issued by Andrew Huang: e389cb79 cmdC0 200b8140 should be c37e4a39 ...
+Compare  c37e4a39
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 910973b3
+Read
+Inc a7c6e04f
+Transfer
+Read
+Information issued by Andrew Huang: 910973b3 cmdC1 a7c6e04f should be b8d05402 ...
+Compare  b8d05402
+Write4B e93c787d
+Read
+Dec 498f8593
+Transfer
+Read
+Information issued by Andrew Huang: e93c787d cmdC0 498f8593 should be 9facf2ea ...
+Compare  9facf2ea
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 406991d8
+Read
+Inc dd649cba
+Information issued by Andrew Huang: 406991d8 cmdC1 dd649cba should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 415de9fe
+Read
+Dec 0a38f514
+Transfer
+Read
+Information issued by Andrew Huang: 415de9fe cmdC0 0a38f514 should be 3724f4ea ...
+Compare  3724f4ea
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 77cd53f2
+Read
+Inc 77125bee
+Information issued by Andrew Huang: 77cd53f2 cmdC1 77125bee should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B b63669ec
+Read
+Dec fb74b4f6
+Information issued by Andrew Huang: b63669ec cmdC0 fb74b4f6 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 03f7a30f
+Read
+Inc 39b3b573
+Transfer
+Read
+Information issued by Andrew Huang: 03f7a30f cmdC1 39b3b573 should be 3dab5882 ...
+Compare  3dab5882
+Write4B 9603897b
+Read
+Dec 560ab5ac
+Information issued by Andrew Huang: 9603897b cmdC0 560ab5ac should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B acec5013
+Read
+Inc e1bb26c3
+Transfer
+Read
+Information issued by Andrew Huang: acec5013 cmdC1 e1bb26c3 should be 0ea776d6 ...
+Compare  0ea776d6
+Write4B e2d26cee
+Read
+Dec 1b011336
+Transfer
+Read
+Information issued by Andrew Huang: e2d26cee cmdC0 1b011336 should be c7d159b8 ...
+Compare  c7d159b8
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 34fda57c
+Read
+Inc ff7628fe
+Information issued by Andrew Huang: 34fda57c cmdC1 ff7628fe should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 2dccab95
+Read
+Dec 96eafe2d
+Transfer
+Read
+Information issued by Andrew Huang: 2dccab95 cmdC0 96eafe2d should be 16e1ad68 ...
+Compare  16e1ad68
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 18762b14
+Read
+Inc 19b02f33
+Transfer
+Read
+Information issued by Andrew Huang: 18762b14 cmdC1 19b02f33 should be 32265a47 ...
+Compare  32265a47
+Write4B 7d7ebcf4
+Read
+Dec 1348a326
+Transfer
+Read
+Information issued by Andrew Huang: 7d7ebcf4 cmdC0 1348a326 should be 6a3619ce ...
+Compare  6a3619ce
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 196dfcd0
+Read
+Inc fd1882fa
+Information issued by Andrew Huang: 196dfcd0 cmdC1 fd1882fa should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B ac0b5f09
+Read
+Dec e23ff0c4
+Information issued by Andrew Huang: ac0b5f09 cmdC0 e23ff0c4 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fce0803c
+Read
+Inc d5582eaa
+Transfer
+Read
+Information issued by Andrew Huang: fce0803c cmdC1 d5582eaa should be 5238aee6 ...
+Compare  5238aee6
+Write4B 9d08f1a8
+Read
+Dec 47c2078f
+Information issued by Andrew Huang: 9d08f1a8 cmdC0 47c2078f should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fe7791f9
+Read
+Inc db3d66b6
+Transfer
+Read
+Information issued by Andrew Huang: fe7791f9 cmdC1 db3d66b6 should be 59b4f8af ...
+Compare  59b4f8af
+Write4B 61d5e507
+Read
+Dec 8a2c5014
+Transfer
+Read
+Information issued by Andrew Huang: 61d5e507 cmdC0 8a2c5014 should be 57a994f3 ...
+Compare  57a994f3
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 30059045
+Read
+Inc 5f8ba1bf
+Information issued by Andrew Huang: 30059045 cmdC1 5f8ba1bf should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 4953d29d
+Read
+Dec bf3fd07e
+Transfer
+Read
+Information issued by Andrew Huang: 4953d29d cmdC0 bf3fd07e should be 0a14021f ...
+Compare  0a14021f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 266ab9c1
+Read
+Inc 35d3ff6b
+Transfer
+Read
+Information issued by Andrew Huang: 266ab9c1 cmdC1 35d3ff6b should be 5c3eb92c ...
+Compare  5c3eb92c
+Write4B 9f861f4b
+Read
+Dec 86b9d00d
+Transfer
+Read
+Information issued by Andrew Huang: 9f861f4b cmdC0 86b9d00d should be 98cc4f3e ...
+Compare  98cc4f3e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1bac0573
+Read
+Inc 271b614e
+Transfer
+Read
+Information issued by Andrew Huang: 1bac0573 cmdC1 271b614e should be 42c766c1 ...
+Compare  42c766c1
+Write4B 43be5c18
+Read
+Dec 1875bf30
+Transfer
+Read
+Information issued by Andrew Huang: 43be5c18 cmdC0 1875bf30 should be 2b489ce8 ...
+Compare  2b489ce8
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 79426f24
+Read
+Inc d6d47ead
+Information issued by Andrew Huang: 79426f24 cmdC1 d6d47ead should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B ad9c3e44
+Read
+Dec 66176fcc
+Information issued by Andrew Huang: ad9c3e44 cmdC0 66176fcc should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9bf94c23
+Read
+Inc da178cb4
+Transfer
+Read
+Information issued by Andrew Huang: 9bf94c23 cmdC1 da178cb4 should be f610d8d7 ...
+Compare  f610d8d7
+Write4B 032950e8
+Read
+Dec 8c925819
+Transfer
+Read
+Information issued by Andrew Huang: 032950e8 cmdC0 8c925819 should be f696f8cf ...
+Compare  f696f8cf
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 110efb79
+Read
+Inc 660a19cc
+Transfer
+Read
+Information issued by Andrew Huang: 110efb79 cmdC1 660a19cc should be 77191545 ...
+Compare  77191545
+Write4B 5d32b7cc
+Read
+Dec dbe4eab7
+Transfer
+Read
+Information issued by Andrew Huang: 5d32b7cc cmdC0 dbe4eab7 should be 014dcd15 ...
+Compare  014dcd15
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B cae74160
+Read
+Inc f0b31ce1
+Transfer
+Read
+Information issued by Andrew Huang: cae74160 cmdC1 f0b31ce1 should be 3b9a5e41 ...
+Compare  3b9a5e41
+Write4B 01f85878
+Read
+Dec 65450fca
+Transfer
+Read
+Information issued by Andrew Huang: 01f85878 cmdC0 65450fca should be 9cb348ae ...
+Compare  9cb348ae
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 01178ae0
+Read
+Inc b908e472
+Transfer
+Read
+Information issued by Andrew Huang: 01178ae0 cmdC1 b908e472 should be 3a206f52 ...
+Compare  3a206f52
+Write4B 11e72244
+Read
+Dec 24294748
+Transfer
+Read
+Information issued by Andrew Huang: 11e72244 cmdC0 24294748 should be edbddafc ...
+Compare  edbddafc
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c12340aa
+Read
+Inc 2fee475f
+Transfer
+Read
+Information issued by Andrew Huang: c12340aa cmdC1 2fee475f should be f1118809 ...
+Compare  f1118809
+Write4B 65c40b9c
+Read
+Dec d905a0b2
+Transfer
+Read
+Information issued by Andrew Huang: 65c40b9c cmdC0 d905a0b2 should be 0cbe6aea ...
+Compare  0cbe6aea
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fde5322a
+Read
+Inc 3d99d97b
+Transfer
+Read
+Information issued by Andrew Huang: fde5322a cmdC1 3d99d97b should be 3b7f0ba5 ...
+Compare  3b7f0ba5
+Write4B 92745253
+Read
+Dec 722e5be4
+Information issued by Andrew Huang: 92745253 cmdC0 722e5be4 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 43616144
+Read
+Inc dad1c8b5
+Information issued by Andrew Huang: 43616144 cmdC1 dad1c8b5 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 9a89e1e8
+Read
+Dec 0ea0b31d
+Transfer
+Read
+Information issued by Andrew Huang: 9a89e1e8 cmdC0 0ea0b31d should be 8be92ecb ...
+Compare  8be92ecb
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3d6e3fa6
+Read
+Inc 3b04a376
+Transfer
+Read
+Information issued by Andrew Huang: 3d6e3fa6 cmdC1 3b04a376 should be 7872e31c ...
+Compare  7872e31c
+Write4B d29ff845
+Read
+Dec 26c3474d
+Transfer
+Read
+Information issued by Andrew Huang: d29ff845 cmdC0 26c3474d should be abdcb0f8 ...
+Compare  abdcb0f8
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B ca820ef7
+Read
+Inc c3f4ac87
+Transfer
+Read
+Information issued by Andrew Huang: ca820ef7 cmdC1 c3f4ac87 should be 0e76bb7e ...
+Compare  0e76bb7e
+Write4B d9730fd3
+Read
+Dec f050b4e0
+Information issued by Andrew Huang: d9730fd3 cmdC0 f050b4e0 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 2d56901c
+Read
+Inc 216e9142
+Transfer
+Read
+Information issued by Andrew Huang: 2d56901c cmdC1 216e9142 should be 4ec5215e ...
+Compare  4ec5215e
+Write4B 164a9e54
+Read
+Dec d7f9eaaf
+Transfer
+Read
+Information issued by Andrew Huang: 164a9e54 cmdC0 d7f9eaaf should be be50b3a5 ...
+Compare  be50b3a5
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0d2ef3dc
+Read
+Inc fe54defc
+Information issued by Andrew Huang: 0d2ef3dc cmdC1 fe54defc should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 2c94fa04
+Read
+Dec 9cbdaa39
+Transfer
+Read
+Information issued by Andrew Huang: 2c94fa04 cmdC0 9cbdaa39 should be 0fd74fcb ...
+Compare  0fd74fcb
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B d77daa67
+Read
+Inc 35bc436b
+Transfer
+Read
+Information issued by Andrew Huang: d77daa67 cmdC1 35bc436b should be 0d39edd2 ...
+Compare  0d39edd2
+Write4B e572f64e
+Read
+Dec fa04cef4
+Information issued by Andrew Huang: e572f64e cmdC0 fa04cef4 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7751c3a4
+Read
+Inc 3c0d1b78
+Information issued by Andrew Huang: 7751c3a4 cmdC1 3c0d1b78 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 61abc424
+Read
+Dec f7fac8ef
+Transfer
+Read
+Information issued by Andrew Huang: 61abc424 cmdC0 f7fac8ef should be e9b0fb35 ...
+Compare  e9b0fb35
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 8771fe24
+Read
+Inc 4c6c9b98
+Transfer
+Read
+Information issued by Andrew Huang: 8771fe24 cmdC1 4c6c9b98 should be d3de99bc ...
+Compare  d3de99bc
+Write4B 6d3cb5d5
+Read
+Dec 0fb4cf1f
+Transfer
+Read
+Information issued by Andrew Huang: 6d3cb5d5 cmdC0 0fb4cf1f should be 5d87e6b6 ...
+Compare  5d87e6b6
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e978fa02
+Read
+Inc 97b0962f
+Transfer
+Read
+Information issued by Andrew Huang: e978fa02 cmdC1 97b0962f should be 01299031 ...
+Compare  01299031
+Write4B 07cb8f2b
+Read
+Dec 590aa9b2
+Transfer
+Read
+Information issued by Andrew Huang: 07cb8f2b cmdC0 590aa9b2 should be aec0e579 ...
+Compare  aec0e579
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 068194a0
+Read
+Inc 646d65c8
+Transfer
+Read
+Information issued by Andrew Huang: 068194a0 cmdC1 646d65c8 should be 6aeefa68 ...
+Compare  6aeefa68
+Write4B aff579be
+Read
+Dec 2cb65f59
+Transfer
+Read
+Information issued by Andrew Huang: aff579be cmdC0 2cb65f59 should be 833f1a65 ...
+Compare  833f1a65
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 4ee906c2
+Read
+Inc f9d6b4f3
+Information issued by Andrew Huang: 4ee906c2 cmdC1 f9d6b4f3 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B ca6d0ff5
+Read
+Dec 1468b528
+Transfer
+Read
+Information issued by Andrew Huang: ca6d0ff5 cmdC0 1468b528 should be b6045acd ...
+Compare  b6045acd
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0b5c358f
+Read
+Inc ae91aa5d
+Transfer
+Read
+Information issued by Andrew Huang: 0b5c358f cmdC1 ae91aa5d should be 39eddfec ...
+Compare  39eddfec
+Write4B cf1a9f12
+Read
+Dec 9722422e
+Transfer
+Read
+Information issued by Andrew Huang: cf1a9f12 cmdC0 9722422e should be b7f85ce4 ...
+Compare  b7f85ce4
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fa4edc05
+Read
+Inc 944f6e28
+Transfer
+Read
+Information issued by Andrew Huang: fa4edc05 cmdC1 944f6e28 should be 0e9e4a2d ...
+Compare  0e9e4a2d
+Write4B c1c4db23
+Read
+Dec 8b20ba16
+Transfer
+Read
+Information issued by Andrew Huang: c1c4db23 cmdC0 8b20ba16 should be b6a4210d ...
+Compare  b6a4210d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9069a91a
+Read
+Inc acabbe59
+Transfer
+Read
+Information issued by Andrew Huang: 9069a91a cmdC1 acabbe59 should be bd156773 ...
+Compare  bd156773
+Write4B 362cdde7
+Read
+Dec 1716612e
+Transfer
+Read
+Information issued by Andrew Huang: 362cdde7 cmdC0 1716612e should be 1f167cb9 ...
+Compare  1f167cb9
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 45cf2010
+Read
+Inc 20a57541
+Transfer
+Read
+Information issued by Andrew Huang: 45cf2010 cmdC1 20a57541 should be 66749551 ...
+Compare  66749551
+Write4B 3837ef9e
+Read
+Dec 5a9e65b5
+Transfer
+Read
+Information issued by Andrew Huang: 3837ef9e cmdC0 5a9e65b5 should be dd9989e9 ...
+Compare  dd9989e9
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 66b20968
+Read
+Inc e19182c3
+Information issued by Andrew Huang: 66b20968 cmdC1 e19182c3 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B c054cc36
+Read
+Dec 853dd40a
+Transfer
+Read
+Information issued by Andrew Huang: c054cc36 cmdC0 853dd40a should be bb16f82c ...
+Compare  bb16f82c
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6b2e5a5b
+Read
+Inc 3be38977
+Information issued by Andrew Huang: 6b2e5a5b cmdC1 3be38977 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B faed7346
+Read
+Dec e606becc
+Transfer
+Read
+Information issued by Andrew Huang: faed7346 cmdC0 e606becc should be 94e6b47a ...
+Compare  94e6b47a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B cc9e7cfa
+Read
+Inc ce1a149c
+Transfer
+Read
+Information issued by Andrew Huang: cc9e7cfa cmdC1 ce1a149c should be 1ab89196 ...
+Compare  1ab89196
+Write4B e04294eb
+Read
+Dec 9786b62f
+Transfer
+Read
+Information issued by Andrew Huang: e04294eb cmdC0 9786b62f should be c8bbdebc ...
+Compare  c8bbdebc
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B dfb16d29
+Read
+Inc b198c263
+Transfer
+Read
+Information issued by Andrew Huang: dfb16d29 cmdC1 b198c263 should be 114a2f8c ...
+Compare  114a2f8c
+Write4B d2130975
+Read
+Dec 25cdaf4b
+Transfer
+Read
+Information issued by Andrew Huang: d2130975 cmdC0 25cdaf4b should be ac455a2a ...
+Compare  ac455a2a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 522ea911
+Read
+Inc 623e15c4
+Information issued by Andrew Huang: 522ea911 cmdC1 623e15c4 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 7d2d852b
+Read
+Dec 9c70e238
+Transfer
+Read
+Information issued by Andrew Huang: 7d2d852b cmdC0 9c70e238 should be 60bca2f3 ...
+Compare  60bca2f3
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B bf0c34a6
+Read
+Inc 20416b40
+Transfer
+Read
+Information issued by Andrew Huang: bf0c34a6 cmdC1 20416b40 should be df4d9fe6 ...
+Compare  df4d9fe6
+Write4B 8c95476d
+Read
+Dec 2d538f5a
+Information issued by Andrew Huang: 8c95476d cmdC0 2d538f5a should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 555eaa1b
+Read
+Inc 52800da5
+Information issued by Andrew Huang: 555eaa1b cmdC1 52800da5 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 82519d92
+Read
+Dec 1acda535
+Information issued by Andrew Huang: 82519d92 cmdC0 1acda535 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a8f4a469
+Read
+Inc 55ca25ab
+Transfer
+Read
+Information issued by Andrew Huang: a8f4a469 cmdC1 55ca25ab should be febeca14 ...
+Compare  febeca14
+Write4B 7bbe4dc5
+Read
+Dec b797c66f
+Transfer
+Read
+Information issued by Andrew Huang: 7bbe4dc5 cmdC0 b797c66f should be 44268756 ...
+Compare  44268756
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5e6e29f4
+Read
+Inc ba557e74
+Information issued by Andrew Huang: 5e6e29f4 cmdC1 ba557e74 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 37acc914
+Read
+Dec 50e0e3a1
+Transfer
+Read
+Information issued by Andrew Huang: 37acc914 cmdC0 50e0e3a1 should be e6cbe573 ...
+Compare  e6cbe573
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 2639d43b
+Read
+Inc 51cde9a3
+Transfer
+Read
+Information issued by Andrew Huang: 2639d43b cmdC1 51cde9a3 should be 7807bdde ...
+Compare  7807bdde
+Write4B bae7e1a9
+Read
+Dec a563104a
+Transfer
+Read
+Information issued by Andrew Huang: bae7e1a9 cmdC0 a563104a should be 9584d15f ...
+Compare  9584d15f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 244603a4
+Read
+Inc 287e8150
+Transfer
+Read
+Information issued by Andrew Huang: 244603a4 cmdC1 287e8150 should be 4cc484f4 ...
+Compare  4cc484f4
+Write4B 6bc0ee92
+Read
+Dec 8c3b6c18
+Transfer
+Read
+Information issued by Andrew Huang: 6bc0ee92 cmdC0 8c3b6c18 should be 5f85827a ...
+Compare  5f85827a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B edead2ea
+Read
+Inc 21165342
+Transfer
+Read
+Information issued by Andrew Huang: edead2ea cmdC1 21165342 should be 0f01262c ...
+Compare  0f01262c
+Write4B 0bbb03f0
+Read
+Dec 34e28369
+Transfer
+Read
+Information issued by Andrew Huang: 0bbb03f0 cmdC0 34e28369 should be d6d88087 ...
+Compare  d6d88087
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B edc23fa1
+Read
+Inc 9993de33
+Transfer
+Read
+Information issued by Andrew Huang: edc23fa1 cmdC1 9993de33 should be 07561dd4 ...
+Compare  07561dd4
+Write4B 7001c9da
+Read
+Dec 99adc033
+Transfer
+Read
+Information issued by Andrew Huang: 7001c9da cmdC0 99adc033 should be 565409a7 ...
+Compare  565409a7
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7405ad2e
+Read
+Inc eb9e34d7
+Information issued by Andrew Huang: 7405ad2e cmdC1 eb9e34d7 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 027fcd47
+Read
+Dec 2f1bd15e
+Transfer
+Read
+Information issued by Andrew Huang: 027fcd47 cmdC0 2f1bd15e should be d363fbe9 ...
+Compare  d363fbe9
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f6e7e5d3
+Read
+Inc 9943e832
+Transfer
+Read
+Information issued by Andrew Huang: f6e7e5d3 cmdC1 9943e832 should be 102bce05 ...
+Compare  102bce05
+Write4B bf885f01
+Read
+Dec fa249cf4
+Information issued by Andrew Huang: bf885f01 cmdC0 fa249cf4 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 181108e5
+Read
+Inc 734069e6
+Information issued by Andrew Huang: 181108e5 cmdC1 734069e6 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B e20e61b4
+Read
+Dec 68f927d1
+Information issued by Andrew Huang: e20e61b4 cmdC0 68f927d1 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f0f19912
+Read
+Inc e32278c6
+Transfer
+Read
+Information issued by Andrew Huang: f0f19912 cmdC1 e32278c6 should be 541411d8 ...
+Compare  541411d8
+Write4B 3c928ee1
+Read
+Dec 74f8f5e9
+Transfer
+Read
+Information issued by Andrew Huang: 3c928ee1 cmdC0 74f8f5e9 should be c79998f8 ...
+Compare  c79998f8
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3e07593d
+Read
+Inc 279e3d4f
+Transfer
+Read
+Information issued by Andrew Huang: 3e07593d cmdC1 279e3d4f should be 65a5968c ...
+Compare  65a5968c
+Write4B 1f87aebf
+Read
+Dec 62b877c5
+Transfer
+Read
+Information issued by Andrew Huang: 1f87aebf cmdC0 62b877c5 should be bccf36fa ...
+Compare  bccf36fa
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 95ec3064
+Read
+Inc 28aeb351
+Transfer
+Read
+Information issued by Andrew Huang: 95ec3064 cmdC1 28aeb351 should be be9ae3b5 ...
+Compare  be9ae3b5
+Write4B 22ad69ca
+Read
+Dec 01963503
+Transfer
+Read
+Information issued by Andrew Huang: 22ad69ca cmdC0 01963503 should be 211734c7 ...
+Compare  211734c7
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 71fba12c
+Read
+Inc 054c0b0a
+Transfer
+Read
+Information issued by Andrew Huang: 71fba12c cmdC1 054c0b0a should be 7747ac36 ...
+Compare  7747ac36
+Write4B d0199d0f
+Read
+Dec f3c6a8e7
+Information issued by Andrew Huang: d0199d0f cmdC0 f3c6a8e7 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 305eeaf4
+Read
+Inc ff834cff
+Information issued by Andrew Huang: 305eeaf4 cmdC1 ff834cff should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B b357b9d0
+Read
+Dec f85e10f0
+Information issued by Andrew Huang: b357b9d0 cmdC0 f85e10f0 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 8cc29316
+Read
+Inc b39ebc67
+Transfer
+Read
+Information issued by Andrew Huang: 8cc29316 cmdC1 b39ebc67 should be c0614f7d ...
+Compare  c0614f7d
+Write4B 4fc62646
+Read
+Dec 6a9691d5
+Transfer
+Read
+Information issued by Andrew Huang: 4fc62646 cmdC0 6a9691d5 should be e52f9471 ...
+Compare  e52f9471
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e1a36c22
+Read
+Inc 08371510
+Transfer
+Read
+Information issued by Andrew Huang: e1a36c22 cmdC1 08371510 should be e9da8132 ...
+Compare  e9da8132
+Write4B 4a91efe0
+Read
+Dec 1d311f3a
+Transfer
+Read
+Information issued by Andrew Huang: 4a91efe0 cmdC0 1d311f3a should be 2d60d0a6 ...
+Compare  2d60d0a6
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 826ce91f
+Read
+Inc 8d8fb21b
+Transfer
+Read
+Information issued by Andrew Huang: 826ce91f cmdC1 8d8fb21b should be 8ffc9b3a ...
+Compare  8ffc9b3a
+Write4B d189230e
+Read
+Dec fdf16afb
+Information issued by Andrew Huang: d189230e cmdC0 fdf16afb should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3a4332f0
+Read
+Inc 0546090a
+Transfer
+Read
+Information issued by Andrew Huang: 3a4332f0 cmdC1 0546090a should be 3f893bfa ...
+Compare  3f893bfa
+Write4B d56a53c0
+Read
+Dec 6981b5d3
+Information issued by Andrew Huang: d56a53c0 cmdC0 6981b5d3 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 41c06576
+Read
+Inc d5688aaa
+Information issued by Andrew Huang: 41c06576 cmdC1 d5688aaa should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 525c9919
+Read
+Dec 8e0b561c
+Transfer
+Read
+Information issued by Andrew Huang: 525c9919 cmdC0 8e0b561c should be 445142fd ...
+Compare  445142fd
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 643b890d
+Read
+Inc c2fbda85
+Information issued by Andrew Huang: 643b890d cmdC1 c2fbda85 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 151065dd
+Read
+Dec 91de8423
+Transfer
+Read
+Information issued by Andrew Huang: 151065dd cmdC0 91de8423 should be 0331e1ba ...
+Compare  0331e1ba
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B ab419c32
+Read
+Inc f10410e2
+Transfer
+Read
+Information issued by Andrew Huang: ab419c32 cmdC1 f10410e2 should be 1c45ad14 ...
+Compare  1c45ad14
+Write4B b143f46d
+Read
+Dec 1c6f8538
+Transfer
+Read
+Information issued by Andrew Huang: b143f46d cmdC0 1c6f8538 should be 94d46f35 ...
+Compare  94d46f35
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9ccf2b7e
+Read
+Inc dff56abf
+Transfer
+Read
+Information issued by Andrew Huang: 9ccf2b7e cmdC1 dff56abf should be fcc4963d ...
+Compare  fcc4963d
+Write4B 831e8e61
+Read
+Dec ae154e5c
+Information issued by Andrew Huang: 831e8e61 cmdC0 ae154e5c should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7eba4b33
+Read
+Inc f787c2ef
+Information issued by Andrew Huang: 7eba4b33 cmdC1 f787c2ef should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 4470d76a
+Read
+Dec 69395dd2
+Transfer
+Read
+Information issued by Andrew Huang: 4470d76a cmdC0 69395dd2 should be db377998 ...
+Compare  db377998
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 570239d1
+Read
+Inc 56f95bad
+Information issued by Andrew Huang: 570239d1 cmdC1 56f95bad should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 996cb0c6
+Read
+Dec 5a6203b4
+Information issued by Andrew Huang: 996cb0c6 cmdC0 5a6203b4 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B bc0c8581
+Read
+Inc 00960301
+Transfer
+Read
+Information issued by Andrew Huang: bc0c8581 cmdC1 00960301 should be bca28882 ...
+Compare  bca28882
+Write4B 05acbd0b
+Read
+Dec f559ecea
+Transfer
+Read
+Information issued by Andrew Huang: 05acbd0b cmdC0 f559ecea should be 9052d021 ...
+Compare  9052d021
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 27ad22fe
+Read
+Inc 624125c4
+Information issued by Andrew Huang: 27ad22fe cmdC1 624125c4 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B da798da5
+Read
+Dec ec12d8d8
+Information issued by Andrew Huang: da798da5 cmdC0 ec12d8d8 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c186e8ec
+Read
+Inc d61d5eac
+Transfer
+Read
+Information issued by Andrew Huang: c186e8ec cmdC1 d61d5eac should be 17a44798 ...
+Compare  17a44798
+Write4B 8f42081f
+Read
+Dec 75156fea
+Information issued by Andrew Huang: 8f42081f cmdC0 75156fea should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 45afd4cd
+Read
+Inc 8ae85e15
+Transfer
+Read
+Information issued by Andrew Huang: 45afd4cd cmdC1 8ae85e15 should be 509832e2 ...
+Compare  509832e2
+Write4B 48e5628d
+Read
+Dec 80e39201
+Transfer
+Read
+Information issued by Andrew Huang: 48e5628d cmdC0 80e39201 should be 4801d08c ...
+Compare  4801d08c
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 491aeab0
+Read
+Inc d967f8b2
+Information issued by Andrew Huang: 491aeab0 cmdC1 d967f8b2 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B ce7f43d8
+Read
+Dec 974f782e
+Transfer
+Read
+Information issued by Andrew Huang: ce7f43d8 cmdC0 974f782e should be b72fcbaa ...
+Compare  b72fcbaa
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0c969fd2
+Read
+Inc 4e15ad9c
+Transfer
+Read
+Information issued by Andrew Huang: 0c969fd2 cmdC1 4e15ad9c should be 5aac4d6e ...
+Compare  5aac4d6e
+Write4B d0186d7b
+Read
+Dec deac9abd
+Information issued by Andrew Huang: d0186d7b cmdC0 deac9abd should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 48bd7761
+Read
+Inc 610e7bc2
+Information issued by Andrew Huang: 48bd7761 cmdC1 610e7bc2 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 22ed7e6d
+Read
+Dec 9ea9d03d
+Transfer
+Read
+Information issued by Andrew Huang: 22ed7e6d cmdC0 9ea9d03d should be 0443ae30 ...
+Compare  0443ae30
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 211d2ac6
+Read
+Inc 36dd536d
+Transfer
+Read
+Information issued by Andrew Huang: 211d2ac6 cmdC1 36dd536d should be 57fa7e33 ...
+Compare  57fa7e33
+Write4B 8b6dabba
+Read
+Dec 1902d732
+Information issued by Andrew Huang: 8b6dabba cmdC0 1902d732 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6a2f1041
+Read
+Inc 4e34bd9c
+Information issued by Andrew Huang: 6a2f1041 cmdC1 4e34bd9c should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 453a0d46
+Read
+Dec c8da8691
+Transfer
+Read
+Information issued by Andrew Huang: 453a0d46 cmdC0 c8da8691 should be fc5f86b5 ...
+Compare  fc5f86b5
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 8bb3a462
+Read
+Inc 176e072e
+Transfer
+Read
+Information issued by Andrew Huang: 8bb3a462 cmdC1 176e072e should be a321ab90 ...
+Compare  a321ab90
+Write4B e3ed0d87
+Read
+Dec f08bfee1
+Information issued by Andrew Huang: e3ed0d87 cmdC0 f08bfee1 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f76b7da8
+Read
+Inc 4beef197
+Transfer
+Read
+Information issued by Andrew Huang: f76b7da8 cmdC1 4beef197 should be 435a6f3f ...
+Compare  435a6f3f
+Write4B 2d9621cf
+Read
+Dec bfecf47f
+Transfer
+Read
+Information issued by Andrew Huang: 2d9621cf cmdC0 bfecf47f should be eda92d50 ...
+Compare  eda92d50
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 492c6ad1
+Read
+Inc d53a8aaa
+Information issued by Andrew Huang: 492c6ad1 cmdC1 d53a8aaa should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 20e9823c
+Read
+Dec 9462d028
+Transfer
+Read
+Information issued by Andrew Huang: 20e9823c cmdC0 9462d028 should be 0c86b214 ...
+Compare  0c86b214
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 68be17c9
+Read
+Inc 0bfc8117
+Transfer
+Read
+Information issued by Andrew Huang: 68be17c9 cmdC1 0bfc8117 should be 74ba98e0 ...
+Compare  74ba98e0
+Write4B bd7e6892
+Read
+Dec 2853ed50
+Transfer
+Read
+Information issued by Andrew Huang: bd7e6892 cmdC0 2853ed50 should be 952a7b42 ...
+Compare  952a7b42
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7b3cfaca
+Read
+Inc e4564cc8
+Information issued by Andrew Huang: 7b3cfaca cmdC1 e4564cc8 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 72138942
+Read
+Dec 3cd7eb79
+Transfer
+Read
+Information issued by Andrew Huang: 72138942 cmdC0 3cd7eb79 should be 353b9dc9 ...
+Compare  353b9dc9
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e652b316
+Read
+Inc 7a4ea9f4
+Transfer
+Read
+Information issued by Andrew Huang: e652b316 cmdC1 7a4ea9f4 should be 60a15d0a ...
+Compare  60a15d0a
+Write4B c4471831
+Read
+Dec c74bd88e
+Information issued by Andrew Huang: c4471831 cmdC0 c74bd88e should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 66d2052a
+Read
+Inc b41bb868
+Information issued by Andrew Huang: 66d2052a cmdC1 b41bb868 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 0869179f
+Read
+Dec cf098c9e
+Transfer
+Read
+Information issued by Andrew Huang: 0869179f cmdC0 cf098c9e should be b95f8b01 ...
+Compare  b95f8b01
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 67fed1c4
+Read
+Inc 3860f570
+Information issued by Andrew Huang: 67fed1c4 cmdC1 3860f570 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B df42d81c
+Read
+Dec 8aa13c15
+Transfer
+Read
+Information issued by Andrew Huang: df42d81c cmdC0 8aa13c15 should be d4a19c07 ...
+Compare  d4a19c07
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B cffb772c
+Read
+Inc ca3bb494
+Transfer
+Read
+Information issued by Andrew Huang: cffb772c cmdC1 ca3bb494 should be 1a372bc0 ...
+Compare  1a372bc0
+Write4B 87c5ecb2
+Read
+Dec cfb33c9f
+Information issued by Andrew Huang: 87c5ecb2 cmdC0 cfb33c9f should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 68e5a19e
+Read
+Inc 9000a420
+Transfer
+Read
+Information issued by Andrew Huang: 68e5a19e cmdC1 9000a420 should be 78e645be ...
+Compare  78e645be
+Write4B 1fe9710b
+Read
+Dec 8eab301d
+Transfer
+Read
+Information issued by Andrew Huang: 1fe9710b cmdC0 8eab301d should be 113e40ee ...
+Compare  113e40ee
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 310db941
+Read
+Inc 75bf47eb
+Information issued by Andrew Huang: 310db941 cmdC1 75bf47eb should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B a7fa5b5c
+Read
+Dec 859ae80b
+Transfer
+Read
+Information issued by Andrew Huang: a7fa5b5c cmdC0 859ae80b should be a25f7351 ...
+Compare  a25f7351
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7601e02e
+Read
+Inc 5c5493b8
+Information issued by Andrew Huang: 7601e02e cmdC1 5c5493b8 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B f87df9bb
+Read
+Dec cdc1029b
+Transfer
+Read
+Information issued by Andrew Huang: f87df9bb cmdC0 cdc1029b should be aabcf720 ...
+Compare  aabcf720
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 16fc8e21
+Read
+Inc 178d6b2f
+Transfer
+Read
+Information issued by Andrew Huang: 16fc8e21 cmdC1 178d6b2f should be 2e89f950 ...
+Compare  2e89f950
+Write4B b9197783
+Read
+Dec af0d145e
+Transfer
+Read
+Information issued by Andrew Huang: b9197783 cmdC0 af0d145e should be 8a0c6325 ...
+Compare  8a0c6325
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a71776b9
+Read
+Inc 71f31fe3
+Transfer
+Read
+Information issued by Andrew Huang: a71776b9 cmdC1 71f31fe3 should be 190a969c ...
+Compare  190a969c
+Write4B 044eb69e
+Read
+Dec a5d9564b
+Transfer
+Read
+Information issued by Andrew Huang: 044eb69e cmdC0 a5d9564b should be de756053 ...
+Compare  de756053
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 61b400a1
+Read
+Inc 98e22e31
+Transfer
+Read
+Information issued by Andrew Huang: 61b400a1 cmdC1 98e22e31 should be 7a962ed2 ...
+Compare  7a962ed2
+Write4B 0a70d6b2
+Read
+Dec 102f8120
+Transfer
+Read
+Information issued by Andrew Huang: 0a70d6b2 cmdC0 102f8120 should be fa415592 ...
+Compare  fa415592
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B ec4379e2
+Read
+Inc 9655c62c
+Transfer
+Read
+Information issued by Andrew Huang: ec4379e2 cmdC1 9655c62c should be 0299400e ...
+Compare  0299400e
+Write4B 4f95820c
+Read
+Dec 549eb7a9
+Transfer
+Read
+Information issued by Andrew Huang: 4f95820c cmdC0 549eb7a9 should be faf6ca63 ...
+Compare  faf6ca63
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c047d824
+Read
+Inc 5f3c2dbe
+Transfer
+Read
+Information issued by Andrew Huang: c047d824 cmdC1 5f3c2dbe should be 1f8405e2 ...
+Compare  1f8405e2
+Write4B 234d773f
+Read
+Dec e3cde8c7
+Transfer
+Read
+Information issued by Andrew Huang: 234d773f cmdC0 e3cde8c7 should be bf7f8e78 ...
+Compare  bf7f8e78
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0e7ea91e
+Read
+Inc 84d46609
+Transfer
+Read
+Information issued by Andrew Huang: 0e7ea91e cmdC1 84d46609 should be 13530f27 ...
+Compare  13530f27
+Write4B 7e9b1cd6
+Read
+Dec 4bb77d97
+Transfer
+Read
+Information issued by Andrew Huang: 7e9b1cd6 cmdC0 4bb77d97 should be 32e39f3f ...
+Compare  32e39f3f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 26212c2e
+Read
+Inc c7401c8e
+Transfer
+Read
+Information issued by Andrew Huang: 26212c2e cmdC1 c7401c8e should be 6d6148bc ...
+Compare  6d6148bc
+Write4B 02e88cd6
+Read
+Dec 88f1d011
+Transfer
+Read
+Information issued by Andrew Huang: 02e88cd6 cmdC0 88f1d011 should be f9f6bcc5 ...
+Compare  f9f6bcc5
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B cf5c90d5
+Read
+Inc b1a16263
+Transfer
+Read
+Information issued by Andrew Huang: cf5c90d5 cmdC1 b1a16263 should be 00fdf338 ...
+Compare  00fdf338
+Write4B b7b6850c
+Read
+Dec 70e76fe1
+Information issued by Andrew Huang: b7b6850c cmdC0 70e76fe1 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 4aa66dca
+Read
+Inc 4a4b2394
+Information issued by Andrew Huang: 4aa66dca cmdC1 4a4b2394 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B b5ab8f11
+Read
+Dec 96c4442d
+Transfer
+Read
+Information issued by Andrew Huang: b5ab8f11 cmdC0 96c4442d should be 9ee74ae4 ...
+Compare  9ee74ae4
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 99c26906
+Read
+Inc d47314a8
+Transfer
+Read
+Information issued by Andrew Huang: 99c26906 cmdC1 d47314a8 should be ee357dae ...
+Compare  ee357dae
+Write4B b86b0e5e
+Read
+Dec 54dc3fa9
+Information issued by Andrew Huang: b86b0e5e cmdC0 54dc3fa9 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9ccbc3c7
+Read
+Inc becb407d
+Transfer
+Read
+Information issued by Andrew Huang: 9ccbc3c7 cmdC1 becb407d should be db970444 ...
+Compare  db970444
+Write4B d46e5a83
+Read
+Dec b950cc72
+Transfer
+Read
+Information issued by Andrew Huang: d46e5a83 cmdC0 b950cc72 should be 9b1d8e11 ...
+Compare  9b1d8e11
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 943cd1ed
+Read
+Inc 5ea033bd
+Transfer
+Read
+Information issued by Andrew Huang: 943cd1ed cmdC1 5ea033bd should be f2dd05aa ...
+Compare  f2dd05aa
+Write4B e52cf158
+Read
+Dec 15c5e32b
+Transfer
+Read
+Information issued by Andrew Huang: e52cf158 cmdC0 15c5e32b should be cf670e2d ...
+Compare  cf670e2d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 510bd2ca
+Read
+Inc 8f5e341e
+Transfer
+Read
+Information issued by Andrew Huang: 510bd2ca cmdC1 8f5e341e should be 606a06e8 ...
+Compare  606a06e8
+Write4B 03281ee0
+Read
+Dec 8d11401a
+Transfer
+Read
+Information issued by Andrew Huang: 03281ee0 cmdC0 8d11401a should be f616dec6 ...
+Compare  f616dec6
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B ef596d05
+Read
+Inc f90988f2
+Transfer
+Read
+Information issued by Andrew Huang: ef596d05 cmdC1 f90988f2 should be 6862f5f7 ...
+Compare  6862f5f7
+Write4B f11770b9
+Read
+Dec c3641286
+Transfer
+Read
+Information issued by Andrew Huang: f11770b9 cmdC0 c3641286 should be adb35e33 ...
+Compare  adb35e33
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 4b77f5f9
+Read
+Inc 52814fa5
+Information issued by Andrew Huang: 4b77f5f9 cmdC1 52814fa5 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 6b52243c
+Read
+Dec 0a828f15
+Transfer
+Read
+Information issued by Andrew Huang: 6b52243c cmdC0 0a828f15 should be 60cf9527 ...
+Compare  60cf9527
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 01bfd227
+Read
+Inc 6209d1c4
+Transfer
+Read
+Information issued by Andrew Huang: 01bfd227 cmdC1 6209d1c4 should be 63c9a3eb ...
+Compare  63c9a3eb
+Write4B e5b0fa81
+Read
+Dec 8c772618
+Transfer
+Read
+Information issued by Andrew Huang: e5b0fa81 cmdC0 8c772618 should be d939d469 ...
+Compare  d939d469
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B d03efaa0
+Read
+Inc 971c9c2e
+Transfer
+Read
+Information issued by Andrew Huang: d03efaa0 cmdC1 971c9c2e should be e75b96ce ...
+Compare  e75b96ce
+Write4B d1579d10
+Read
+Dec 5825adb0
+Information issued by Andrew Huang: d1579d10 cmdC0 5825adb0 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f4c9ba36
+Read
+Inc e38d58c7
+Transfer
+Read
+Information issued by Andrew Huang: f4c9ba36 cmdC1 e38d58c7 should be 585712fd ...
+Compare  585712fd
+Write4B a2841d85
+Read
+Dec ef923cdf
+Information issued by Andrew Huang: a2841d85 cmdC0 ef923cdf should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7b7ab2f6
+Read
+Inc 095dc112
+Information issued by Andrew Huang: 7b7ab2f6 cmdC1 095dc112 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 89b8195d
+Read
+Dec 6459cbc8
+Information issued by Andrew Huang: 89b8195d cmdC0 6459cbc8 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b190e234
+Read
+Inc e0dc72c1
+Transfer
+Read
+Information issued by Andrew Huang: b190e234 cmdC1 e0dc72c1 should be 126d54f5 ...
+Compare  126d54f5
+Write4B e3f5143c
+Read
+Dec ffb906ff
+Information issued by Andrew Huang: e3f5143c cmdC0 ffb906ff should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9d755271
+Read
+Inc 9fdb223f
+Transfer
+Read
+Information issued by Andrew Huang: 9d755271 cmdC1 9fdb223f should be bd5074b0 ...
+Compare  bd5074b0
+Write4B 014078b3
+Read
+Dec 1b715736
+Transfer
+Read
+Information issued by Andrew Huang: 014078b3 cmdC0 1b715736 should be e5cf217d ...
+Compare  e5cf217d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6c7cb96c
+Read
+Inc 1ad78b35
+Information issued by Andrew Huang: 6c7cb96c cmdC1 1ad78b35 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B a996de34
+Read
+Dec 29793152
+Transfer
+Read
+Information issued by Andrew Huang: a996de34 cmdC0 29793152 should be 801dace2 ...
+Compare  801dace2
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1db5de08
+Read
+Inc 1b090736
+Transfer
+Read
+Information issued by Andrew Huang: 1db5de08 cmdC1 1b090736 should be 38bee53e ...
+Compare  38bee53e
+Write4B 350e1965
+Read
+Dec c3de2087
+Transfer
+Read
+Information issued by Andrew Huang: 350e1965 cmdC0 c3de2087 should be f12ff8de ...
+Compare  f12ff8de
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e6621725
+Read
+Inc 012aad02
+Transfer
+Read
+Information issued by Andrew Huang: e6621725 cmdC1 012aad02 should be e78cc427 ...
+Compare  e78cc427
+Write4B 8ebc0fb1
+Read
+Dec efc330df
+Information issued by Andrew Huang: 8ebc0fb1 cmdC0 efc330df should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 06d4ce7b
+Read
+Inc 4574178a
+Transfer
+Read
+Information issued by Andrew Huang: 06d4ce7b cmdC1 4574178a should be 4c48e605 ...
+Compare  4c48e605
+Write4B dcecf86c
+Read
+Dec 7412cbe8
+Information issued by Andrew Huang: dcecf86c cmdC0 7412cbe8 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 58e2a3e2
+Read
+Inc 7d243ffa
+Information issued by Andrew Huang: 58e2a3e2 cmdC1 7d243ffa should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 1dfb39f3
+Read
+Dec 6e54f9dc
+Transfer
+Read
+Information issued by Andrew Huang: 1dfb39f3 cmdC0 6e54f9dc should be afa64017 ...
+Compare  afa64017
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b2bda20b
+Read
+Inc 413bf782
+Transfer
+Read
+Information issued by Andrew Huang: b2bda20b cmdC1 413bf782 should be f3f9998d ...
+Compare  f3f9998d
+Write4B a99edf42
+Read
+Dec 3747cd6e
+Information issued by Andrew Huang: a99edf42 cmdC0 3747cd6e should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fbb5bff1
+Read
+Inc 03f36107
+Transfer
+Read
+Information issued by Andrew Huang: fbb5bff1 cmdC1 03f36107 should be ffa920f8 ...
+Compare  ffa920f8
+Write4B 5f2feb6b
+Read
+Dec f80882f0
+Transfer
+Read
+Information issued by Andrew Huang: 5f2feb6b cmdC0 f80882f0 should be e727687b ...
+Compare  e727687b
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5222d6e9
+Read
+Inc d48be6a9
+Information issued by Andrew Huang: 5222d6e9 cmdC1 d48be6a9 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 2a5b3791
+Read
+Dec 88dd9211
+Transfer
+Read
+Information issued by Andrew Huang: 2a5b3791 cmdC0 88dd9211 should be 217da580 ...
+Compare  217da580
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 24f2c71b
+Read
+Inc 59cf01b3
+Transfer
+Read
+Information issued by Andrew Huang: 24f2c71b cmdC1 59cf01b3 should be 7ec1c8ce ...
+Compare  7ec1c8ce
+Write4B f4ce2b5b
+Read
+Dec 7cbf27f9
+Information issued by Andrew Huang: f4ce2b5b cmdC0 7cbf27f9 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3c969bdd
+Read
+Inc 91156c22
+Transfer
+Read
+Information issued by Andrew Huang: 3c969bdd cmdC1 91156c22 should be 4dac07ff ...
+Compare  4dac07ff
+Write4B 37c986b2
+Read
+Dec b6adfa6d
+Transfer
+Read
+Information issued by Andrew Huang: 37c986b2 cmdC0 b6adfa6d should be 011b8c45 ...
+Compare  011b8c45
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B cd14a901
+Read
+Inc 96934e2d
+Transfer
+Read
+Information issued by Andrew Huang: cd14a901 cmdC1 96934e2d should be e3a7f72e ...
+Compare  e3a7f72e
+Write4B 062125f3
+Read
+Dec a152f842
+Transfer
+Read
+Information issued by Andrew Huang: 062125f3 cmdC0 a152f842 should be e4ce2db1 ...
+Compare  e4ce2db1
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B aba590ec
+Read
+Inc 0e1b571c
+Transfer
+Read
+Information issued by Andrew Huang: aba590ec cmdC1 0e1b571c should be b9c0e808 ...
+Compare  b9c0e808
+Write4B 6d6e3a7a
+Read
+Dec 2f20a75e
+Transfer
+Read
+Information issued by Andrew Huang: 6d6e3a7a cmdC0 2f20a75e should be 3e4d931c ...
+Compare  3e4d931c
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 2eb3885f
+Read
+Inc 61943fc3
+Information issued by Andrew Huang: 2eb3885f cmdC1 61943fc3 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B b21f7ea5
+Read
+Dec 57c333af
+Information issued by Andrew Huang: b21f7ea5 cmdC0 57c333af should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 316e635d
+Read
+Inc 5afa77b5
+Information issued by Andrew Huang: 316e635d cmdC1 5afa77b5 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 40183cdc
+Read
+Dec f52406ea
+Transfer
+Read
+Information issued by Andrew Huang: 40183cdc cmdC0 f52406ea should be caf435f2 ...
+Compare  caf435f2
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c0d28ee1
+Read
+Inc bb7a5276
+Transfer
+Read
+Information issued by Andrew Huang: c0d28ee1 cmdC1 bb7a5276 should be fc4ce157 ...
+Compare  fc4ce157
+Write4B e6e66b5e
+Read
+Dec ec861cd9
+Information issued by Andrew Huang: e6e66b5e cmdC0 ec861cd9 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a1729580
+Read
+Inc c241c084
+Transfer
+Read
+Information issued by Andrew Huang: a1729580 cmdC1 c241c084 should be e3b45604 ...
+Compare  e3b45604
+Write4B 68d4d2e4
+Read
+Dec 43082b86
+Transfer
+Read
+Information issued by Andrew Huang: 68d4d2e4 cmdC0 43082b86 should be 25cca75e ...
+Compare  25cca75e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1e249274
+Read
+Inc 79815ff3
+Information issued by Andrew Huang: 1e249274 cmdC1 79815ff3 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B afea101e
+Read
+Dec 1a61e134
+Transfer
+Read
+Information issued by Andrew Huang: afea101e cmdC0 1a61e134 should be 95882eea ...
+Compare  95882eea
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6d961eca
+Read
+Inc b8129c70
+Information issued by Andrew Huang: 6d961eca cmdC1 b8129c70 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B d10de11f
+Read
+Dec 506eeda0
+Transfer
+Read
+Information issued by Andrew Huang: d10de11f cmdC0 506eeda0 should be 809ef37f ...
+Compare  809ef37f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B abea9610
+Read
+Inc 292daf52
+Transfer
+Read
+Information issued by Andrew Huang: abea9610 cmdC1 292daf52 should be d5184562 ...
+Compare  d5184562
+Write4B 002ed2be
+Read
+Dec 48314d90
+Transfer
+Read
+Information issued by Andrew Huang: 002ed2be cmdC0 48314d90 should be b7fd852e ...
+Compare  b7fd852e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0c776cfd
+Read
+Inc bb004276
+Transfer
+Read
+Information issued by Andrew Huang: 0c776cfd cmdC1 bb004276 should be 4777af73 ...
+Compare  4777af73
+Write4B 0d1b668f
+Read
+Dec 56b17bad
+Transfer
+Read
+Information issued by Andrew Huang: 0d1b668f cmdC0 56b17bad should be b669eae2 ...
+Compare  b669eae2
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c8612d44
+Read
+Inc f42ca6e8
+Transfer
+Read
+Information issued by Andrew Huang: c8612d44 cmdC1 f42ca6e8 should be 3c8dd42c ...
+Compare  3c8dd42c
+Write4B 693ec8a1
+Read
+Dec 9518122a
+Transfer
+Read
+Information issued by Andrew Huang: 693ec8a1 cmdC0 9518122a should be 5426b677 ...
+Compare  5426b677
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c31733c3
+Read
+Inc aef9165d
+Transfer
+Read
+Information issued by Andrew Huang: c31733c3 cmdC1 aef9165d should be f2104a20 ...
+Compare  f2104a20
+Write4B 153cb720
+Read
+Dec 572159ae
+Transfer
+Read
+Information issued by Andrew Huang: 153cb720 cmdC0 572159ae should be be1b5d72 ...
+Compare  be1b5d72
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 61bbb0db
+Read
+Inc e3ee6cc7
+Information issued by Andrew Huang: 61bbb0db cmdC1 e3ee6cc7 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 2e854821
+Read
+Dec f3d2d4e7
+Transfer
+Read
+Information issued by Andrew Huang: 2e854821 cmdC0 f3d2d4e7 should be bab2733a ...
+Compare  bab2733a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 38dcd087
+Read
+Inc 29887153
+Transfer
+Read
+Information issued by Andrew Huang: 38dcd087 cmdC1 29887153 should be 626541da ...
+Compare  626541da
+Write4B de28e8f5
+Read
+Dec 318d2d63
+Transfer
+Read
+Information issued by Andrew Huang: de28e8f5 cmdC0 318d2d63 should be ac9bbb92 ...
+Compare  ac9bbb92
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5ba44e69
+Read
+Inc f688e0ed
+Information issued by Andrew Huang: 5ba44e69 cmdC1 f688e0ed should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 3472757b
+Read
+Dec e8ff56d1
+Transfer
+Read
+Information issued by Andrew Huang: 3472757b cmdC0 e8ff56d1 should be cb731eaa ...
+Compare  cb731eaa
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c642c6f8
+Read
+Inc 75b8adeb
+Transfer
+Read
+Information issued by Andrew Huang: c642c6f8 cmdC1 75b8adeb should be 3bfb74e3 ...
+Compare  3bfb74e3
+Write4B 2141faf9
+Read
+Dec fb85eef7
+Transfer
+Read
+Information issued by Andrew Huang: 2141faf9 cmdC0 fb85eef7 should be a5bc0c02 ...
+Compare  a5bc0c02
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 55f4610d
+Read
+Inc d1e5faa3
+Information issued by Andrew Huang: 55f4610d cmdC1 d1e5faa3 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B e08a053b
+Read
+Dec b0d57061
+Transfer
+Read
+Information issued by Andrew Huang: e08a053b cmdC0 b0d57061 should be afb494da ...
+Compare  afb494da
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 302738ed
+Read
+Inc a781004f
+Transfer
+Read
+Information issued by Andrew Huang: 302738ed cmdC1 a781004f should be 57a8393c ...
+Compare  57a8393c
+Write4B 15dd2401
+Read
+Dec 6b017bd6
+Transfer
+Read
+Information issued by Andrew Huang: 15dd2401 cmdC0 6b017bd6 should be aadba82b ...
+Compare  aadba82b
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 12bf8359
+Read
+Inc f97802f2
+Information issued by Andrew Huang: 12bf8359 cmdC1 f97802f2 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B f83bad0a
+Read
+Dec 4c20dd98
+Transfer
+Read
+Information issued by Andrew Huang: f83bad0a cmdC0 4c20dd98 should be ac1acf72 ...
+Compare  ac1acf72
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B bf09d57d
+Read
+Inc c5f8328b
+Transfer
+Read
+Information issued by Andrew Huang: bf09d57d cmdC1 c5f8328b should be 05020808 ...
+Compare  05020808
+Write4B c4cc77c4
+Read
+Dec cebf1c9d
+Information issued by Andrew Huang: c4cc77c4 cmdC0 cebf1c9d should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f0d70ae5
+Read
+Inc 1e999d3d
+Transfer
+Read
+Information issued by Andrew Huang: f0d70ae5 cmdC1 1e999d3d should be 0f70a822 ...
+Compare  0f70a822
+Write4B 58262f86
+Read
+Dec e9c05ed3
+Transfer
+Read
+Information issued by Andrew Huang: 58262f86 cmdC0 e9c05ed3 should be ee65d0b3 ...
+Compare  ee65d0b3
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f0b826a3
+Read
+Inc 5d2417ba
+Transfer
+Read
+Information issued by Andrew Huang: f0b826a3 cmdC1 5d2417ba should be 4ddc3e5d ...
+Compare  4ddc3e5d
+Write4B 10653a62
+Read
+Dec 31a16163
+Transfer
+Read
+Information issued by Andrew Huang: 10653a62 cmdC0 31a16163 should be dec3d8ff ...
+Compare  dec3d8ff
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 75e8f405
+Read
+Inc 22a64f45
+Information issued by Andrew Huang: 75e8f405 cmdC1 22a64f45 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 544d6bc1
+Read
+Dec 39cc8973
+Transfer
+Read
+Information issued by Andrew Huang: 544d6bc1 cmdC0 39cc8973 should be 1a80e24e ...
+Compare  1a80e24e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 055c8943
+Read
+Inc 6fc5f9df
+Transfer
+Read
+Information issued by Andrew Huang: 055c8943 cmdC1 6fc5f9df should be 75228322 ...
+Compare  75228322
+Write4B 7565bb84
+Read
+Dec b9fc0473
+Transfer
+Read
+Information issued by Andrew Huang: 7565bb84 cmdC0 b9fc0473 should be 3b69b711 ...
+Compare  3b69b711
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a85426de
+Read
+Inc 257ceb4a
+Transfer
+Read
+Information issued by Andrew Huang: a85426de cmdC1 257ceb4a should be cdd11228 ...
+Compare  cdd11228
+Write4B 6b439583
+Read
+Dec 3389bb67
+Transfer
+Read
+Information issued by Andrew Huang: 6b439583 cmdC0 3389bb67 should be 37b9da1c ...
+Compare  37b9da1c
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f8dbe4a8
+Read
+Inc 7e8917fd
+Transfer
+Read
+Information issued by Andrew Huang: f8dbe4a8 cmdC1 7e8917fd should be 7764fca5 ...
+Compare  7764fca5
+Write4B e702b1f4
+Read
+Dec 3f5d197e
+Transfer
+Read
+Information issued by Andrew Huang: e702b1f4 cmdC0 3f5d197e should be a7a59876 ...
+Compare  a7a59876
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e773541e
+Read
+Inc f7a38cef
+Transfer
+Read
+Information issued by Andrew Huang: e773541e cmdC1 f7a38cef should be 5f16e10d ...
+Compare  5f16e10d
+Write4B e82eb54f
+Read
+Dec 5a23f1b4
+Transfer
+Read
+Information issued by Andrew Huang: e82eb54f cmdC0 5a23f1b4 should be 8e0ac39b ...
+Compare  8e0ac39b
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f83753aa
+Read
+Inc 75aab5eb
+Transfer
+Read
+Information issued by Andrew Huang: f83753aa cmdC1 75aab5eb should be 6de20995 ...
+Compare  6de20995
+Write4B 60661188
+Read
+Dec 8dfcbe1b
+Transfer
+Read
+Information issued by Andrew Huang: 60661188 cmdC0 8dfcbe1b should be 5269536d ...
+Compare  5269536d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 95a3f396
+Read
+Inc 604acfc0
+Transfer
+Read
+Information issued by Andrew Huang: 95a3f396 cmdC1 604acfc0 should be f5eec356 ...
+Compare  f5eec356
+Write4B a253ab2b
+Read
+Dec bd2f5a7a
+Information issued by Andrew Huang: a253ab2b cmdC0 bd2f5a7a should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B bbab31cd
+Read
+Inc d193e2a3
+Transfer
+Read
+Information issued by Andrew Huang: bbab31cd cmdC1 d193e2a3 should be 0d3f1470 ...
+Compare  0d3f1470
+Write4B 2c12f71b
+Read
+Dec 6860b1d0
+Transfer
+Read
+Information issued by Andrew Huang: 2c12f71b cmdC0 6860b1d0 should be c3b2454b ...
+Compare  c3b2454b
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 4e90c2f2
+Read
+Inc 270dc54e
+Transfer
+Read
+Information issued by Andrew Huang: 4e90c2f2 cmdC1 270dc54e should be 759e8840 ...
+Compare  759e8840
+Write4B 31732f01
+Read
+Dec c9d1ea93
+Transfer
+Read
+Information issued by Andrew Huang: 31732f01 cmdC0 c9d1ea93 should be e7a1446e ...
+Compare  e7a1446e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B ca9f4781
+Read
+Inc 4cee7199
+Transfer
+Read
+Information issued by Andrew Huang: ca9f4781 cmdC1 4cee7199 should be 178db91a ...
+Compare  178db91a
+Write4B a643f918
+Read
+Dec 1ab7ef35
+Transfer
+Read
+Information issued by Andrew Huang: a643f918 cmdC0 1ab7ef35 should be 8b8c09e3 ...
+Compare  8b8c09e3
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 13bddd86
+Read
+Inc aac3d255
+Transfer
+Read
+Information issued by Andrew Huang: 13bddd86 cmdC1 aac3d255 should be 3e81afdb ...
+Compare  3e81afdb
+Write4B d6ed4316
+Read
+Dec a18a2a43
+Transfer
+Read
+Information issued by Andrew Huang: d6ed4316 cmdC0 a18a2a43 should be b56318d3 ...
+Compare  b56318d3
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 5adf9615
+Read
+Inc 3b23cd76
+Information issued by Andrew Huang: 5adf9615 cmdC1 3b23cd76 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B bf51db71
+Read
+Dec 24306f48
+Transfer
+Read
+Information issued by Andrew Huang: bf51db71 cmdC0 24306f48 should be 9b216c29 ...
+Compare  9b216c29
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 33a77aac
+Read
+Inc c031e480
+Transfer
+Read
+Information issued by Andrew Huang: 33a77aac cmdC1 c031e480 should be 73d95f2c ...
+Compare  73d95f2c
+Write4B e9b831b5
+Read
+Dec d4194aa8
+Transfer
+Read
+Information issued by Andrew Huang: e9b831b5 cmdC0 d4194aa8 should be 959ee70d ...
+Compare  959ee70d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9ed01add
+Read
+Inc fa3060f4
+Transfer
+Read
+Information issued by Andrew Huang: 9ed01add cmdC1 fa3060f4 should be 19007bd1 ...
+Compare  19007bd1
+Write4B 7d53f95d
+Read
+Dec 0e165d1c
+Transfer
+Read
+Information issued by Andrew Huang: 7d53f95d cmdC0 0e165d1c should be 6f3d9c41 ...
+Compare  6f3d9c41
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B bef632ad
+Read
+Inc 5d206fba
+Transfer
+Read
+Information issued by Andrew Huang: bef632ad cmdC1 5d206fba should be 1c16a267 ...
+Compare  1c16a267
+Write4B 97dc55b9
+Read
+Dec 074fb70e
+Transfer
+Read
+Information issued by Andrew Huang: 97dc55b9 cmdC0 074fb70e should be 908c9eab ...
+Compare  908c9eab
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 410e84a9
+Read
+Inc 0b864917
+Transfer
+Read
+Information issued by Andrew Huang: 410e84a9 cmdC1 0b864917 should be 4c94cdc0 ...
+Compare  4c94cdc0
+Write4B 47c07674
+Read
+Dec aca4f259
+Transfer
+Read
+Information issued by Andrew Huang: 47c07674 cmdC0 aca4f259 should be 1b1b841b ...
+Compare  1b1b841b
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b8b8c8ae
+Read
+Inc bec29c7d
+Transfer
+Read
+Information issued by Andrew Huang: b8b8c8ae cmdC1 bec29c7d should be f77b652b ...
+Compare  f77b652b
+Write4B 87f0ec28
+Read
+Dec afac045f
+Information issued by Andrew Huang: 87f0ec28 cmdC0 afac045f should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3b884d86
+Read
+Inc 1037a120
+Transfer
+Read
+Information issued by Andrew Huang: 3b884d86 cmdC1 1037a120 should be 4bbfeea6 ...
+Compare  4bbfeea6
+Write4B bd396512
+Read
+Dec a668124c
+Transfer
+Read
+Information issued by Andrew Huang: bd396512 cmdC0 a668124c should be 96d152c6 ...
+Compare  96d152c6
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 24609928
+Read
+Inc 1b653136
+Transfer
+Read
+Information issued by Andrew Huang: 24609928 cmdC1 1b653136 should be 3fc5ca5e ...
+Compare  3fc5ca5e
+Write4B d3fa8861
+Read
+Dec 2c0ed958
+Transfer
+Read
+Information issued by Andrew Huang: d3fa8861 cmdC0 2c0ed958 should be a7ebaf09 ...
+Compare  a7ebaf09
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3a7b2874
+Read
+Inc 33f66b67
+Transfer
+Read
+Information issued by Andrew Huang: 3a7b2874 cmdC1 33f66b67 should be 6e7193db ...
+Compare  6e7193db
+Write4B 1e3a8796
+Read
+Dec 4c6edf98
+Transfer
+Read
+Information issued by Andrew Huang: 1e3a8796 cmdC0 4c6edf98 should be d1cba7fe ...
+Compare  d1cba7fe
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 96ba1df8
+Read
+Inc 58e72db1
+Transfer
+Read
+Information issued by Andrew Huang: 96ba1df8 cmdC1 58e72db1 should be efa14ba9 ...
+Compare  efa14ba9
+Write4B e3ccd8bf
+Read
+Dec a3bda847
+Transfer
+Read
+Information issued by Andrew Huang: e3ccd8bf cmdC0 a3bda847 should be c00f3078 ...
+Compare  c00f3078
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B d318f916
+Read
+Inc 6f4c7bde
+Transfer
+Read
+Information issued by Andrew Huang: d318f916 cmdC1 6f4c7bde should be 426574f4 ...
+Compare  426574f4
+Write4B 26bd1a56
+Read
+Dec ad3e925a
+Transfer
+Read
+Information issued by Andrew Huang: 26bd1a56 cmdC0 ad3e925a should be f97e87fc ...
+Compare  f97e87fc
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 698cd6fe
+Read
+Inc 6e64abdc
+Information issued by Andrew Huang: 698cd6fe cmdC1 6e64abdc should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B abf5d665
+Read
+Dec dd257aba
+Information issued by Andrew Huang: abf5d665 cmdC0 dd257aba should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9af2a964
+Read
+Inc 8708b80e
+Transfer
+Read
+Information issued by Andrew Huang: 9af2a964 cmdC1 8708b80e should be a1fb6172 ...
+Compare  a1fb6172
+Write4B 58d32eb0
+Read
+Dec b1cfbc63
+Transfer
+Read
+Information issued by Andrew Huang: 58d32eb0 cmdC0 b1cfbc63 should be 2703724d ...
+Compare  2703724d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b61e3bb0
+Read
+Inc e417bec8
+Transfer
+Read
+Information issued by Andrew Huang: b61e3bb0 cmdC1 e417bec8 should be 1a35fa78 ...
+Compare  1a35fa78
+Write4B 1d80f380
+Read
+Dec fbed9cf7
+Transfer
+Read
+Information issued by Andrew Huang: 1d80f380 cmdC0 fbed9cf7 should be a1935689 ...
+Compare  a1935689
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 411e1b05
+Read
+Inc bdba247b
+Transfer
+Read
+Information issued by Andrew Huang: 411e1b05 cmdC1 bdba247b should be 7ed83f80 ...
+Compare  7ed83f80
+Write4B 10871317
+Read
+Dec 6dac19db
+Transfer
+Read
+Information issued by Andrew Huang: 10871317 cmdC0 6dac19db should be a2daf93c ...
+Compare  a2daf93c
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 383395e5
+Read
+Inc 2a138954
+Transfer
+Read
+Information issued by Andrew Huang: 383395e5 cmdC1 2a138954 should be 62471f39 ...
+Compare  62471f39
+Write4B a08ae4d5
+Read
+Dec 0fe7cb1f
+Transfer
+Read
+Information issued by Andrew Huang: a08ae4d5 cmdC0 0fe7cb1f should be 90a319b6 ...
+Compare  90a319b6
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B d6b0a9c6
+Read
+Inc 21a21b43
+Transfer
+Read
+Information issued by Andrew Huang: d6b0a9c6 cmdC1 21a21b43 should be f852c509 ...
+Compare  f852c509
+Write4B 7b09a54d
+Read
+Dec 4704638e
+Transfer
+Read
+Information issued by Andrew Huang: 7b09a54d cmdC0 4704638e should be 340541bf ...
+Compare  340541bf
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 53678450
+Read
+Inc 6c644dd8
+Information issued by Andrew Huang: 53678450 cmdC1 6c644dd8 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B ba54ee45
+Read
+Dec 905ce220
+Transfer
+Read
+Information issued by Andrew Huang: ba54ee45 cmdC0 905ce220 should be a9f80c25 ...
+Compare  a9f80c25
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0cfcab06
+Read
+Inc abcb0257
+Transfer
+Read
+Information issued by Andrew Huang: 0cfcab06 cmdC1 abcb0257 should be 38c7ad5d ...
+Compare  38c7ad5d
+Write4B 96a2a5cc
+Read
+Dec 984af230
+Information issued by Andrew Huang: 96a2a5cc cmdC0 984af230 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c060dc9d
+Read
+Inc 21d33343
+Transfer
+Read
+Information issued by Andrew Huang: c060dc9d cmdC1 21d33343 should be e2340fe0 ...
+Compare  e2340fe0
+Write4B 98ad388d
+Read
+Dec 931d5426
+Transfer
+Read
+Information issued by Andrew Huang: 98ad388d cmdC0 931d5426 should be 858fe467 ...
+Compare  858fe467
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e92547e0
+Read
+Inc 0b2d6f16
+Transfer
+Read
+Information issued by Andrew Huang: e92547e0 cmdC1 0b2d6f16 should be f452b6f6 ...
+Compare  f452b6f6
+Write4B 308a839d
+Read
+Dec 5eba91bd
+Transfer
+Read
+Information issued by Andrew Huang: 308a839d cmdC0 5eba91bd should be d1cff1e0 ...
+Compare  d1cff1e0
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 8e058343
+Read
+Inc 41f57383
+Transfer
+Read
+Information issued by Andrew Huang: 8e058343 cmdC1 41f57383 should be cffaf6c6 ...
+Compare  cffaf6c6
+Write4B 6d7db2c2
+Read
+Dec 4296fb85
+Transfer
+Read
+Information issued by Andrew Huang: 6d7db2c2 cmdC0 4296fb85 should be 2ae6b73d ...
+Compare  2ae6b73d
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 916482da
+Read
+Inc 501b7ba0
+Transfer
+Read
+Information issued by Andrew Huang: 916482da cmdC1 501b7ba0 should be e17ffe7a ...
+Compare  e17ffe7a
+Write4B 7cf8a72b
+Read
+Dec b6d30e6d
+Transfer
+Read
+Information issued by Andrew Huang: 7cf8a72b cmdC0 b6d30e6d should be 462598be ...
+Compare  462598be
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fd54193f
+Read
+Inc ea49d2d4
+Transfer
+Read
+Information issued by Andrew Huang: fd54193f cmdC1 ea49d2d4 should be 679dec13 ...
+Compare  679dec13
+Write4B b19d9e06
+Read
+Dec a42d3848
+Transfer
+Read
+Information issued by Andrew Huang: b19d9e06 cmdC0 a42d3848 should be 8d7065be ...
+Compare  8d7065be
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 423e362c
+Read
+Inc 59b8ebb3
+Information issued by Andrew Huang: 423e362c cmdC1 59b8ebb3 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 1b38392b
+Read
+Dec f37282e6
+Transfer
+Read
+Information issued by Andrew Huang: 1b38392b cmdC0 f37282e6 should be a7c5b645 ...
+Compare  a7c5b645
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c899f70c
+Read
+Inc d6ecb0ad
+Transfer
+Read
+Information issued by Andrew Huang: c899f70c cmdC1 d6ecb0ad should be 1f86a7b9 ...
+Compare  1f86a7b9
+Write4B 4edc3336
+Read
+Dec 12748324
+Transfer
+Read
+Information issued by Andrew Huang: 4edc3336 cmdC0 12748324 should be 3c67b012 ...
+Compare  3c67b012
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B d7f62929
+Read
+Inc e08c36c1
+Transfer
+Read
+Information issued by Andrew Huang: d7f62929 cmdC1 e08c36c1 should be 38825fea ...
+Compare  38825fea
+Write4B 749db382
+Read
+Dec 39bfc773
+Transfer
+Read
+Information issued by Andrew Huang: 749db382 cmdC0 39bfc773 should be 3addec0f ...
+Compare  3addec0f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 404acca8
+Read
+Inc 5ea2a7bd
+Information issued by Andrew Huang: 404acca8 cmdC1 5ea2a7bd should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 26dc538f
+Read
+Dec 36acc96d
+Transfer
+Read
+Information issued by Andrew Huang: 26dc538f cmdC0 36acc96d should be f02f8a22 ...
+Compare  f02f8a22
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c717bda2
+Read
+Inc 1bcca937
+Transfer
+Read
+Information issued by Andrew Huang: c717bda2 cmdC1 1bcca937 should be e2e466d9 ...
+Compare  e2e466d9
+Write4B 372013a7
+Read
+Dec ac01b658
+Transfer
+Read
+Information issued by Andrew Huang: 372013a7 cmdC0 ac01b658 should be 0b1e5d4f ...
+Compare  0b1e5d4f
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B dcb77a20
+Read
+Inc 53aa59a7
+Transfer
+Read
+Information issued by Andrew Huang: dcb77a20 cmdC1 53aa59a7 should be 3061d3c7 ...
+Compare  3061d3c7
+Write4B 23d61628
+Read
+Dec a9771252
+Transfer
+Read
+Information issued by Andrew Huang: 23d61628 cmdC0 a9771252 should be fa5f03d6 ...
+Compare  fa5f03d6
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 200d8fde
+Read
+Inc fae124f5
+Information issued by Andrew Huang: 200d8fde cmdC1 fae124f5 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 40b935ad
+Read
+Dec 4305cf86
+Transfer
+Read
+Information issued by Andrew Huang: 40b935ad cmdC0 4305cf86 should be fdb36627 ...
+Compare  fdb36627
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 98b9d96c
+Read
+Inc 057b5f0a
+Transfer
+Read
+Information issued by Andrew Huang: 98b9d96c cmdC1 057b5f0a should be 9e353876 ...
+Compare  9e353876
+Write4B 943866d3
+Read
+Dec e73aaace
+Information issued by Andrew Huang: 943866d3 cmdC0 e73aaace should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 755dc24a
+Read
+Inc 97643c2e
+Information issued by Andrew Huang: 755dc24a cmdC1 97643c2e should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 424bcf45
+Read
+Dec 1597e72b
+Transfer
+Read
+Information issued by Andrew Huang: 424bcf45 cmdC0 1597e72b should be 2cb3e81a ...
+Compare  2cb3e81a
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e63f1b53
+Read
+Inc d0b88aa1
+Transfer
+Read
+Information issued by Andrew Huang: e63f1b53 cmdC1 d0b88aa1 should be 36f7a5f4 ...
+Compare  36f7a5f4
+Write4B 60565185
+Read
+Dec 0f3d971e
+Transfer
+Read
+Information issued by Andrew Huang: 60565185 cmdC0 0f3d971e should be 5118ba67 ...
+Compare  5118ba67
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7d978e79
+Read
+Inc 3ab8d575
+Information issued by Andrew Huang: 7d978e79 cmdC1 3ab8d575 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B f5fde087
+Read
+Dec 621d47c4
+Transfer
+Read
+Information issued by Andrew Huang: f5fde087 cmdC0 621d47c4 should be 93e098c3 ...
+Compare  93e098c3
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 9848f2ea
+Read
+Inc 646e53c8
+Transfer
+Read
+Information issued by Andrew Huang: 9848f2ea cmdC1 646e53c8 should be fcb746b2 ...
+Compare  fcb746b2
+Write4B 9fc056fe
+Read
+Dec 32a19d65
+Information issued by Andrew Huang: 9fc056fe cmdC0 32a19d65 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fe3f5321
+Read
+Inc d253b0a4
+Transfer
+Read
+Information issued by Andrew Huang: fe3f5321 cmdC1 d253b0a4 should be 509303c5 ...
+Compare  509303c5
+Write4B b87c5a58
+Read
+Dec 52141da4
+Information issued by Andrew Huang: b87c5a58 cmdC0 52141da4 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fc0d611e
+Read
+Inc 22450d44
+Transfer
+Read
+Information issued by Andrew Huang: fc0d611e cmdC1 22450d44 should be 1e526e62 ...
+Compare  1e526e62
+Write4B 491217fe
+Read
+Dec 91afd223
+Transfer
+Read
+Information issued by Andrew Huang: 491217fe cmdC0 91afd223 should be 376245db ...
+Compare  376245db
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3ec12218
+Read
+Inc 9fab443f
+Transfer
+Read
+Information issued by Andrew Huang: 3ec12218 cmdC1 9fab443f should be 5e6c6657 ...
+Compare  5e6c6657
+Write4B 8c773d34
+Read
+Dec 34f97969
+Information issued by Andrew Huang: 8c773d34 cmdC0 34f97969 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B fed447cb
+Read
+Inc 5b191bb6
+Transfer
+Read
+Information issued by Andrew Huang: fed447cb cmdC1 5b191bb6 should be 59ed6381 ...
+Compare  59ed6381
+Write4B 3c44a659
+Read
+Dec cfd0829f
+Transfer
+Read
+Information issued by Andrew Huang: 3c44a659 cmdC0 cfd0829f should be ec7423ba ...
+Compare  ec7423ba
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b413e3bf
+Read
+Inc 5e4d73bc
+Transfer
+Read
+Information issued by Andrew Huang: b413e3bf cmdC1 5e4d73bc should be 1261577b ...
+Compare  1261577b
+Write4B 05f5e88b
+Read
+Dec 6f57ebde
+Transfer
+Read
+Information issued by Andrew Huang: 05f5e88b cmdC0 6f57ebde should be 969dfcad ...
+Compare  969dfcad
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 55d749f5
+Read
+Inc 9c406838
+Transfer
+Read
+Information issued by Andrew Huang: 55d749f5 cmdC1 9c406838 should be 7217b22d ...
+Compare  7217b22d
+Write4B 7c3fe984
+Read
+Dec 9a1c1834
+Transfer
+Read
+Information issued by Andrew Huang: 7c3fe984 cmdC0 9a1c1834 should be 6223d150 ...
+Compare  6223d150
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f6521054
+Read
+Inc 0df47f1b
+Transfer
+Read
+Information issued by Andrew Huang: f6521054 cmdC1 0df47f1b should be 04468f6f ...
+Compare  04468f6f
+Write4B 402dcefd
+Read
+Dec 4de4099b
+Transfer
+Read
+Information issued by Andrew Huang: 402dcefd cmdC0 4de4099b should be f249c562 ...
+Compare  f249c562
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a7a15caa
+Read
+Inc 7cfdf1f9
+Transfer
+Read
+Information issued by Andrew Huang: a7a15caa cmdC1 7cfdf1f9 should be 249f4ea3 ...
+Compare  249f4ea3
+Write4B 3c6e2f1d
+Read
+Dec dc4954b8
+Transfer
+Read
+Information issued by Andrew Huang: 3c6e2f1d cmdC0 dc4954b8 should be e024da65 ...
+Compare  e024da65
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b9c9ebb9
+Read
+Inc 86d00e0d
+Transfer
+Read
+Information issued by Andrew Huang: b9c9ebb9 cmdC1 86d00e0d should be c099f9c6 ...
+Compare  c099f9c6
+Write4B 85447371
+Read
+Dec 17d1dd2f
+Information issued by Andrew Huang: 85447371 cmdC0 17d1dd2f should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 0f5c4295
+Read
+Inc b02f1860
+Transfer
+Read
+Information issued by Andrew Huang: 0f5c4295 cmdC1 b02f1860 should be 3f8b5af5 ...
+Compare  3f8b5af5
+Write4B f09caf78
+Read
+Dec 5e7139bc
+Transfer
+Read
+Information issued by Andrew Huang: f09caf78 cmdC0 5e7139bc should be 922b75bc ...
+Compare  922b75bc
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 61b6fbf5
+Read
+Inc 0a410314
+Transfer
+Read
+Information issued by Andrew Huang: 61b6fbf5 cmdC1 0a410314 should be 6bf7ff09 ...
+Compare  6bf7ff09
+Write4B 2152093f
+Read
+Dec c8bd3491
+Transfer
+Read
+Information issued by Andrew Huang: 2152093f cmdC0 c8bd3491 should be d894d4ae ...
+Compare  d894d4ae
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 05bd3220
+Read
+Inc 724c13e4
+Transfer
+Read
+Information issued by Andrew Huang: 05bd3220 cmdC1 724c13e4 should be 78094604 ...
+Compare  78094604
+Write4B af99c428
+Read
+Dec 3939df72
+Information issued by Andrew Huang: af99c428 cmdC0 3939df72 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b325fc27
+Read
+Inc d3bc54a7
+Transfer
+Read
+Information issued by Andrew Huang: b325fc27 cmdC1 d3bc54a7 should be 06e250ce ...
+Compare  06e250ce
+Write4B c72633d8
+Read
+Dec 0bfd0f17
+Transfer
+Read
+Information issued by Andrew Huang: c72633d8 cmdC0 0bfd0f17 should be bb2924c1 ...
+Compare  bb2924c1
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 1fb80189
+Read
+Inc e3933ac7
+Information issued by Andrew Huang: 1fb80189 cmdC1 e3933ac7 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B daec2698
+Read
+Dec 4d61799a
+Transfer
+Read
+Information issued by Andrew Huang: daec2698 cmdC0 4d61799a should be 8d8aacfe ...
+Compare  8d8aacfe
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 996a4a92
+Read
+Inc bf35887e
+Transfer
+Read
+Information issued by Andrew Huang: 996a4a92 cmdC1 bf35887e should be d89fd310 ...
+Compare  d89fd310
+Write4B e23158b9
+Read
+Dec 6c6459d8
+Information issued by Andrew Huang: e23158b9 cmdC0 6c6459d8 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 590b2df2
+Read
+Inc cf693e9e
+Information issued by Andrew Huang: 590b2df2 cmdC1 cf693e9e should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 698e5fa7
+Read
+Dec 701211e0
+Transfer
+Read
+Information issued by Andrew Huang: 698e5fa7 cmdC0 701211e0 should be f97c4dc7 ...
+Compare  f97c4dc7
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 76257ce1
+Read
+Inc 699fbbd3
+Information issued by Andrew Huang: 76257ce1 cmdC1 699fbbd3 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 7db43236
+Read
+Dec d563beaa
+Transfer
+Read
+Information issued by Andrew Huang: 7db43236 cmdC0 d563beaa should be 2850738c ...
+Compare  2850738c
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f7783c1b
+Read
+Inc 2870c950
+Transfer
+Read
+Information issued by Andrew Huang: f7783c1b cmdC1 2870c950 should be 1fe9056b ...
+Compare  1fe9056b
+Write4B 79d0b257
+Read
+Dec 1768992e
+Transfer
+Read
+Information issued by Andrew Huang: 79d0b257 cmdC0 1768992e should be 62681929 ...
+Compare  62681929
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 38cc3e61
+Read
+Inc 4030e780
+Transfer
+Read
+Information issued by Andrew Huang: 38cc3e61 cmdC1 4030e780 should be 78fd25e1 ...
+Compare  78fd25e1
+Write4B 6173a6f7
+Read
+Dec a9a81c53
+Transfer
+Read
+Information issued by Andrew Huang: 6173a6f7 cmdC0 a9a81c53 should be 37cb8aa4 ...
+Compare  37cb8aa4
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 299a1385
+Read
+Inc e17cb4c2
+Information issued by Andrew Huang: 299a1385 cmdC1 e17cb4c2 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B a0049740
+Read
+Dec 27f80d4f
+Information issued by Andrew Huang: a0049740 cmdC0 27f80d4f should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 57c3b1fa
+Read
+Inc 88bc8611
+Transfer
+Read
+Information issued by Andrew Huang: 57c3b1fa cmdC1 88bc8611 should be 6080380b ...
+Compare  6080380b
+Write4B a5a7dc2e
+Read
+Dec 21485742
+Transfer
+Read
+Information issued by Andrew Huang: a5a7dc2e cmdC0 21485742 should be 845f84ec ...
+Compare  845f84ec
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c3d14a0a
+Read
+Inc cd94549b
+Transfer
+Read
+Information issued by Andrew Huang: c3d14a0a cmdC1 cd94549b should be 11659ea5 ...
+Compare  11659ea5
+Write4B 14378082
+Read
+Dec 68c1e9d1
+Transfer
+Read
+Information issued by Andrew Huang: 14378082 cmdC0 68c1e9d1 should be ab7596b1 ...
+Compare  ab7596b1
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B a2919b1f
+Read
+Inc 83cd7007
+Transfer
+Read
+Information issued by Andrew Huang: a2919b1f cmdC1 83cd7007 should be a65f0b26 ...
+Compare  a65f0b26
+Write4B 60ce8aec
+Read
+Dec bf7ac67e
+Transfer
+Read
+Information issued by Andrew Huang: 60ce8aec cmdC0 bf7ac67e should be 2153c46e ...
+Compare  2153c46e
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e3917b75
+Read
+Inc cd3e669a
+Transfer
+Read
+Information issued by Andrew Huang: e3917b75 cmdC1 cd3e669a should be 30cfe20f ...
+Compare  30cfe20f
+Write4B deaa8042
+Read
+Dec fb0e46f6
+Information issued by Andrew Huang: deaa8042 cmdC0 fb0e46f6 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 6ef8e75c
+Read
+Inc 5a3a7bb4
+Information issued by Andrew Huang: 6ef8e75c cmdC1 5a3a7bb4 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B c2dab3e7
+Read
+Dec a91f7452
+Transfer
+Read
+Information issued by Andrew Huang: c2dab3e7 cmdC0 a91f7452 should be 99bb3f95 ...
+Compare  99bb3f95
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 325a671e
+Read
+Inc 3c51ed78
+Transfer
+Read
+Information issued by Andrew Huang: 325a671e cmdC1 3c51ed78 should be 6eac5496 ...
+Compare  6eac5496
+Write4B a1cf95ce
+Read
+Dec 8c120a18
+Transfer
+Read
+Information issued by Andrew Huang: a1cf95ce cmdC0 8c120a18 should be 95bd8bb6 ...
+Compare  95bd8bb6
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 82e274d3
+Read
+Inc 2edadb5d
+Transfer
+Read
+Information issued by Andrew Huang: 82e274d3 cmdC1 2edadb5d should be b1bd5030 ...
+Compare  b1bd5030
+Write4B 22563829
+Read
+Dec 077fc10e
+Transfer
+Read
+Information issued by Andrew Huang: 22563829 cmdC0 077fc10e should be 1ad6771b ...
+Compare  1ad6771b
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B db56eaae
+Read
+Inc 10ee6521
+Transfer
+Read
+Information issued by Andrew Huang: db56eaae cmdC1 10ee6521 should be ec454fcf ...
+Compare  ec454fcf
+Write4B 9f470688
+Read
+Dec cc553498
+Information issued by Andrew Huang: 9f470688 cmdC0 cc553498 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 860d2fb7
+Read
+Inc d518d0aa
+Transfer
+Read
+Information issued by Andrew Huang: 860d2fb7 cmdC1 d518d0aa should be db260061 ...
+Compare  db260061
+Write4B ca2db117
+Read
+Dec 10159720
+Transfer
+Read
+Information issued by Andrew Huang: ca2db117 cmdC0 10159720 should be ba1819f7 ...
+Compare  ba1819f7
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B e3f97415
+Read
+Inc e8e3e2d1
+Transfer
+Read
+Information issued by Andrew Huang: e3f97415 cmdC1 e8e3e2d1 should be 4cdd56e6 ...
+Compare  4cdd56e6
+Write4B 5a7d1d68
+Read
+Dec 7f9059ff
+Transfer
+Read
+Information issued by Andrew Huang: 5a7d1d68 cmdC0 7f9059ff should be daecc369 ...
+Compare  daecc369
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B ab50a114
+Read
+Inc 236acf46
+Transfer
+Read
+Information issued by Andrew Huang: ab50a114 cmdC1 236acf46 should be cebb705a ...
+Compare  cebb705a
+Write4B 7efcbc96
+Read
+Dec f1c76ae3
+Transfer
+Read
+Information issued by Andrew Huang: 7efcbc96 cmdC0 f1c76ae3 should be 0d3551b3 ...
+Compare  0d3551b3
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 66447a28
+Read
+Inc 907db820
+Transfer
+Read
+Information issued by Andrew Huang: 66447a28 cmdC1 907db820 should be 76c23248 ...
+Compare  76c23248
+Write4B 50733818
+Read
+Dec 09aa7113
+Transfer
+Read
+Information issued by Andrew Huang: 50733818 cmdC0 09aa7113 should be 46c8c705 ...
+Compare  46c8c705
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 60c295cf
+Read
+Inc 471d2b8e
+Information issued by Andrew Huang: 60c295cf cmdC1 471d2b8e should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 74b7e72c
+Read
+Dec 2be57b57
+Transfer
+Read
+Information issued by Andrew Huang: 74b7e72c cmdC0 2be57b57 should be 48d26bd5 ...
+Compare  48d26bd5
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 89904f3f
+Read
+Inc 4e7c219c
+Transfer
+Read
+Information issued by Andrew Huang: 89904f3f cmdC1 4e7c219c should be d80c70db ...
+Compare  d80c70db
+Write4B e12b13c4
+Read
+Dec 4829cf90
+Transfer
+Read
+Information issued by Andrew Huang: e12b13c4 cmdC0 4829cf90 should be 99014434 ...
+Compare  99014434
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 8588ef3a
+Read
+Inc 769d8fed
+Transfer
+Read
+Information issued by Andrew Huang: 8588ef3a cmdC1 769d8fed should be fc267f27 ...
+Compare  fc267f27
+Write4B 492f994b
+Read
+Dec 9818e630
+Transfer
+Read
+Information issued by Andrew Huang: 492f994b cmdC0 9818e630 should be 3116b31b ...
+Compare  3116b31b
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 3f6c2a69
+Read
+Inc 413d5382
+Information issued by Andrew Huang: 3f6c2a69 cmdC1 413d5382 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 9c8f927c
+Read
+Dec 67735bce
+Information issued by Andrew Huang: 9c8f927c cmdC0 67735bce should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b862102c
+Read
+Inc caf63095
+Transfer
+Read
+Information issued by Andrew Huang: b862102c cmdC1 caf63095 should be 035840c1 ...
+Compare  035840c1
+Write4B 3b31681c
+Read
+Dec cba9f497
+Transfer
+Read
+Information issued by Andrew Huang: 3b31681c cmdC0 cba9f497 should be ef877385 ...
+Compare  ef877385
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B c26d050c
+Read
+Inc 754b25ea
+Transfer
+Read
+Information issued by Andrew Huang: c26d050c cmdC1 754b25ea should be 37b82af6 ...
+Compare  37b82af6
+Write4B 9a3bbb58
+Read
+Dec 29d61d53
+Information issued by Andrew Huang: 9a3bbb58 cmdC0 29d61d53 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 665624b9
+Read
+Inc a65c384c
+Information issued by Andrew Huang: 665624b9 cmdC1 a65c384c should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 11ee6488
+Read
+Dec 82f9fa05
+Transfer
+Read
+Information issued by Andrew Huang: 11ee6488 cmdC0 82f9fa05 should be 0ef46a83 ...
+Compare  0ef46a83
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 41bd7b96
+Read
+Inc 19990333
+Transfer
+Read
+Information issued by Andrew Huang: 41bd7b96 cmdC1 19990333 should be 5b567ec9 ...
+Compare  5b567ec9
+Write4B 88edd3ea
+Read
+Dec 5207dba4
+Information issued by Andrew Huang: 88edd3ea cmdC0 5207dba4 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B b5a4e439
+Read
+Inc d2467aa4
+Transfer
+Read
+Information issued by Andrew Huang: b5a4e439 cmdC1 d2467aa4 should be 07eb5edd ...
+Compare  07eb5edd
+Write4B 0b3467ce
+Read
+Dec e5a214cb
+Transfer
+Read
+Information issued by Andrew Huang: 0b3467ce cmdC0 e5a214cb should be a5925303 ...
+Compare  a5925303
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f3b0195b
+Read
+Inc 4d39e19a
+Transfer
+Read
+Information issued by Andrew Huang: f3b0195b cmdC1 4d39e19a should be 40e9faf5 ...
+Compare  40e9faf5
+Write4B f9e7bc30
+Read
+Dec ce4a949c
+Transfer
+Read
+Information issued by Andrew Huang: f9e7bc30 cmdC0 ce4a949c should be ab9d2794 ...
+Compare  ab9d2794
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B dd6f83aa
+Read
+Inc a09bf441
+Transfer
+Read
+Information issued by Andrew Huang: dd6f83aa cmdC1 a09bf441 should be fe0b77eb ...
+Compare  fe0b77eb
+Write4B 7fbab92a
+Read
+Dec c7cef08f
+Transfer
+Read
+Information issued by Andrew Huang: 7fbab92a cmdC0 c7cef08f should be 37ebc89b ...
+Compare  37ebc89b
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 17fb9f8b
+Read
+Inc e23d4cc4
+Transfer
+Read
+Information issued by Andrew Huang: 17fb9f8b cmdC1 e23d4cc4 should be 7a38ec4f ...
+Compare  7a38ec4f
+Write4B f59a7899
+Read
+Dec 08eb9911
+Transfer
+Read
+Information issued by Andrew Huang: f59a7899 cmdC0 08eb9911 should be ecaedf88 ...
+Compare  ecaedf88
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B dfd83626
+Read
+Inc 8dbad21b
+Transfer
+Read
+Information issued by Andrew Huang: dfd83626 cmdC1 8dbad21b should be ed930841 ...
+Compare  ed930841
+Write4B e6c66d43
+Read
+Dec 6ed5fddd
+Information issued by Andrew Huang: e6c66d43 cmdC0 6ed5fddd should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 002be9c0
+Read
+Inc 8b7c1616
+Transfer
+Read
+Information issued by Andrew Huang: 002be9c0 cmdC1 8b7c1616 should be 0ba7ffd6 ...
+Compare  0ba7ffd6
+Write4B ae5e0dd5
+Read
+Dec 6076abc0
+Information issued by Andrew Huang: ae5e0dd5 cmdC0 6076abc0 should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B f75a1393
+Read
+Inc 31a8bd63
+Transfer
+Read
+Information issued by Andrew Huang: f75a1393 cmdC1 31a8bd63 should be 2902d0f6 ...
+Compare  2902d0f6
+Write4B 9a6d094e
+Read
+Dec ef15b2de
+Information issued by Andrew Huang: 9a6d094e cmdC0 ef15b2de should overflow ...
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 7a682dcb
+Read
+Inc b45b1668
+Information issued by Andrew Huang: 7a682dcb cmdC1 b45b1668 should overflow ...
+Request0
+AntiColl
+Select
+Authen
+Write4B 6998b811
+Read
+Dec 1b406f36
+Transfer
+Read
+Information issued by Andrew Huang: 6998b811 cmdC0 1b406f36 should be 4e5848db ...
+Compare  4e5848db
+Reset
+Request0
+AntiColl
+Select
+Authen
+Read
+Write4B 8a0c72be
+Read
+Inc 7ad73bf5
+Transfer
+Read
+Information issued by Andrew Huang: 8a0c72be cmdC1 7ad73bf5 should be 04e3aeb3 ...
+Compare  04e3aeb3
+Write4B 92e09836
+Read
+Dec a21bda44
+Information issued by Andrew Huang: 92e09836 cmdC0 a21bda44 should overflow ...

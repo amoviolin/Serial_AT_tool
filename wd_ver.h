@@ -1,0 +1,13 @@
+/* Copyright (C) Jungo 2003 - 2004 */
+
+#define WD_MAJOR_VER 6
+#define WD_MINOR_VER 2
+#define WD_SUB_MINOR_VER 2
+
+#define WD_MAJOR_VER_STR "6"
+#define WD_MINOR_VER_STR "2"
+#define WD_SUB_MINOR_VER_STR "2"
+
+#define WD_VERSION_STR WD_MAJOR_VER_STR "." WD_MINOR_VER_STR WD_SUB_MINOR_VER_STR
+#define WD_VER (WD_MAJOR_VER * 100 + WD_MINOR_VER * 10 + WD_SUB_MINOR_VER)
+

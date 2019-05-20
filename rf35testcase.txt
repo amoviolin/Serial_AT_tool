@@ -1,0 +1,59 @@
+Information this testcase include all operation
+SetSector 0
+SetBlock 0
+Reset 
+Request0 
+AntiColl 
+Select 
+SetKeyA FFFFFFFFFFFF
+Authen 
+Read 
+SetSector 1
+SetBlock 0
+Reset 
+Request0 
+AntiColl 
+Select 
+SetKeyA FFFFFFFFFFFF
+Authen 
+Read 
+Reset 
+SetBlock 1
+SetSector 1
+Request0 
+AntiColl 
+Select 
+SetKeyA ffffffffffff
+Authen 
+Read 
+Write4B 00010203
+Read 
+Compare4B 00010203
+Inc 03
+Read 
+Dec 02
+Read 
+Restore 
+Transfer 
+Read 
+Write16B 000102030405060708090a0b0c0d0e0f
+Read 
+Compare16B 000102030405060708090a0b0c0d0e0f
+Reset 
+SetBlock 3
+SetSector 12
+Request0 
+AntiColl 
+Select 
+SetKeyA ffffffffffff
+Authen 
+Read 
+Information :ModifyBlock3's content is keya(H->L)+keyb(H->L)+4bytes(Block0--Block3) 
+Information :Block0(---C10C20C30)Block1(---C11C21C31)Block2(---C12C22C32)Block3(---C13C23C33)
+ModifyBlock3 ffffffffffffffffffffffff00000001
+Read 
+Information :CompareBlock3 command will compare the read content of block3 
+Information :with previous ModifyBlock3 content
+CompareBlock3 
+Read 
+Halt 

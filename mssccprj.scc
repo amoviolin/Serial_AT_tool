@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[RfCard.dsp]
+SCC_Aux_Path = "\\sh-dc2\VSS\"
+SCC_Project_Name = "$/EEPROM/EE AVT System/Code/AP", NBSAAAAA
+
+[RfCard.dsw]
+SCC_Aux_Path = "\\sh-dc2\VSS\"
+SCC_Project_Name = "$/EEPROM/EE AVT System/Code/AP", NBSAAAAA
